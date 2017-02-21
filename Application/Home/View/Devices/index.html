@@ -1,0 +1,36 @@
+<extend name="Public/layout" />
+<block name="content">
+    <div class="page-content">
+        <h1>设备</h1>
+        <div class="btn-set btn-right add-new-device"><a class="btn btn-add" href="/devices/newpage">添加设备</a></div>
+        <div class="page">
+            <{$page}>
+        </div>
+        <table class="grid-table">
+            <thead>
+                <tr>
+                    <th>ID</th>
+                    <th>设备图</th>
+                    <th>设备序列号(uuid)</th>
+                    <th>标题</th>
+                    <th>正在使用的用户</th>
+                    <th>编辑</th>
+                </tr>
+            </thead>
+            <tbody>
+                <volist name="list" id="device">
+                    <tr>
+                        <td> <{$device.id}> </td>
+                        <td> <img src="<{$device.thumbnail}>" style="width:50px;" /> </td>
+                        <td> <{$device.uuid}> </td>
+                        <td> <{$device.title}> </td>
+                        <td> <{$device.lock_username}> </td>
+                        <td>
+                            <a href="/devices/edit/id/<{$device.id}>"><i class="fa fa-2x fa-pencil-square-o" aria-hidden="true"></i></a>
+                        </td>
+                    </tr>
+                </volist>
+            </tbody>
+        </table>
+    </div>
+</block>

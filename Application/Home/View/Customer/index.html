@@ -1,0 +1,40 @@
+<extend name="Public/layout" />
+<block name="content">
+    <div class="page-content">
+        <h1>用户</h1>
+        <!-- <div class="btn-set btn-right add-new-device"><a class="btn btn-add" href="#">Add Device</a></div> -->
+        <div class="page">
+            <{$page}>
+        </div>
+        <table class="grid-table">
+            <thead>
+                <tr>
+                    <th>ID</th>
+                    <th>用户名</th>
+                    <th>用户来源</th>
+                    <th>编辑</th>
+                </tr>
+            </thead>
+            <tbody>
+                <volist name="list" id="customer">
+                    <tr>
+                        <td> <{$customer.uid}> </td>
+                        <td> <{$customer.username}> </td>
+                        <td>
+                            <switch name="customer.user_type">
+                                <case value="0">注册用户</case>
+                                <case value="1">微信用户</case>
+                                <default />注册用户
+                            </switch>
+                        </td>
+                        <td>
+                            <if condition="$customer.user_type eq 0 ">
+                                <a href="/customer/edit/id/<{$customer.uid}>"><i class="fa fa-2x fa-pencil-square-o" aria-hidden="true"></i></a>
+                            </if>
+                        </td>
+                    </tr>
+                </volist>
+            </tbody>
+        </table>
+    </div>
+</block>

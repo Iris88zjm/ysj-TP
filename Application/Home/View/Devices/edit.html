@@ -1,0 +1,35 @@
+<extend name="Public/layout" />
+<block name="content">
+    <div class="page-content edit-device">
+        <h1>编辑设备(uuid: <{$device.uuid}>)</h1>
+
+        <div class="new-message"></div>
+        <form action="" method="post" role="form" data-toggle="validator">
+            <div class="form-holder">
+                <!-- <div class="entry form-group">
+                    <label for="uuid">设备序列号(uuid)</label>
+                    <input type="text" name="uuid" id="uuid" placeholder="" value="<{$device.uuid}>" required data-error="Uuid is invalid." />
+                    <div class="help-block with-errors"></div>
+                </div> -->
+                <div class="entry form-group">
+                    <label for="title">标题</label>
+                    <input type="text" name="title" id="title" placeholder="" value="<{$device.title}>" />
+                    <div class="help-block with-errors"></div>
+                </div>
+                <div class="entry form-group">
+                    <label for="thumbnail">图片地址</label>
+                    <input type="text" name="thumbnail" id="thumbnail" placeholder="http://..." required pattern="[a-zA-z]+://[^\s]*" data-error="Thumbnail is invalid." value="<{$device.thumbnail}>" />
+                    <div class="help-block with-errors"></div>
+                </div>
+                <div class="entry form-group">
+                    <label for="description">设备描述</label>
+                    <textarea name="description" id="description"><{$device.description}></textarea>
+                    <div class="help-block with-errors"></div>
+                </div>
+                <input type="hidden" name="id" value="<{$device.id}>" />
+            </div>
+            <div class="btn-set btn-right">
+                <a href="#" class="btn btn-add">保存</a>
+            </div>
+        </form>
+</block>

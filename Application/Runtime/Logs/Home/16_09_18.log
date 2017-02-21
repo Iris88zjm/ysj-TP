@@ -1,0 +1,73 @@
+[ 2016-09-18T09:51:05+08:00 ] 127.0.0.1 /Index/loginpost
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000018s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000052s ]
+SQL: SHOW COLUMNS FROM `yh_admin` [ RunTime:0.0021s ]
+SQL: SELECT * FROM `yh_admin` WHERE `password` = '5416d7cd6ef195a0f7622a9c56b55e84' LIMIT 1   [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `yh_admin` [ RunTime:0.0002s ]
+SQL: SELECT * FROM `yh_admin` WHERE `id` = '1' LIMIT 1   [ RunTime:0.0001s ]
+
+[ 2016-09-18T14:18:36+08:00 ] 127.0.0.1 /Index/loginpost
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000018s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000060s ]
+SQL: SHOW COLUMNS FROM `yh_admin` [ RunTime:0.0003s ]
+SQL: SELECT * FROM `yh_admin` WHERE `password` = '5416d7cd6ef195a0f7622a9c56b55e84' LIMIT 1   [ RunTime:0.0001s ]
+SQL: SHOW COLUMNS FROM `yh_admin` [ RunTime:0.0002s ]
+SQL: SELECT * FROM `yh_admin` WHERE `id` = '1' LIMIT 1   [ RunTime:0.0001s ]
+
+[ 2016-09-18T14:22:45+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-18T14:23:11+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-18T14:24:45+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-18T15:29:59+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-18T15:30:06+08:00 ] 127.0.0.1 /Index/loginpost
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000017s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000061s ]
+SQL: SHOW COLUMNS FROM `yh_admin` [ RunTime:0.0003s ]
+SQL: SELECT * FROM `yh_admin` WHERE `password` = '177d94029c499a4624d0d176fdeaef70' LIMIT 1   [ RunTime:0.0001s ]
+
+[ 2016-09-18T15:30:08+08:00 ] 127.0.0.1 /Index/loginpost
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000015s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000043s ]
+SQL: SHOW COLUMNS FROM `yh_admin` [ RunTime:0.0003s ]
+SQL: SELECT * FROM `yh_admin` WHERE `password` = '177d94029c499a4624d0d176fdeaef70' LIMIT 1   [ RunTime:0.0001s ]
+
+[ 2016-09-18T15:30:08+08:00 ] 127.0.0.1 /Index/loginpost
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000015s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000043s ]
+SQL: SHOW COLUMNS FROM `yh_admin` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `yh_admin` WHERE `password` = '177d94029c499a4624d0d176fdeaef70' LIMIT 1   [ RunTime:0.0001s ]
+
+[ 2016-09-18T15:30:09+08:00 ] 127.0.0.1 /Index/loginpost
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000017s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000050s ]
+SQL: SHOW COLUMNS FROM `yh_admin` [ RunTime:0.0003s ]
+SQL: SELECT * FROM `yh_admin` WHERE `password` = '177d94029c499a4624d0d176fdeaef70' LIMIT 1   [ RunTime:0.0001s ]
+
+[ 2016-09-18T15:30:13+08:00 ] 127.0.0.1 /Index/loginpost
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000015s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000046s ]
+SQL: SHOW COLUMNS FROM `yh_admin` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `yh_admin` WHERE `password` = '5416d7cd6ef195a0f7622a9c56b55e84' LIMIT 1   [ RunTime:0.0001s ]
+SQL: SHOW COLUMNS FROM `yh_admin` [ RunTime:0.0002s ]
+SQL: SELECT * FROM `yh_admin` WHERE `id` = '1' LIMIT 1   [ RunTime:0.0001s ]
+
+[ 2016-09-18T15:30:13+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-18T15:30:14+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+

@@ -1,0 +1,40 @@
+<extend name="Public/layout" />
+<block name="content">
+    <div class="page-content">
+        <h1>用户日志</h1>
+        <div class="page">
+            <{$page}>
+        </div>
+        <table class="grid-table">
+            <thead>
+                <tr>
+                    <th>ID</th>
+                    <th>用户</th>
+                    <th>行为</th>
+                    <th>IP地址</th>
+                    <th>时间</th>
+                </tr>
+            </thead>
+            <tbody>
+                <volist name="list" id="history">
+                    <tr>
+                        <td> <{$history.id}> </td>
+                        <td> <{$history.username}> </td>
+                        <td>
+                            <switch name="history.curd">
+                                <case value="1"><{$history.table_name}>增加了一条数据, ID为<{$history.after_handle.id}></case>
+                                <case value="2"><{$history.table_name}>修改了一条数据, ID为<{$history.after_handle.id}></case>
+                                <case value="3"><{$history.table_name}>读取</case>
+                                <case value="4"><{$history.table_name}>删除了一条数据, ID为<{$history.after_handle.id}></case>
+                                <default />default
+                            </switch>
+                        </td>
+                        <td> <{$history.ip}> </td>
+                        <td> <{$history.createdat}> </td>
+                        <!-- <php>var_dump($history['diff']);</php> -->
+                    </tr>
+                </volist>
+            </tbody>
+        </table>
+    </div>
+</block>

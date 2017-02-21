@@ -1,0 +1,1191 @@
+[ 2016-08-31T10:01:27+08:00 ] 127.0.0.1 /Index/loginpost
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000017s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000051s ]
+SQL: SHOW COLUMNS FROM `yh_admin` [ RunTime:0.0003s ]
+SQL: SELECT * FROM `yh_admin` WHERE `password` = '5416d7cd6ef195a0f7622a9c56b55e84' LIMIT 1   [ RunTime:0.0001s ]
+SQL: SHOW COLUMNS FROM `yh_admin` [ RunTime:0.0002s ]
+SQL: SELECT * FROM `yh_admin` WHERE `id` = '1' LIMIT 1   [ RunTime:0.0001s ]
+
+[ 2016-08-31T10:01:38+08:00 ] 127.0.0.1 /admin/image
+ERR: 不存在的图像文件
+
+[ 2016-08-31T10:27:59+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-08-31T10:34:20+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-08-31T10:34:22+08:00 ] 127.0.0.1 /customer/edit/id/82
+ERR: 模板不存在:./Application/Home/View/Customer/edit.html
+
+[ 2016-08-31T10:35:06+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-08-31T10:35:18+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-08-31T10:36:47+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-08-31T10:36:48+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-08-31T10:36:51+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-08-31T10:36:54+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-08-31T10:36:55+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-08-31T10:36:56+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-08-31T10:36:58+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-08-31T10:36:59+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-08-31T10:37:00+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-08-31T10:37:01+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-08-31T10:37:03+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-08-31T10:37:04+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-08-31T11:13:05+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-08-31T11:13:07+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-08-31T11:13:16+08:00 ] 127.0.0.1 /Index/loginpost
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000018s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000055s ]
+SQL: SHOW COLUMNS FROM `yh_admin` [ RunTime:0.0003s ]
+SQL: SELECT * FROM `yh_admin` WHERE `password` = '5416d7cd6ef195a0f7622a9c56b55e84' LIMIT 1   [ RunTime:0.0001s ]
+SQL: SHOW COLUMNS FROM `yh_admin` [ RunTime:0.0002s ]
+SQL: SELECT * FROM `yh_admin` WHERE `id` = '1' LIMIT 1   [ RunTime:0.0001s ]
+
+[ 2016-08-31T11:13:23+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-08-31T11:13:25+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-08-31T11:15:46+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-08-31T11:24:44+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-08-31T11:29:12+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-08-31T11:30:09+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-08-31T11:30:27+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-08-31T11:30:28+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-08-31T11:30:46+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-08-31T11:30:56+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-08-31T11:31:00+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-08-31T11:31:50+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-08-31T11:31:52+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-08-31T11:32:54+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-08-31T11:34:30+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-08-31T11:35:51+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-08-31T11:35:55+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-08-31T11:36:39+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-08-31T11:36:44+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-08-31T11:37:14+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-08-31T11:42:10+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-08-31T11:42:11+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-08-31T11:43:08+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-08-31T11:43:16+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-08-31T11:43:17+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-08-31T11:43:19+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-08-31T11:43:23+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-08-31T11:43:52+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-08-31T11:44:30+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-08-31T11:44:50+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-08-31T11:44:51+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-08-31T11:44:51+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-08-31T11:44:52+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-08-31T11:44:57+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-08-31T11:45:05+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-08-31T11:45:07+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-08-31T11:46:37+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-08-31T11:51:42+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-08-31T11:52:00+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-08-31T11:52:12+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-08-31T11:52:13+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-08-31T11:53:46+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-08-31T11:55:26+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-08-31T11:55:32+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-08-31T11:55:38+08:00 ] 127.0.0.1 /Index/loginpost
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000017s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000050s ]
+SQL: SHOW COLUMNS FROM `yh_admin` [ RunTime:0.0003s ]
+SQL: SELECT * FROM `yh_admin` WHERE `password` = '5416d7cd6ef195a0f7622a9c56b55e84' LIMIT 1   [ RunTime:0.0001s ]
+SQL: SHOW COLUMNS FROM `yh_admin` [ RunTime:0.0002s ]
+SQL: SELECT * FROM `yh_admin` WHERE `id` = '1' LIMIT 1   [ RunTime:0.0001s ]
+
+[ 2016-08-31T11:55:41+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-08-31T11:55:43+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-08-31T11:55:50+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-08-31T11:56:03+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-08-31T11:57:29+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-08-31T11:57:38+08:00 ] 127.0.0.1 /Index/loginpost
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000015s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000045s ]
+SQL: SHOW COLUMNS FROM `yh_admin` [ RunTime:0.0003s ]
+SQL: SELECT * FROM `yh_admin` WHERE `password` = '5416d7cd6ef195a0f7622a9c56b55e84' LIMIT 1   [ RunTime:0.0001s ]
+SQL: SHOW COLUMNS FROM `yh_admin` [ RunTime:0.0002s ]
+SQL: SELECT * FROM `yh_admin` WHERE `id` = '1' LIMIT 1   [ RunTime:0.0001s ]
+
+[ 2016-08-31T11:57:40+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-08-31T11:57:43+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-08-31T11:57:43+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-08-31T11:58:08+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-08-31T12:04:30+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-08-31T14:29:49+08:00 ] 127.0.0.1 /
+ERR: syntax error, unexpected ''SESSION_OPTIONS'' (T_CONSTANT_ENCAPSED_STRING), expecting ')'
+
+[ 2016-08-31T14:30:01+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-08-31T14:30:02+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-08-31T14:30:02+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-08-31T14:30:05+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-08-31T14:30:11+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-08-31T14:30:12+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-08-31T14:30:12+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-08-31T14:30:19+08:00 ] 127.0.0.1 /Index/loginpost
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000021s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000062s ]
+SQL: SHOW COLUMNS FROM `yh_admin` [ RunTime:0.0003s ]
+SQL: SELECT * FROM `yh_admin` WHERE `password` = '5416d7cd6ef195a0f7622a9c56b55e84' LIMIT 1   [ RunTime:0.0001s ]
+SQL: SHOW COLUMNS FROM `yh_admin` [ RunTime:0.0002s ]
+SQL: SELECT * FROM `yh_admin` WHERE `id` = '1' LIMIT 1   [ RunTime:0.0001s ]
+
+[ 2016-08-31T14:30:22+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-08-31T14:37:21+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-08-31T14:37:21+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-08-31T14:39:09+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-08-31T14:39:09+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-08-31T14:39:12+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-08-31T14:39:13+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-08-31T14:39:13+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-08-31T14:49:16+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-08-31T14:49:25+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-08-31T14:49:42+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-08-31T14:49:44+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-08-31T14:49:51+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-08-31T14:50:00+08:00 ] 127.0.0.1 /Index/loginpost
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000018s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000051s ]
+SQL: SHOW COLUMNS FROM `yh_admin` [ RunTime:0.0003s ]
+SQL: SELECT * FROM `yh_admin` WHERE `password` = '5416d7cd6ef195a0f7622a9c56b55e84' LIMIT 1   [ RunTime:0.0001s ]
+SQL: SHOW COLUMNS FROM `yh_admin` [ RunTime:0.0002s ]
+SQL: SELECT * FROM `yh_admin` WHERE `id` = '1' LIMIT 1   [ RunTime:0.0001s ]
+
+[ 2016-08-31T14:50:05+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-08-31T14:50:06+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-08-31T14:50:06+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-08-31T14:50:43+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-08-31T14:52:32+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-08-31T14:56:07+08:00 ] 127.0.0.1 /devices/
+ERR: syntax error, unexpected ''name'' (T_CONSTANT_ENCAPSED_STRING), expecting ')'
+
+[ 2016-08-31T14:56:08+08:00 ] 127.0.0.1 /devices/
+ERR: syntax error, unexpected ''name'' (T_CONSTANT_ENCAPSED_STRING), expecting ')'
+
+[ 2016-08-31T15:03:09+08:00 ] 127.0.0.1 /devices/
+ERR: Class 'Think\Session\Driver\Mysql' not found
+
+[ 2016-08-31T15:03:10+08:00 ] 127.0.0.1 /devices/
+ERR: Class 'Think\Session\Driver\Mysql' not found
+
+[ 2016-08-31T15:29:10+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-08-31T15:30:02+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-08-31T15:30:57+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-08-31T15:30:58+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-08-31T15:30:58+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-08-31T15:30:59+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-08-31T15:31:02+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-08-31T15:31:03+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-08-31T15:31:03+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-08-31T15:31:03+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-08-31T15:31:04+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-08-31T15:31:04+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-08-31T15:31:04+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-08-31T15:31:32+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-08-31T15:31:32+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-08-31T15:31:32+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-08-31T15:31:40+08:00 ] 127.0.0.1 /Index/loginpost
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000018s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000059s ]
+SQL: SHOW COLUMNS FROM `yh_admin` [ RunTime:0.0003s ]
+SQL: SELECT * FROM `yh_admin` WHERE `password` = '5416d7cd6ef195a0f7622a9c56b55e84' LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `yh_admin` [ RunTime:0.0002s ]
+SQL: SELECT * FROM `yh_admin` WHERE `id` = '1' LIMIT 1   [ RunTime:0.0001s ]
+
+[ 2016-08-31T15:31:40+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-08-31T15:31:45+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-08-31T15:31:46+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-08-31T15:31:47+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-08-31T15:31:47+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-08-31T15:31:48+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-08-31T15:31:49+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-08-31T15:31:50+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-08-31T15:31:51+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-08-31T15:31:56+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-08-31T15:37:48+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-08-31T15:37:53+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-08-31T15:40:10+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-08-31T15:40:13+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-08-31T15:40:51+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-08-31T15:53:52+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-08-31T15:54:41+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-08-31T15:54:46+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-08-31T15:55:23+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-08-31T15:55:24+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-08-31T15:55:37+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-08-31T15:55:42+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-08-31T15:55:55+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-08-31T15:55:56+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-08-31T15:55:56+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-08-31T15:56:02+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-08-31T15:56:03+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-08-31T15:56:12+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-08-31T15:56:23+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-08-31T15:56:25+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-08-31T15:56:30+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-08-31T15:57:20+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-08-31T15:59:46+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-08-31T16:03:07+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-08-31T16:03:08+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-08-31T16:03:08+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-08-31T16:03:08+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-08-31T16:03:08+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-08-31T16:03:09+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-08-31T16:03:09+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-08-31T16:03:09+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-08-31T16:03:09+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-08-31T16:03:09+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-08-31T16:03:09+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-08-31T16:03:10+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-08-31T16:03:10+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-08-31T16:03:11+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-08-31T16:03:11+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-08-31T16:03:11+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-08-31T16:03:45+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-08-31T16:03:46+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-08-31T16:03:46+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-08-31T16:03:46+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-08-31T16:03:48+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-08-31T16:03:50+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-08-31T16:04:21+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-08-31T16:04:31+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-08-31T16:04:34+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-08-31T16:04:36+08:00 ] 127.0.0.1 /devices/import
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000014s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000042s ]
+SQL: SHOW COLUMNS FROM `yh_devices` [ RunTime:0.0003s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given /var/www/mqtt/ThinkPHP/Library/Think/Upload.class.php 第 170 行.
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: uuid /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1303 行.
+NOTIC: [8] Undefined index: sucess /var/www/mqtt/Application/Home/Controller/DevicesController.class.php 第 75 行.
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: uuid /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1303 行.
+NOTIC: [8] Undefined index: sucess /var/www/mqtt/Application/Home/Controller/DevicesController.class.php 第 75 行.
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: uuid /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1303 行.
+NOTIC: [8] Undefined index: sucess /var/www/mqtt/Application/Home/Controller/DevicesController.class.php 第 75 行.
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: uuid /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1303 行.
+NOTIC: [8] Undefined index: sucess /var/www/mqtt/Application/Home/Controller/DevicesController.class.php 第 75 行.
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: uuid /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1303 行.
+NOTIC: [8] Undefined index: sucess /var/www/mqtt/Application/Home/Controller/DevicesController.class.php 第 75 行.
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: uuid /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1303 行.
+NOTIC: [8] Undefined index: sucess /var/www/mqtt/Application/Home/Controller/DevicesController.class.php 第 75 行.
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: uuid /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1303 行.
+NOTIC: [8] Undefined index: sucess /var/www/mqtt/Application/Home/Controller/DevicesController.class.php 第 75 行.
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: uuid /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1303 行.
+NOTIC: [8] Undefined index: sucess /var/www/mqtt/Application/Home/Controller/DevicesController.class.php 第 75 行.
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: uuid /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1303 行.
+NOTIC: [8] Undefined index: sucess /var/www/mqtt/Application/Home/Controller/DevicesController.class.php 第 75 行.
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: uuid /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1303 行.
+NOTIC: [8] Undefined index: sucess /var/www/mqtt/Application/Home/Controller/DevicesController.class.php 第 75 行.
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: uuid /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1303 行.
+NOTIC: [8] Undefined index: sucess /var/www/mqtt/Application/Home/Controller/DevicesController.class.php 第 75 行.
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: uuid /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1303 行.
+NOTIC: [8] Undefined index: sucess /var/www/mqtt/Application/Home/Controller/DevicesController.class.php 第 75 行.
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: uuid /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1303 行.
+NOTIC: [8] Undefined index: sucess /var/www/mqtt/Application/Home/Controller/DevicesController.class.php 第 75 行.
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: uuid /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1303 行.
+NOTIC: [8] Undefined index: sucess /var/www/mqtt/Application/Home/Controller/DevicesController.class.php 第 75 行.
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: uuid /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1303 行.
+NOTIC: [8] Undefined index: sucess /var/www/mqtt/Application/Home/Controller/DevicesController.class.php 第 75 行.
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: uuid /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1303 行.
+NOTIC: [8] Undefined index: sucess /var/www/mqtt/Application/Home/Controller/DevicesController.class.php 第 75 行.
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: uuid /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1303 行.
+NOTIC: [8] Undefined index: sucess /var/www/mqtt/Application/Home/Controller/DevicesController.class.php 第 75 行.
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: uuid /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1303 行.
+NOTIC: [8] Undefined index: sucess /var/www/mqtt/Application/Home/Controller/DevicesController.class.php 第 75 行.
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: uuid /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1303 行.
+NOTIC: [8] Undefined index: sucess /var/www/mqtt/Application/Home/Controller/DevicesController.class.php 第 75 行.
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: uuid /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1303 行.
+NOTIC: [8] Undefined index: sucess /var/www/mqtt/Application/Home/Controller/DevicesController.class.php 第 75 行.
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: uuid /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1303 行.
+NOTIC: [8] Undefined index: sucess /var/www/mqtt/Application/Home/Controller/DevicesController.class.php 第 75 行.
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: uuid /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1303 行.
+NOTIC: [8] Undefined index: sucess /var/www/mqtt/Application/Home/Controller/DevicesController.class.php 第 75 行.
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: uuid /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1303 行.
+NOTIC: [8] Undefined index: sucess /var/www/mqtt/Application/Home/Controller/DevicesController.class.php 第 75 行.
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: uuid /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1303 行.
+NOTIC: [8] Undefined index: sucess /var/www/mqtt/Application/Home/Controller/DevicesController.class.php 第 75 行.
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: uuid /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1303 行.
+NOTIC: [8] Undefined index: sucess /var/www/mqtt/Application/Home/Controller/DevicesController.class.php 第 75 行.
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: uuid /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1303 行.
+NOTIC: [8] Undefined index: sucess /var/www/mqtt/Application/Home/Controller/DevicesController.class.php 第 75 行.
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: uuid /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1303 行.
+NOTIC: [8] Undefined index: sucess /var/www/mqtt/Application/Home/Controller/DevicesController.class.php 第 75 行.
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: uuid /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1303 行.
+NOTIC: [8] Undefined index: sucess /var/www/mqtt/Application/Home/Controller/DevicesController.class.php 第 75 行.
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: uuid /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1303 行.
+NOTIC: [8] Undefined index: sucess /var/www/mqtt/Application/Home/Controller/DevicesController.class.php 第 75 行.
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: uuid /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1303 行.
+NOTIC: [8] Undefined index: sucess /var/www/mqtt/Application/Home/Controller/DevicesController.class.php 第 75 行.
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: uuid /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1303 行.
+NOTIC: [8] Undefined index: sucess /var/www/mqtt/Application/Home/Controller/DevicesController.class.php 第 75 行.
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: uuid /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1303 行.
+NOTIC: [8] Undefined index: sucess /var/www/mqtt/Application/Home/Controller/DevicesController.class.php 第 75 行.
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: uuid /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1303 行.
+NOTIC: [8] Undefined index: sucess /var/www/mqtt/Application/Home/Controller/DevicesController.class.php 第 75 行.
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: uuid /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1303 行.
+NOTIC: [8] Undefined index: sucess /var/www/mqtt/Application/Home/Controller/DevicesController.class.php 第 75 行.
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: uuid /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1303 行.
+NOTIC: [8] Undefined index: sucess /var/www/mqtt/Application/Home/Controller/DevicesController.class.php 第 75 行.
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: uuid /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1303 行.
+NOTIC: [8] Undefined index: sucess /var/www/mqtt/Application/Home/Controller/DevicesController.class.php 第 75 行.
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: uuid /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1303 行.
+NOTIC: [8] Undefined index: sucess /var/www/mqtt/Application/Home/Controller/DevicesController.class.php 第 75 行.
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: uuid /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1303 行.
+NOTIC: [8] Undefined index: sucess /var/www/mqtt/Application/Home/Controller/DevicesController.class.php 第 75 行.
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: uuid /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1303 行.
+NOTIC: [8] Undefined index: sucess /var/www/mqtt/Application/Home/Controller/DevicesController.class.php 第 75 行.
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: uuid /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1303 行.
+NOTIC: [8] Undefined index: sucess /var/www/mqtt/Application/Home/Controller/DevicesController.class.php 第 75 行.
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: uuid /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1303 行.
+NOTIC: [8] Undefined index: sucess /var/www/mqtt/Application/Home/Controller/DevicesController.class.php 第 75 行.
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: uuid /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1303 行.
+NOTIC: [8] Undefined index: sucess /var/www/mqtt/Application/Home/Controller/DevicesController.class.php 第 75 行.
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: uuid /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1303 行.
+NOTIC: [8] Undefined index: sucess /var/www/mqtt/Application/Home/Controller/DevicesController.class.php 第 75 行.
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: uuid /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1303 行.
+NOTIC: [8] Undefined index: sucess /var/www/mqtt/Application/Home/Controller/DevicesController.class.php 第 75 行.
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: uuid /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1303 行.
+NOTIC: [8] Undefined index: sucess /var/www/mqtt/Application/Home/Controller/DevicesController.class.php 第 75 行.
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: uuid /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1303 行.
+NOTIC: [8] Undefined index: sucess /var/www/mqtt/Application/Home/Controller/DevicesController.class.php 第 75 行.
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: uuid /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1303 行.
+NOTIC: [8] Undefined index: sucess /var/www/mqtt/Application/Home/Controller/DevicesController.class.php 第 75 行.
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: uuid /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1303 行.
+NOTIC: [8] Undefined index: sucess /var/www/mqtt/Application/Home/Controller/DevicesController.class.php 第 75 行.
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: uuid /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1303 行.
+NOTIC: [8] Undefined index: sucess /var/www/mqtt/Application/Home/Controller/DevicesController.class.php 第 75 行.
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: uuid /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1303 行.
+NOTIC: [8] Undefined index: sucess /var/www/mqtt/Application/Home/Controller/DevicesController.class.php 第 75 行.
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: uuid /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1303 行.
+NOTIC: [8] Undefined index: sucess /var/www/mqtt/Application/Home/Controller/DevicesController.class.php 第 75 行.
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: uuid /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1303 行.
+NOTIC: [8] Undefined index: sucess /var/www/mqtt/Application/Home/Controller/DevicesController.class.php 第 75 行.
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: uuid /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1303 行.
+NOTIC: [8] Undefined index: sucess /var/www/mqtt/Application/Home/Controller/DevicesController.class.php 第 75 行.
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: uuid /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1303 行.
+NOTIC: [8] Undefined index: sucess /var/www/mqtt/Application/Home/Controller/DevicesController.class.php 第 75 行.
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: uuid /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1303 行.
+NOTIC: [8] Undefined index: sucess /var/www/mqtt/Application/Home/Controller/DevicesController.class.php 第 75 行.
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: uuid /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1303 行.
+NOTIC: [8] Undefined index: sucess /var/www/mqtt/Application/Home/Controller/DevicesController.class.php 第 75 行.
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: uuid /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1303 行.
+NOTIC: [8] Undefined index: sucess /var/www/mqtt/Application/Home/Controller/DevicesController.class.php 第 75 行.
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: uuid /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1303 行.
+NOTIC: [8] Undefined index: sucess /var/www/mqtt/Application/Home/Controller/DevicesController.class.php 第 75 行.
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: uuid /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1303 行.
+NOTIC: [8] Undefined index: sucess /var/www/mqtt/Application/Home/Controller/DevicesController.class.php 第 75 行.
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: uuid /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1303 行.
+NOTIC: [8] Undefined index: sucess /var/www/mqtt/Application/Home/Controller/DevicesController.class.php 第 75 行.
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: uuid /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1303 行.
+NOTIC: [8] Undefined index: sucess /var/www/mqtt/Application/Home/Controller/DevicesController.class.php 第 75 行.
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: uuid /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1303 行.
+NOTIC: [8] Undefined index: sucess /var/www/mqtt/Application/Home/Controller/DevicesController.class.php 第 75 行.
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: uuid /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1303 行.
+NOTIC: [8] Undefined index: sucess /var/www/mqtt/Application/Home/Controller/DevicesController.class.php 第 75 行.
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: uuid /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1303 行.
+NOTIC: [8] Undefined index: sucess /var/www/mqtt/Application/Home/Controller/DevicesController.class.php 第 75 行.
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: uuid /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1303 行.
+NOTIC: [8] Undefined index: sucess /var/www/mqtt/Application/Home/Controller/DevicesController.class.php 第 75 行.
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: uuid /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1303 行.
+NOTIC: [8] Undefined index: sucess /var/www/mqtt/Application/Home/Controller/DevicesController.class.php 第 75 行.
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: uuid /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1303 行.
+NOTIC: [8] Undefined index: sucess /var/www/mqtt/Application/Home/Controller/DevicesController.class.php 第 75 行.
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: uuid /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1303 行.
+NOTIC: [8] Undefined index: sucess /var/www/mqtt/Application/Home/Controller/DevicesController.class.php 第 75 行.
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: uuid /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1303 行.
+NOTIC: [8] Undefined index: sucess /var/www/mqtt/Application/Home/Controller/DevicesController.class.php 第 75 行.
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: uuid /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1303 行.
+NOTIC: [8] Undefined index: sucess /var/www/mqtt/Application/Home/Controller/DevicesController.class.php 第 75 行.
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: uuid /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1303 行.
+NOTIC: [8] Undefined index: sucess /var/www/mqtt/Application/Home/Controller/DevicesController.class.php 第 75 行.
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: uuid /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1303 行.
+NOTIC: [8] Undefined index: sucess /var/www/mqtt/Application/Home/Controller/DevicesController.class.php 第 75 行.
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: uuid /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1303 行.
+NOTIC: [8] Undefined index: sucess /var/www/mqtt/Application/Home/Controller/DevicesController.class.php 第 75 行.
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: uuid /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1303 行.
+NOTIC: [8] Undefined index: sucess /var/www/mqtt/Application/Home/Controller/DevicesController.class.php 第 75 行.
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: uuid /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1303 行.
+NOTIC: [8] Undefined index: sucess /var/www/mqtt/Application/Home/Controller/DevicesController.class.php 第 75 行.
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: uuid /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1303 行.
+NOTIC: [8] Undefined index: sucess /var/www/mqtt/Application/Home/Controller/DevicesController.class.php 第 75 行.
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: uuid /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1303 行.
+NOTIC: [8] Undefined index: sucess /var/www/mqtt/Application/Home/Controller/DevicesController.class.php 第 75 行.
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: uuid /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1303 行.
+NOTIC: [8] Undefined index: sucess /var/www/mqtt/Application/Home/Controller/DevicesController.class.php 第 75 行.
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: uuid /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1303 行.
+NOTIC: [8] Undefined index: sucess /var/www/mqtt/Application/Home/Controller/DevicesController.class.php 第 75 行.
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: uuid /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1303 行.
+NOTIC: [8] Undefined index: sucess /var/www/mqtt/Application/Home/Controller/DevicesController.class.php 第 75 行.
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: uuid /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1303 行.
+NOTIC: [8] Undefined index: sucess /var/www/mqtt/Application/Home/Controller/DevicesController.class.php 第 75 行.
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: uuid /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1303 行.
+NOTIC: [8] Undefined index: sucess /var/www/mqtt/Application/Home/Controller/DevicesController.class.php 第 75 行.
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: uuid /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1303 行.
+NOTIC: [8] Undefined index: sucess /var/www/mqtt/Application/Home/Controller/DevicesController.class.php 第 75 行.
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: uuid /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1303 行.
+NOTIC: [8] Undefined index: sucess /var/www/mqtt/Application/Home/Controller/DevicesController.class.php 第 75 行.
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: uuid /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1303 行.
+NOTIC: [8] Undefined index: sucess /var/www/mqtt/Application/Home/Controller/DevicesController.class.php 第 75 行.
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: uuid /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1303 行.
+NOTIC: [8] Undefined index: sucess /var/www/mqtt/Application/Home/Controller/DevicesController.class.php 第 75 行.
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: uuid /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1303 行.
+NOTIC: [8] Undefined index: sucess /var/www/mqtt/Application/Home/Controller/DevicesController.class.php 第 75 行.
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: uuid /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1303 行.
+NOTIC: [8] Undefined index: sucess /var/www/mqtt/Application/Home/Controller/DevicesController.class.php 第 75 行.
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: uuid /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1303 行.
+NOTIC: [8] Undefined index: sucess /var/www/mqtt/Application/Home/Controller/DevicesController.class.php 第 75 行.
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: uuid /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1303 行.
+NOTIC: [8] Undefined index: sucess /var/www/mqtt/Application/Home/Controller/DevicesController.class.php 第 75 行.
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: uuid /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1303 行.
+NOTIC: [8] Undefined index: sucess /var/www/mqtt/Application/Home/Controller/DevicesController.class.php 第 75 行.
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: uuid /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1303 行.
+NOTIC: [8] Undefined index: sucess /var/www/mqtt/Application/Home/Controller/DevicesController.class.php 第 75 行.
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: uuid /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1303 行.
+NOTIC: [8] Undefined index: sucess /var/www/mqtt/Application/Home/Controller/DevicesController.class.php 第 75 行.
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: uuid /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1303 行.
+NOTIC: [8] Undefined index: sucess /var/www/mqtt/Application/Home/Controller/DevicesController.class.php 第 75 行.
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: uuid /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1303 行.
+NOTIC: [8] Undefined index: sucess /var/www/mqtt/Application/Home/Controller/DevicesController.class.php 第 75 行.
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: uuid /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1303 行.
+NOTIC: [8] Undefined index: sucess /var/www/mqtt/Application/Home/Controller/DevicesController.class.php 第 75 行.
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: uuid /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1303 行.
+NOTIC: [8] Undefined index: sucess /var/www/mqtt/Application/Home/Controller/DevicesController.class.php 第 75 行.
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: uuid /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1303 行.
+NOTIC: [8] Undefined index: sucess /var/www/mqtt/Application/Home/Controller/DevicesController.class.php 第 75 行.
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: uuid /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1303 行.
+NOTIC: [8] Undefined index: sucess /var/www/mqtt/Application/Home/Controller/DevicesController.class.php 第 75 行.
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: uuid /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1303 行.
+NOTIC: [8] Undefined index: sucess /var/www/mqtt/Application/Home/Controller/DevicesController.class.php 第 75 行.
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: uuid /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1303 行.
+NOTIC: [8] Undefined index: sucess /var/www/mqtt/Application/Home/Controller/DevicesController.class.php 第 75 行.
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: uuid /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1303 行.
+NOTIC: [8] Undefined index: sucess /var/www/mqtt/Application/Home/Controller/DevicesController.class.php 第 75 行.
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: uuid /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1303 行.
+NOTIC: [8] Undefined index: sucess /var/www/mqtt/Application/Home/Controller/DevicesController.class.php 第 75 行.
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: uuid /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1303 行.
+NOTIC: [8] Undefined index: sucess /var/www/mqtt/Application/Home/Controller/DevicesController.class.php 第 75 行.
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: uuid /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1303 行.
+NOTIC: [8] Undefined index: sucess /var/www/mqtt/Application/Home/Controller/DevicesController.class.php 第 75 行.
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: uuid /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1303 行.
+NOTIC: [8] Undefined index: sucess /var/www/mqtt/Application/Home/Controller/DevicesController.class.php 第 75 行.
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: uuid /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1303 行.
+NOTIC: [8] Undefined index: sucess /var/www/mqtt/Application/Home/Controller/DevicesController.class.php 第 75 行.
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: uuid /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1303 行.
+NOTIC: [8] Undefined index: sucess /var/www/mqtt/Application/Home/Controller/DevicesController.class.php 第 75 行.
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: uuid /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1303 行.
+NOTIC: [8] Undefined index: sucess /var/www/mqtt/Application/Home/Controller/DevicesController.class.php 第 75 行.
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: uuid /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1303 行.
+NOTIC: [8] Undefined index: sucess /var/www/mqtt/Application/Home/Controller/DevicesController.class.php 第 75 行.
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: uuid /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1303 行.
+NOTIC: [8] Undefined index: sucess /var/www/mqtt/Application/Home/Controller/DevicesController.class.php 第 75 行.
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: uuid /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1303 行.
+NOTIC: [8] Undefined index: sucess /var/www/mqtt/Application/Home/Controller/DevicesController.class.php 第 75 行.
+
+[ 2016-08-31T16:04:37+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-08-31T16:07:00+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-08-31T16:07:01+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-08-31T16:07:33+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-08-31T16:07:51+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-08-31T16:07:53+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-08-31T18:06:24+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-08-31T18:17:05+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000059s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000032s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000083s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000034s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000066s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.001603s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.001631s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000024s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000046s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000021s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000042s ]
+
+[ 2016-08-31T18:17:05+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000063s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000022s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000048s ]
+ERR: 非法操作:js
+
+[ 2016-08-31T18:17:08+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-08-31T18:35:04+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-08-31T18:35:05+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-08-31T18:35:44+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-08-31T18:35:44+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-08-31T18:35:53+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-08-31T18:35:55+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-08-31T18:35:56+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-08-31T18:36:27+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-08-31T18:36:27+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-08-31T18:36:28+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-08-31T18:36:39+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-08-31T18:36:47+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-08-31T18:36:56+08:00 ] 127.0.0.1 /Index/loginpost
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000025s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000075s ]
+SQL: SHOW COLUMNS FROM `yh_admin` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `yh_admin` WHERE `password` = '5416d7cd6ef195a0f7622a9c56b55e84' LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `yh_admin` [ RunTime:0.0003s ]
+SQL: SELECT * FROM `yh_admin` WHERE `id` = '1' LIMIT 1   [ RunTime:0.0001s ]
+
+[ 2016-08-31T18:36:56+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-08-31T18:36:59+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-08-31T18:37:05+08:00 ] 127.0.0.1 /Index/loginpost
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000020s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000060s ]
+SQL: SHOW COLUMNS FROM `yh_admin` [ RunTime:0.0003s ]
+SQL: SELECT * FROM `yh_admin` WHERE `password` = '5416d7cd6ef195a0f7622a9c56b55e84' LIMIT 1   [ RunTime:0.0001s ]
+SQL: SHOW COLUMNS FROM `yh_admin` [ RunTime:0.0002s ]
+SQL: SELECT * FROM `yh_admin` WHERE `id` = '1' LIMIT 1   [ RunTime:0.0001s ]
+
+[ 2016-08-31T18:37:06+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-08-31T18:40:34+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-08-31T18:48:35+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-08-31T18:48:40+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-08-31T18:48:41+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-08-31T18:48:49+08:00 ] 127.0.0.1 /devices/newpost
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000017s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000050s ]
+NOTIC: [2] Missing argument 1 for Home\Controller\BaseController::_before_newPost() /var/www/mqtt/Application/Home/Controller/BaseController.class.php 第 15 行.
+NOTIC: [8] Undefined variable: _params /var/www/mqtt/Application/Home/Controller/BaseController.class.php 第 16 行.
+SQL: SHOW COLUMNS FROM `yh_devices` [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+SQL: SELECT * FROM `yh_devices` WHERE `uuid` = 'eeeeeeeeee' LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [8] Undefined index: auto /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1128 行.
+SQL: INSERT INTO `yh_devices` (`title`,`uuid`,`description`) VALUES ('qwewq','eeeeeeeeee','eeeeeeeeeeeeeeeeeeeee') [ RunTime:0.0001s ]
+
+[ 2016-08-31T18:51:31+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-08-31T18:51:33+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-08-31T18:51:39+08:00 ] 127.0.0.1 /devices/newpost
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000019s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000055s ]
+SQL: SHOW COLUMNS FROM `yh_devices` [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+SQL: SELECT * FROM `yh_devices` WHERE `uuid` = '11111111111111111111111111' LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [8] Undefined index: auto /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1128 行.
+SQL: INSERT INTO `yh_devices` (`title`,`uuid`,`description`) VALUES ('11','11111111111111111111111111','11111') [ RunTime:0.0002s ]
+
+[ 2016-08-31T18:58:28+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-08-31T18:58:33+08:00 ] 127.0.0.1 /devices/newpost
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000017s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000052s ]
+NOTIC: [2] Missing argument 1 for Home\Controller\BaseController::_before_newPost() /var/www/mqtt/Application/Home/Controller/BaseController.class.php 第 15 行.
+SQL: SHOW COLUMNS FROM `yh_devices` [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+SQL: SELECT * FROM `yh_devices` WHERE `uuid` = '3213213213' LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [8] Undefined index: auto /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1128 行.
+SQL: INSERT INTO `yh_devices` (`title`,`uuid`,`description`) VALUES ('213','3213213213','13231') [ RunTime:0.0001s ]
+
+[ 2016-08-31T18:59:35+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-08-31T18:59:36+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-08-31T18:59:37+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-08-31T18:59:49+08:00 ] 127.0.0.1 /devices/newpost
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000018s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000050s ]
+SQL: SHOW COLUMNS FROM `yh_devices` [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+SQL: SELECT * FROM `yh_devices` WHERE `uuid` = '33333333333333333333' LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [8] Undefined index: auto /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1128 行.
+SQL: INSERT INTO `yh_devices` (`title`,`uuid`,`description`) VALUES ('1','33333333333333333333','333333333333333333333333333333') [ RunTime:0.0001s ]
+
+[ 2016-08-31T19:01:03+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-08-31T19:01:12+08:00 ] 127.0.0.1 /devices/newpost
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000018s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000051s ]
+SQL: SHOW COLUMNS FROM `yh_devices` [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+SQL: SELECT * FROM `yh_devices` WHERE `uuid` = 'dad' LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [8] Undefined index: auto /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1128 行.
+SQL: INSERT INTO `yh_devices` (`title`,`uuid`,`description`) VALUES ('dada','dad','dddddddddddddddddddd') [ RunTime:0.0001s ]
+
+[ 2016-08-31T19:03:55+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-08-31T19:05:23+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-08-31T19:05:27+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-08-31T19:05:33+08:00 ] 127.0.0.1 /devices/newpost
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000018s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000049s ]
+SQL: SHOW COLUMNS FROM `yh_devices` [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+SQL: SELECT * FROM `yh_devices` WHERE `uuid` = '24234' LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [8] Undefined index: auto /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1128 行.
+SQL: INSERT INTO `yh_devices` (`title`,`uuid`,`description`) VALUES ('234234','24234','2342342423423') [ RunTime:0.0001s ]
+
+[ 2016-08-31T19:06:09+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-08-31T19:06:16+08:00 ] 127.0.0.1 /devices/newpost
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000018s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000051s ]
+SQL: SHOW COLUMNS FROM `yh_devices` [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+SQL: SELECT * FROM `yh_devices` WHERE `uuid` = '214214214214214' LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [8] Undefined index: auto /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1128 行.
+SQL: INSERT INTO `yh_devices` (`title`,`uuid`,`description`) VALUES ('wqeqwe','214214214214214','2341221wqeq') [ RunTime:0.0001s ]
+
+[ 2016-08-31T19:08:28+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-08-31T19:09:12+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-08-31T19:09:20+08:00 ] 127.0.0.1 /devices/newpost
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000019s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000073s ]
+SQL: SHOW COLUMNS FROM `yh_devices` [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+SQL: SELECT * FROM `yh_devices` WHERE `uuid` = '44444444444444444444444444444444444444' LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [8] Undefined index: auto /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1128 行.
+SQL: INSERT INTO `yh_devices` (`title`,`uuid`,`description`) VALUES ('eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee','44444444444444444444444444444444444444','') [ RunTime:0.0002s ]
+NOTIC: [8] Undefined variable: _result /var/www/mqtt/Application/Home/Controller/BaseController.class.php 第 17 行.
+

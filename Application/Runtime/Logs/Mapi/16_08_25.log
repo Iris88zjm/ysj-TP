@@ -1,0 +1,3 @@
+[ 2016-08-25T19:47:19+08:00 ] 127.0.0.1 /mapi/customer/createpost
+ERR: Call to a member function customerCreate() on null
+

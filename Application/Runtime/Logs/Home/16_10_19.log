@@ -1,0 +1,198 @@
+[ 2016-10-19T15:45:43+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-10-19T15:45:53+08:00 ] 127.0.0.1 /Index/loginpost
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000017s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000052s ]
+SQL: SHOW COLUMNS FROM `yh_admin` [ RunTime:0.0003s ]
+SQL: SELECT * FROM `yh_admin` WHERE `password` = '5416d7cd6ef195a0f7622a9c56b55e84' LIMIT 1   [ RunTime:0.0001s ]
+SQL: SHOW COLUMNS FROM `yh_admin` [ RunTime:0.0002s ]
+SQL: SELECT * FROM `yh_admin` WHERE `id` = '1' LIMIT 1   [ RunTime:0.0001s ]
+
+[ 2016-10-19T15:45:53+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-10-19T15:47:43+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-10-19T15:47:44+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-10-19T15:47:45+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-10-19T15:47:45+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-10-19T15:47:46+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-10-19T15:48:03+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-10-19T15:48:03+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-10-19T15:48:04+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-10-19T15:48:06+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-10-19T15:48:07+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-10-19T15:48:38+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-10-19T15:48:39+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-10-19T15:48:41+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-10-19T15:48:47+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-10-19T15:48:48+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-10-19T15:48:49+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-10-19T15:48:50+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-10-19T15:48:52+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-10-19T15:50:24+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-10-19T15:50:28+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-10-19T15:51:45+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-10-19T15:51:46+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-10-19T16:05:37+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-10-19T16:05:39+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-10-19T16:05:46+08:00 ] 127.0.0.1 /Index/loginpost
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000017s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000048s ]
+SQL: SHOW COLUMNS FROM `yh_admin` [ RunTime:0.0003s ]
+SQL: SELECT * FROM `yh_admin` WHERE `password` = '5416d7cd6ef195a0f7622a9c56b55e84' LIMIT 1   [ RunTime:0.0001s ]
+SQL: SHOW COLUMNS FROM `yh_admin` [ RunTime:0.0002s ]
+SQL: SELECT * FROM `yh_admin` WHERE `id` = '1' LIMIT 1   [ RunTime:0.0001s ]
+
+[ 2016-10-19T16:05:46+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-10-19T16:05:49+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-10-19T16:06:30+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-10-19T16:06:33+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-10-19T16:06:46+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-10-19T16:06:48+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-10-19T16:06:52+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-10-19T16:06:59+08:00 ] 127.0.0.1 /Index/loginpost
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000015s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000046s ]
+SQL: SHOW COLUMNS FROM `yh_admin` [ RunTime:0.0003s ]
+SQL: SELECT * FROM `yh_admin` WHERE `password` = '5416d7cd6ef195a0f7622a9c56b55e84' LIMIT 1   [ RunTime:0.0001s ]
+SQL: SHOW COLUMNS FROM `yh_admin` [ RunTime:0.0002s ]
+SQL: SELECT * FROM `yh_admin` WHERE `id` = '1' LIMIT 1   [ RunTime:0.0001s ]
+
+[ 2016-10-19T16:07:00+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-10-19T16:15:22+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-10-19T16:15:24+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-10-19T16:15:27+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-10-19T16:15:28+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-10-19T16:15:57+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-10-19T16:15:59+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-10-19T16:16:00+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-10-19T16:16:01+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-10-19T16:16:02+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-10-19T16:20:03+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-10-19T16:20:04+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-10-19T16:20:33+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-10-19T16:20:34+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-10-19T16:20:52+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-10-19T16:20:53+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-10-19T16:21:35+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-10-19T16:21:38+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-10-19T16:22:02+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-10-19T16:22:03+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-10-19T16:22:12+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-10-19T16:22:13+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-10-19T16:22:15+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-10-19T16:22:16+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+

@@ -1,0 +1,21 @@
+[ 2016-12-21T15:05:04+08:00 ] 127.0.0.1 /mapi/customer/sendcode
+ERR: syntax error, unexpected ';', expecting ',' or ')'
+
+[ 2016-12-21T15:05:21+08:00 ] 127.0.0.1 /mapi/customer/sendcode
+ERR: syntax error, unexpected '}'
+
+[ 2016-12-21T15:05:26+08:00 ] 127.0.0.1 /mapi/customer/sendcode
+ERR: syntax error, unexpected ';', expecting ',' or ')'
+
+[ 2016-12-21T15:05:31+08:00 ] 127.0.0.1 /mapi/customer/sendcode
+ERR: syntax error, unexpected ';', expecting ',' or ')'
+
+[ 2016-12-21T15:05:39+08:00 ] 127.0.0.1 /mapi/customer/sendcode
+ERR: syntax error, unexpected ';', expecting ',' or ')'
+
+[ 2016-12-21T15:05:44+08:00 ] 127.0.0.1 /mapi/customer/sendcode
+ERR: syntax error, unexpected ';', expecting ',' or ')'
+
+[ 2016-12-21T15:06:18+08:00 ] 127.0.0.1 /mapi/customer/sendcode
+ERR: syntax error, unexpected ';', expecting ',' or ')'
+

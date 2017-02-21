@@ -1,0 +1,12 @@
+[ 2016-08-16T11:04:02+08:00 ] 127.0.0.1 /index.php/mapi/customer/login
+ERR: 非法操作:login
+
+[ 2016-08-16T11:04:18+08:00 ] 127.0.0.1 /index.php/mapi/customer/loginpost
+ERR: Think\Model:logIn方法不存在！
+
+[ 2016-08-16T11:04:23+08:00 ] 127.0.0.1 /index.php/mapi/customer/loginpost
+ERR: Think\Model:logIn方法不存在！
+
+[ 2016-08-16T11:07:52+08:00 ] 127.0.0.1 /index.php/mapi/customer/loginout
+ERR: 非法操作:loginout
+

@@ -1,0 +1,81 @@
+[ 2016-11-30T18:55:54+08:00 ] 192.168.2.104 /index.php/mapi/task/startpost
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE `id` = '1255'' at line 1
+ [ SQL语句 ] : UPDATE `yh_devices` SET  WHERE `id` = '1255'
+
+[ 2016-11-30T18:56:05+08:00 ] 192.168.2.104 /index.php/mapi/task/startpost
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE `id` = '1256'' at line 1
+ [ SQL语句 ] : UPDATE `yh_devices` SET  WHERE `id` = '1256'
+
+[ 2016-11-30T18:56:19+08:00 ] 192.168.2.104 /index.php/mapi/task/startpost
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE `id` = '1256'' at line 1
+ [ SQL语句 ] : UPDATE `yh_devices` SET  WHERE `id` = '1256'
+
+[ 2016-11-30T19:00:10+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets
+ERR: syntax error, unexpected ')', expecting ']'
+
+[ 2016-11-30T19:00:23+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets
+ERR: syntax error, unexpected ')', expecting ']'
+
+[ 2016-11-30T19:00:33+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets
+ERR: syntax error, unexpected ')', expecting ']'
+
+[ 2016-11-30T19:01:46+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets
+ERR: syntax error, unexpected ')', expecting ']'
+
+[ 2016-11-30T19:01:50+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets
+ERR: syntax error, unexpected ')', expecting ']'
+
+[ 2016-11-30T19:01:54+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets
+ERR: syntax error, unexpected ')', expecting ']'
+
+[ 2016-11-30T19:02:51+08:00 ] 192.168.2.103 /index.php/mapi/devices/gets
+ERR: syntax error, unexpected ')', expecting ']'
+
+[ 2016-11-30T19:02:56+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets
+ERR: syntax error, unexpected ')', expecting ']'
+
+[ 2016-11-30T19:03:00+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets
+ERR: syntax error, unexpected ')', expecting ']'
+
+[ 2016-11-30T19:03:03+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets
+ERR: syntax error, unexpected ')', expecting ']'
+
+[ 2016-11-30T19:03:07+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets
+ERR: syntax error, unexpected ')', expecting ']'
+
+[ 2016-11-30T19:03:10+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets
+ERR: syntax error, unexpected ')', expecting ']'
+
+[ 2016-11-30T19:03:14+08:00 ] 192.168.2.103 /index.php/mapi/devices/gets
+ERR: syntax error, unexpected ')', expecting ']'
+
+[ 2016-11-30T19:03:14+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets
+ERR: syntax error, unexpected ')', expecting ']'
+
+[ 2016-11-30T19:03:15+08:00 ] 192.168.2.103 /index.php/mapi/devices/gets
+ERR: syntax error, unexpected ')', expecting ']'
+
+[ 2016-11-30T19:03:15+08:00 ] 192.168.2.103 /index.php/mapi/devices/gets
+ERR: syntax error, unexpected ')', expecting ']'
+
+[ 2016-11-30T19:03:15+08:00 ] 192.168.2.103 /index.php/mapi/devices/gets
+ERR: syntax error, unexpected ')', expecting ']'
+
+[ 2016-11-30T19:03:15+08:00 ] 192.168.2.103 /index.php/mapi/devices/gets
+ERR: syntax error, unexpected ')', expecting ']'
+
+[ 2016-11-30T19:03:15+08:00 ] 192.168.2.103 /index.php/mapi/devices/gets
+ERR: syntax error, unexpected ')', expecting ']'
+
+[ 2016-11-30T19:03:16+08:00 ] 192.168.2.103 /index.php/mapi/devices/gets
+ERR: syntax error, unexpected ')', expecting ']'
+
+[ 2016-11-30T19:03:16+08:00 ] 192.168.2.103 /index.php/mapi/devices/gets
+ERR: syntax error, unexpected ')', expecting ']'
+
+[ 2016-11-30T19:03:17+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets
+ERR: syntax error, unexpected ')', expecting ']'
+
+[ 2016-11-30T19:03:20+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets
+ERR: syntax error, unexpected ')', expecting ']'
+

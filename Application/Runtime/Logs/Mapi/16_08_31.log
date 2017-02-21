@@ -1,0 +1,72 @@
+[ 2016-08-31T10:28:21+08:00 ] 127.0.0.1 /mapi/customer/createpost
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000016s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000047s ]
+SQL: SHOW COLUMNS FROM `yh_customer` [ RunTime:0.0004s ]
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+SQL: SELECT * FROM `yh_customer` WHERE `username` = '13510221212' LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-08-31T10:28:39+08:00 ] 127.0.0.1 /mapi/customer/createpost
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000023s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000065s ]
+SQL: SHOW COLUMNS FROM `yh_customer` [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+SQL: SELECT * FROM `yh_customer` WHERE `username` = '13510221299' LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [8] Undefined index: auto /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1128 行.
+SQL: INSERT INTO `yh_customer` (`password`,`username`,`user_registered`) VALUES ('5416d7cd6ef195a0f7622a9c56b55e84','13510221299','1472610519') [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `yh_customer` [ RunTime:0.0003s ]
+SQL: SELECT * FROM `yh_customer` WHERE `id` = '82' LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-08-31T15:45:22+08:00 ] 192.168.2.102 /index.php/mapi/customer/createpost
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE `id` = '1'' at line 1
+ [ SQL语句 ] : UPDATE `yh_customer` SET  WHERE `id` = '1'
+
+[ 2016-08-31T15:46:03+08:00 ] 192.168.2.102 /index.php/mapi/customer/createpost
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE `id` = '2'' at line 1
+ [ SQL语句 ] : UPDATE `yh_customer` SET  WHERE `id` = '2'
+
+[ 2016-08-31T15:46:48+08:00 ] 192.168.2.102 /index.php/mapi/customer/createpost
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE `id` = '3'' at line 1
+ [ SQL语句 ] : UPDATE `yh_customer` SET  WHERE `id` = '3'
+
+[ 2016-08-31T15:47:10+08:00 ] 192.168.2.102 /index.php/mapi/customer/createpost
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE `id` = '4'' at line 1
+ [ SQL语句 ] : UPDATE `yh_customer` SET  WHERE `id` = '4'
+
+[ 2016-08-31T15:48:21+08:00 ] 192.168.2.102 /index.php/mapi/customer/createpost
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE `id` = '5'' at line 1
+ [ SQL语句 ] : UPDATE `yh_customer` SET  WHERE `id` = '5'
+
+[ 2016-08-31T16:22:12+08:00 ] 192.168.2.100 /index.php/mapi/customer/createpost
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE `id` = '6'' at line 1
+ [ SQL语句 ] : UPDATE `yh_customer` SET  WHERE `id` = '6'
+
+[ 2016-08-31T16:24:06+08:00 ] 192.168.2.100 /index.php/mapi/customer/createpost
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE `id` = '7'' at line 1
+ [ SQL语句 ] : UPDATE `yh_customer` SET  WHERE `id` = '7'
+
+[ 2016-08-31T16:24:37+08:00 ] 192.168.2.100 /index.php/mapi/customer/createpost
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE `id` = '8'' at line 1
+ [ SQL语句 ] : UPDATE `yh_customer` SET  WHERE `id` = '8'
+
+[ 2016-08-31T16:25:36+08:00 ] 192.168.2.106 /index.php/mapi/customer/createpost
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE `id` = '9'' at line 1
+ [ SQL语句 ] : UPDATE `yh_customer` SET  WHERE `id` = '9'
+
+[ 2016-08-31T16:26:40+08:00 ] 192.168.2.106 /index.php/mapi/customer/createpost
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE `id` = '10'' at line 1
+ [ SQL语句 ] : UPDATE `yh_customer` SET  WHERE `id` = '10'
+
+[ 2016-08-31T16:27:01+08:00 ] 192.168.2.106 /index.php/mapi/customer/createpost
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE `id` = '11'' at line 1
+ [ SQL语句 ] : UPDATE `yh_customer` SET  WHERE `id` = '11'
+
+[ 2016-08-31T16:27:51+08:00 ] 192.168.2.102 /index.php/mapi/customer/createpost
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE `id` = '12'' at line 1
+ [ SQL语句 ] : UPDATE `yh_customer` SET  WHERE `id` = '12'
+
+[ 2016-08-31T16:28:54+08:00 ] 192.168.2.100 /index.php/mapi/customer/createpost
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE `id` = '13'' at line 1
+ [ SQL语句 ] : UPDATE `yh_customer` SET  WHERE `id` = '13'
+

@@ -1,0 +1,4 @@
+[ 2016-08-24T18:03:55+08:00 ] 127.0.0.1 /mapi/customer/createpost
+ERR: 1364:Field 'email' doesn't have a default value
+ [ SQL语句 ] : INSERT INTO `yh_customer` (`password`,`system_type`,`user_registered`) VALUES ('3fde6bb0541387e4ebdadf7c2ff31123','1','1472033035')
+

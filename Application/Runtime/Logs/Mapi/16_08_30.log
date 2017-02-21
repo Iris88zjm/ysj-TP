@@ -1,0 +1,83 @@
+[ 2016-08-30T12:17:45+08:00 ] 127.0.0.1 /mapi/customer/createpost
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000018s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000053s ]
+SQL: SHOW COLUMNS FROM `yh_customer` [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+NOTIC: [2] preg_match(): No ending delimiter '^' found /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1117 行.
+
+[ 2016-08-30T12:19:05+08:00 ] 127.0.0.1 /mapi/customer/createpost
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000018s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000061s ]
+SQL: SHOW COLUMNS FROM `yh_customer` [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+SQL: SELECT * FROM `yh_customer` WHERE `username` = '13599999999' LIMIT 1   [ RunTime:0.0001s ]
+NOTIC: [8] Undefined index: password /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1303 行.
+
+[ 2016-08-30T16:16:10+08:00 ] 127.0.0.1 /mapi/customer/updatepost
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000017s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000050s ]
+SQL: SHOW COLUMNS FROM `yh_customer` [ RunTime:0.0004s ]
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: username /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1303 行.
+
+[ 2016-08-30T16:18:56+08:00 ] 127.0.0.1 /mapi/customer/updatepost
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000016s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000047s ]
+SQL: SHOW COLUMNS FROM `yh_customer` [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: repassword /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1303 行.
+
+[ 2016-08-30T16:19:26+08:00 ] 127.0.0.1 /mapi/customer/updatepost
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000018s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000049s ]
+SQL: SHOW COLUMNS FROM `yh_customer` [ RunTime:0.0003s ]
+SQL: UPDATE `yh_customer` SET `password`='5416d7cd6ef195a0f7622a9c56b55e84' WHERE `id` = '51' [ RunTime:0.0002s ]
+
+[ 2016-08-30T16:46:52+08:00 ] 192.168.2.102 /index.php/mapi/customer/logoutpost
+ERR: 非法操作:logoutpost
+
+[ 2016-08-30T17:02:52+08:00 ] 192.168.2.102 /index.php/mapi/customer/
+ERR: 非法操作:index
+
+[ 2016-08-30T17:03:16+08:00 ] 192.168.2.102 /index.php/mapi/customer/
+ERR: 非法操作:index
+
+[ 2016-08-30T17:03:19+08:00 ] 192.168.2.102 /index.php/mapi/customer/
+ERR: 非法操作:index
+
+[ 2016-08-30T17:04:48+08:00 ] 192.168.2.102 /index.php/mapi/customer/
+ERR: 非法操作:index
+
+[ 2016-08-30T17:21:24+08:00 ] 127.0.0.1 /mapi/customer/updatepost
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000017s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000048s ]
+
+[ 2016-08-30T19:09:14+08:00 ] 127.0.0.1 /mapi/customer/createpost
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000017s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000048s ]
+SQL: SHOW COLUMNS FROM `yh_customer` [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+SQL: SELECT * FROM `yh_customer` WHERE `username` = '18666028563' LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-08-30T19:12:31+08:00 ] 127.0.0.1 /mapi/customer/createpost
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000017s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000047s ]
+SQL: SHOW COLUMNS FROM `yh_customer` [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+SQL: SELECT * FROM `yh_customer` WHERE `username` = '18666028564' LIMIT 1   [ RunTime:0.0001s ]
+
+[ 2016-08-30T19:26:32+08:00 ] 127.0.0.1 /mapi/customer/createpost
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000017s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000050s ]
+SQL: SHOW COLUMNS FROM `yh_customer` [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+SQL: SELECT * FROM `yh_customer` WHERE `username` = '15920031235' LIMIT 1   [ RunTime:0.0001s ]
+

@@ -1,0 +1,87 @@
+[ 2016-09-07T12:04:18+08:00 ] 127.0.0.1 /mapi/devices/get
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000019s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000054s ]
+NOTIC: [2] Declaration of Mapi\Controller\DevicesController::get() should be compatible with Think\Controller::get($name = '') /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `yh_customer` [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000027s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000052s ]
+
+[ 2016-09-07T12:07:53+08:00 ] 127.0.0.1 /mapi/devices/get
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000017s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000049s ]
+NOTIC: [2] Declaration of Mapi\Controller\DevicesController::get() should be compatible with Think\Controller::get($name = '') /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `yh_customer` [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: uid /var/www/mqtt/Application/Mapi/Controller/BaseController.class.php 第 18 行.
+NOTIC: [8] Undefined index: uid /var/www/mqtt/Application/Mapi/Controller/BaseController.class.php 第 18 行.
+SQL: SELECT * FROM `yh_customer` WHERE `uid` = null AND `token` = null LIMIT 1   [ RunTime:0.0001s ]
+
+[ 2016-09-07T12:09:01+08:00 ] 127.0.0.1 /mapi/devices/get
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000018s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000053s ]
+ERR: syntax error, unexpected ';', expecting ',' or ')'
+
+[ 2016-09-07T12:09:16+08:00 ] 127.0.0.1 /mapi/devices/get
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000017s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000049s ]
+NOTIC: [2] Declaration of Mapi\Controller\DevicesController::get() should be compatible with Think\Controller::get($name = '') /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `yh_customer` [ RunTime:0.0003s ]
+SQL: SELECT * FROM `yh_customer` WHERE `uid` = '2' LIMIT 1   [ RunTime:0.0001s ]
+NOTIC: [8] Undefined variable: _result /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 11 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000026s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000049s ]
+
+[ 2016-09-07T14:01:11+08:00 ] 127.0.0.1 /mapi/devices/get
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000020s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000056s ]
+NOTIC: [2] Declaration of Mapi\Controller\DevicesController::get() should be compatible with Think\Controller::get($name = '') /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `yh_customer` [ RunTime:0.0003s ]
+SQL: SELECT * FROM `yh_customer` WHERE `uid` = '2' LIMIT 1   [ RunTime:0.0001s ]
+NOTIC: [8] Undefined variable: _result /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 11 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000030s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000053s ]
+
+[ 2016-09-07T14:03:45+08:00 ] 127.0.0.1 /mapi/devices/get
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000026s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000057s ]
+NOTIC: [2] Declaration of Mapi\Controller\DevicesController::get() should be compatible with Think\Controller::get($name = '') /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `yh_customer` [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: uid /var/www/mqtt/Application/Mapi/Controller/BaseController.class.php 第 18 行.
+NOTIC: [8] Undefined index: token /var/www/mqtt/Application/Mapi/Controller/BaseController.class.php 第 18 行.
+SQL: SELECT * FROM `yh_customer` WHERE `uid` = null AND `token` = null LIMIT 1   [ RunTime:0.0001s ]
+
+[ 2016-09-07T14:15:17+08:00 ] 192.168.2.106 /index.php/mapi/customer/loginpost
+ERR: syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ',' or ')'
+
+[ 2016-09-07T17:23:52+08:00 ] 192.168.2.106 /index.php/mapi/customer/loginpost
+ERR: syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ',' or ')'
+
+[ 2016-09-07T17:24:20+08:00 ] 192.168.2.106 /index.php/mapi/customer/loginpost
+ERR: syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ',' or ')'
+
+[ 2016-09-07T17:24:36+08:00 ] 192.168.2.106 /index.php/mapi/customer/loginpost
+ERR: syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ',' or ')'
+
+[ 2016-09-07T17:25:51+08:00 ] 192.168.2.102 /index.php/mapi/customer/loginpost
+ERR: syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ',' or ')'
+
+[ 2016-09-07T17:28:06+08:00 ] 192.168.2.102 /index.php/mapi/customer/loginpost
+ERR: syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ',' or ')'
+
+[ 2016-09-07T17:29:47+08:00 ] 192.168.2.102 /index.php/mapi/customer/loginpost
+ERR: syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ',' or ')'
+
+[ 2016-09-07T17:30:33+08:00 ] 192.168.2.102 /index.php/mapi/customer/loginpost
+ERR: syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ',' or ')'
+
+[ 2016-09-07T17:31:10+08:00 ] 192.168.2.102 /index.php/mapi/customer/loginpost
+ERR: syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ',' or ')'
+

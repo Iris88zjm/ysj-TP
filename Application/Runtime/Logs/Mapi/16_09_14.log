@@ -1,0 +1,4 @@
+[ 2016-09-14T15:29:50+08:00 ] 127.0.0.1 /mapi/devices/gets
+ERR: 1052:Column 'status' in where clause is ambiguous
+ [ SQL语句 ] : SELECT yh_cdevices.id AS `cdid`,yh_cdevices.device_name,yh_devices.* FROM `yh_cdevices` INNER JOIN yh_devices ON yh_cdevices.did = yh_devices.id  WHERE `cid` = 1 AND `status` = 1 
+

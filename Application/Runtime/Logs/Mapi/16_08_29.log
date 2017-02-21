@@ -1,0 +1,118 @@
+[ 2016-08-29T11:35:16+08:00 ] 127.0.0.1 /mapi/customer/createpost
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000017s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000049s ]
+NOTIC: [8] Undefined index: username /var/www/mqtt/Application/Mapi/Controller/CustomerController.class.php 第 46 行.
+
+[ 2016-08-29T15:12:12+08:00 ] 127.0.0.1 /mapi/customer/createpost
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000018s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000049s ]
+SQL: SHOW COLUMNS FROM `yh_customer` [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: username /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1303 行.
+
+[ 2016-08-29T15:23:22+08:00 ] 192.168.2.104 /mapi/customer/loginpost
+ERR: syntax error, unexpected 'php' (T_STRING), expecting function (T_FUNCTION)
+
+[ 2016-08-29T15:23:23+08:00 ] 192.168.2.104 /mapi/customer/loginpost
+ERR: syntax error, unexpected 'php' (T_STRING), expecting function (T_FUNCTION)
+
+[ 2016-08-29T15:23:39+08:00 ] 192.168.2.104 /mapi/customer/loginpost
+ERR: syntax error, unexpected 'php' (T_STRING), expecting function (T_FUNCTION)
+
+[ 2016-08-29T15:23:44+08:00 ] 192.168.2.104 /mapi/customer/loginpost
+ERR: syntax error, unexpected 'php' (T_STRING), expecting function (T_FUNCTION)
+
+[ 2016-08-29T15:23:47+08:00 ] 192.168.2.104 /mapi/customer/loginpost
+ERR: syntax error, unexpected 'php' (T_STRING), expecting function (T_FUNCTION)
+
+[ 2016-08-29T15:24:01+08:00 ] 192.168.2.104 /mapi/customer/loginpost
+ERR: syntax error, unexpected 'php' (T_STRING), expecting function (T_FUNCTION)
+
+[ 2016-08-29T15:24:02+08:00 ] 192.168.2.104 /mapi/customer/loginpost
+ERR: syntax error, unexpected 'php' (T_STRING), expecting function (T_FUNCTION)
+
+[ 2016-08-29T15:24:02+08:00 ] 192.168.2.104 /mapi/customer/loginpost
+ERR: syntax error, unexpected 'php' (T_STRING), expecting function (T_FUNCTION)
+
+[ 2016-08-29T15:24:03+08:00 ] 192.168.2.104 /mapi/customer/loginpost
+ERR: syntax error, unexpected 'php' (T_STRING), expecting function (T_FUNCTION)
+
+[ 2016-08-29T15:24:03+08:00 ] 192.168.2.104 /mapi/customer/loginpost
+ERR: syntax error, unexpected 'php' (T_STRING), expecting function (T_FUNCTION)
+
+[ 2016-08-29T15:24:04+08:00 ] 192.168.2.104 /mapi/customer/loginpost
+ERR: syntax error, unexpected 'php' (T_STRING), expecting function (T_FUNCTION)
+
+[ 2016-08-29T15:24:59+08:00 ] 192.168.2.100 /mapi/customer/loginpost
+ERR: syntax error, unexpected 'php' (T_STRING), expecting function (T_FUNCTION)
+
+[ 2016-08-29T15:25:15+08:00 ] 192.168.2.104 /mapi/customer/loginpost
+ERR: syntax error, unexpected 'php' (T_STRING), expecting function (T_FUNCTION)
+
+[ 2016-08-29T15:25:21+08:00 ] 127.0.0.1 /mapi/customer/loginpost
+ERR: syntax error, unexpected 'php' (T_STRING), expecting function (T_FUNCTION)
+
+[ 2016-08-29T15:25:21+08:00 ] 192.168.2.104 /mapi/customer/
+ERR: syntax error, unexpected 'php' (T_STRING), expecting function (T_FUNCTION)
+
+[ 2016-08-29T15:25:35+08:00 ] 192.168.2.104 /mapi/customer/login
+ERR: 非法操作:login
+
+[ 2016-08-29T15:28:52+08:00 ] 127.0.0.1 /mapi/customer/loginpost
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000017s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000049s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000018s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000041s ]
+
+[ 2016-08-29T15:29:24+08:00 ] 127.0.0.1 /mapi/customer/loginpost
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000022s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000063s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000023s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000053s ]
+
+[ 2016-08-29T16:17:27+08:00 ] 192.168.2.103 /index.php/mapi/customer
+ERR: 非法操作:index
+
+[ 2016-08-29T16:40:36+08:00 ] 127.0.0.1 /mapi/customer/createpost
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000017s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000048s ]
+NOTIC: [8] Undefined index: username /var/www/mqtt/Application/Mapi/Controller/CustomerController.class.php 第 45 行.
+
+[ 2016-08-29T16:49:16+08:00 ] 127.0.0.1 /mapi/customer/createpost
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000016s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000046s ]
+
+[ 2016-08-29T16:53:55+08:00 ] 127.0.0.1 /mapi/customer/createpost
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000027s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000058s ]
+
+[ 2016-08-29T16:54:30+08:00 ] 127.0.0.1 /mapi/customer/createpost
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000017s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000051s ]
+
+[ 2016-08-29T17:20:58+08:00 ] 127.0.0.1 /mapi/customer/createpost
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000017s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000056s ]
+
+[ 2016-08-29T17:23:49+08:00 ] 127.0.0.1 /mapi/devices/update
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000018s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000052s ]
+ERR: 非法操作:update
+
+[ 2016-08-29T18:23:58+08:00 ] 127.0.0.1 /mapi/customer/createpost
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000018s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000050s ]
+

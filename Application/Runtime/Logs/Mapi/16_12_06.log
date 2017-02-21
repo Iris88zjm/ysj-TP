@@ -1,0 +1,134 @@
+[ 2016-12-06T10:51:38+08:00 ] 192.168.2.106 /index.php/mapi/customer/logout
+ERR: SQLSTATE[HY000] [2001] IP address '14.20.97.100' is not allowed. ConnectionId=49344361
+
+[ 2016-12-06T10:55:42+08:00 ] 192.168.2.106 /index.php/mapi/customer/logout
+ERR: SQLSTATE[HY000] [2001] IP address '14.20.97.100' is not allowed. ConnectionId=49574394
+
+[ 2016-12-06T10:56:49+08:00 ] 192.168.2.106 /index.php/mapi/customer/logout
+ERR: SQLSTATE[HY000] [2001] IP address '14.20.97.100' is not allowed. ConnectionId=49284561
+
+[ 2016-12-06T10:58:05+08:00 ] 192.168.2.106 /index.php/mapi/customer/createpost
+ERR: SQLSTATE[HY000] [2001] IP address '14.20.97.100' is not allowed. ConnectionId=49491169
+
+[ 2016-12-06T10:58:26+08:00 ] 192.168.2.103 /index.php/mapi/customer/loginpost
+ERR: SQLSTATE[HY000] [2001] IP address '14.20.97.100' is not allowed. ConnectionId=49286805
+
+[ 2016-12-06T10:58:37+08:00 ] 192.168.2.103 /index.php/mapi/customer/loginpost
+ERR: SQLSTATE[HY000] [2001] IP address '14.20.97.100' is not allowed. ConnectionId=49286879
+
+[ 2016-12-06T10:58:41+08:00 ] 192.168.2.103 /index.php/mapi/customer/loginpost
+ERR: SQLSTATE[HY000] [2001] IP address '14.20.97.100' is not allowed. ConnectionId=49288255
+
+[ 2016-12-06T10:58:58+08:00 ] 192.168.2.106 /index.php/mapi/customer/createpost
+ERR: SQLSTATE[HY000] [2001] IP address '14.20.97.100' is not allowed. ConnectionId=49287577
+
+[ 2016-12-06T10:59:03+08:00 ] 192.168.2.106 /index.php/mapi/customer/createpost
+ERR: SQLSTATE[HY000] [2001] IP address '14.20.97.100' is not allowed. ConnectionId=49288734
+
+[ 2016-12-06T11:49:58+08:00 ] 192.168.2.104 /index.php/mapi/customer/wxpost
+ERR: 1364:Field 'user_registered' doesn't have a default value
+ [ SQL语句 ] : INSERT INTO `yh_customer` (`openid`,`user_type`) VALUES ('ojy2axAz01RpuXXXujLH-4eeiQnU','1')
+
+[ 2016-12-06T11:51:35+08:00 ] 192.168.2.104 /index.php/mapi/customer/wxpost
+ERR: 1364:Field 'user_registered' doesn't have a default value
+ [ SQL语句 ] : INSERT INTO `yh_customer` (`openid`,`user_type`) VALUES ('ojy2axAz01RpuXXXujLH-4eeiQnU','1')
+
+[ 2016-12-06T11:51:47+08:00 ] 192.168.2.104 /index.php/mapi/customer/wxpost
+ERR: 1364:Field 'user_registered' doesn't have a default value
+ [ SQL语句 ] : INSERT INTO `yh_customer` (`openid`,`user_type`) VALUES ('ojy2axAz01RpuXXXujLH-4eeiQnU','1')
+
+[ 2016-12-06T11:53:10+08:00 ] 192.168.2.104 /index.php/mapi/customer/wxpost
+ERR: 1364:Field 'user_registered' doesn't have a default value
+ [ SQL语句 ] : INSERT INTO `yh_customer` (`openid`,`user_type`) VALUES ('ojy2axAz01RpuXXXujLH-4eeiQnU','1')
+
+[ 2016-12-06T11:54:09+08:00 ] 192.168.2.104 /index.php/mapi/customer/wxpost
+ERR: 1364:Field 'user_registered' doesn't have a default value
+ [ SQL语句 ] : INSERT INTO `yh_customer` (`openid`,`user_type`) VALUES ('ojy2axAz01RpuXXXujLH-4eeiQnU','1')
+
+[ 2016-12-06T11:55:40+08:00 ] 192.168.2.104 /index.php/mapi/customer/wxpost
+ERR: 1364:Field 'user_registered' doesn't have a default value
+ [ SQL语句 ] : INSERT INTO `yh_customer` (`openid`,`user_type`) VALUES ('ojy2axAz01RpuXXXujLH-4eeiQnU','1')
+
+[ 2016-12-06T11:56:48+08:00 ] 192.168.2.103 /index.php/mapi/customer/wxpost
+ERR: 1364:Field 'user_registered' doesn't have a default value
+ [ SQL语句 ] : INSERT INTO `yh_customer` (`openid`,`user_type`) VALUES (NULL,'1')
+
+[ 2016-12-06T11:57:58+08:00 ] 192.168.2.104 /index.php/mapi/customer/wxpost
+ERR: Call to a member function where() on null
+
+[ 2016-12-06T11:58:23+08:00 ] 192.168.2.103 /index.php/mapi/customer/wxpost
+ERR: Call to a member function where() on null
+
+[ 2016-12-06T11:58:58+08:00 ] 192.168.2.103 /index.php/mapi/customer/wxpost
+ERR: Call to a member function where() on null
+
+[ 2016-12-06T11:59:00+08:00 ] 192.168.2.103 /index.php/mapi/customer/wxpost
+ERR: Call to a member function where() on null
+
+[ 2016-12-06T11:59:31+08:00 ] 192.168.2.104 /index.php/mapi/customer/wxpost
+ERR: Call to a member function where() on null
+
+[ 2016-12-06T12:00:59+08:00 ] 192.168.2.104 /index.php/mapi/customer/wxpost
+ERR: syntax error, unexpected 'else' (T_ELSE), expecting function (T_FUNCTION)
+
+[ 2016-12-06T12:01:20+08:00 ] 192.168.2.103 /index.php/mapi/customer/wxpost
+ERR: syntax error, unexpected 'public' (T_PUBLIC), expecting end of file
+
+[ 2016-12-06T12:01:40+08:00 ] 192.168.2.106 /index.php/mapi/customer/wxpost
+ERR: syntax error, unexpected 'public' (T_PUBLIC), expecting end of file
+
+[ 2016-12-06T12:02:41+08:00 ] 192.168.2.104 /index.php/mapi/customer/wxpost
+ERR: Call to a member function where() on null
+
+[ 2016-12-06T12:04:18+08:00 ] 192.168.2.104 /index.php/mapi/customer/wxpost
+ERR: Call to a member function where() on null
+
+[ 2016-12-06T12:05:27+08:00 ] 192.168.2.104 /index.php/mapi/customer/wxpost
+ERR: Call to a member function where() on null
+
+[ 2016-12-06T12:07:57+08:00 ] 192.168.2.104 /index.php/mapi/customer/wxpost
+ERR: Call to a member function where() on null
+
+[ 2016-12-06T12:12:55+08:00 ] 192.168.2.104 /index.php/mapi/customer/wxpost
+ERR: Call to a member function where() on null
+
+[ 2016-12-06T12:17:13+08:00 ] 192.168.2.104 /index.php/mapi/customer/wxpost
+ERR: Call to a member function where() on null
+
+[ 2016-12-06T12:19:17+08:00 ] 192.168.2.103 /index.php/mapi/customer/wxpost?openid=312131
+ERR: Call to a member function where() on null
+
+[ 2016-12-06T12:19:49+08:00 ] 192.168.2.103 /index.php/mapi/customer/wxpost?openid=312131
+ERR: Call to a member function where() on null
+
+[ 2016-12-06T12:19:59+08:00 ] 192.168.2.103 /index.php/mapi/customer/wxpost?openid=312131
+ERR: Call to a member function where() on null
+
+[ 2016-12-06T12:46:12+08:00 ] 192.168.2.103 /index.php/mapi/customer/wxpost?openid=ojy2axAz01RpuXXXujLH-4eeiQnU
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000060s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000019s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000043s ]
+SQL: SHOW COLUMNS FROM `yh_customer` [ RunTime:0.0003s ]
+SQL: SELECT * FROM `yh_customer` WHERE `openid` = 'ojy2axAz01RpuXXXujLH-4eeiQnU' LIMIT 1   [ RunTime:0.0002s ]
+SQL: UPDATE `yh_customer` SET `token`='6eea1646f7b793b31625d76184918118' WHERE `uid` = '127' [ RunTime:0.0041s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000039s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000072s ]
+
+[ 2016-12-06T12:46:13+08:00 ] 192.168.2.103 /index.php/mapi/customer/wxpost?openid=ojy2axAz01RpuXXXujLH-4eeiQnU
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000048s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000018s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000042s ]
+SQL: SHOW COLUMNS FROM `yh_customer` [ RunTime:0.0003s ]
+SQL: SELECT * FROM `yh_customer` WHERE `openid` = 'ojy2axAz01RpuXXXujLH-4eeiQnU' LIMIT 1   [ RunTime:0.0001s ]
+SQL: UPDATE `yh_customer` SET `token`='2e8a12b4d0e191493b247316f59b8f22' WHERE `uid` = '127' [ RunTime:0.0042s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000037s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000062s ]
+

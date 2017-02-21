@@ -1,0 +1,16 @@
+[ 2016-09-28T19:00:50+08:00 ] 192.168.2.104 /index.php/mapi/task/startpost
+ERR: 1146:Table 'mqtt.yh_order' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `yh_order`
+
+[ 2016-09-28T19:02:24+08:00 ] 192.168.2.104 /index.php/mapi/task/startpost
+ERR: 1146:Table 'mqtt.yh_order' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `yh_order`
+
+[ 2016-09-28T19:02:54+08:00 ] 192.168.2.104 /index.php/mapi/task/startpost
+ERR: 1146:Table 'mqtt.yh_order' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `yh_order`
+
+[ 2016-09-28T19:03:34+08:00 ] 192.168.2.104 /index.php/mapi/task/startpost
+ERR: 1146:Table 'mqtt.yh_order' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `yh_order`
+

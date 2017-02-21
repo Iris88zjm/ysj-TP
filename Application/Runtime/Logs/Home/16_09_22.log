@@ -1,0 +1,63 @@
+[ 2016-09-22T10:54:49+08:00 ] 127.0.0.1 /Index/loginpost
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000015s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000044s ]
+SQL: SHOW COLUMNS FROM `yh_admin` [ RunTime:0.0003s ]
+SQL: SELECT * FROM `yh_admin` WHERE `password` = '5416d7cd6ef195a0f7622a9c56b55e84' LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `yh_admin` [ RunTime:0.0002s ]
+SQL: SELECT * FROM `yh_admin` WHERE `id` = '1' LIMIT 1   [ RunTime:0.0001s ]
+
+[ 2016-09-22T11:10:48+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-22T11:23:38+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-22T11:23:40+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-22T11:23:41+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-22T11:23:42+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-22T11:23:58+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-22T11:24:07+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-22T11:24:07+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-22T11:24:47+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-22T11:59:43+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-22T11:59:47+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-22T18:39:21+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-22T18:39:32+08:00 ] 127.0.0.1 /Index/loginpost
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000016s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000046s ]
+SQL: SHOW COLUMNS FROM `yh_admin` [ RunTime:0.0003s ]
+SQL: SELECT * FROM `yh_admin` WHERE `password` = '5416d7cd6ef195a0f7622a9c56b55e84' LIMIT 1   [ RunTime:0.0001s ]
+SQL: SHOW COLUMNS FROM `yh_admin` [ RunTime:0.0002s ]
+SQL: SELECT * FROM `yh_admin` WHERE `id` = '1' LIMIT 1   [ RunTime:0.0001s ]
+
+[ 2016-09-22T18:39:32+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-22T18:39:34+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-22T18:51:35+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+

@@ -1,0 +1,360 @@
+[ 2016-09-29T09:41:45+08:00 ] 192.168.2.104 /index.php/mapi/task/startpost
+ERR: 1146:Table 'mqtt.yh_order' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `yh_order`
+
+[ 2016-09-29T09:42:53+08:00 ] 192.168.2.104 /index.php/mapi/task/startpost
+ERR: 1146:Table 'mqtt.yh_order' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `yh_order`
+
+[ 2016-09-29T09:50:39+08:00 ] 192.168.2.104 /index.php/mapi/task/startpost
+ERR: 1146:Table 'mqtt.yh_order' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `yh_order`
+
+[ 2016-09-29T09:54:09+08:00 ] 192.168.2.104 /index.php/mapi/task/startpost
+ERR: 1146:Table 'mqtt.yh_order' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `yh_order`
+
+[ 2016-09-29T09:56:13+08:00 ] 192.168.2.104 /index.php/mapi/task/startpost
+ERR: 1146:Table 'mqtt.yh_order' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `yh_order`
+
+[ 2016-09-29T09:59:09+08:00 ] 192.168.2.104 /index.php/mapi/task/startpost
+ERR: 1146:Table 'mqtt.yh_order' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `yh_order`
+
+[ 2016-09-29T10:00:51+08:00 ] 192.168.2.104 /index.php/mapi/task/startpost
+ERR: 1364:Field 'id' doesn't have a default value
+ [ SQL语句 ] : INSERT INTO `yh_task` (`cid`,`did`,`start_time`,`config`,`status`) VALUES ('6','1250','12','{
+  \"temperature\" : 30,
+  \"frequency\" : \"节能\",
+  \"lightCotrol\" : \"常亮\",
+  \"color\" : \"黄色\"
+}','0')
+
+[ 2016-09-29T10:01:57+08:00 ] 192.168.2.104 /index.php/mapi/task/startpost
+ERR: 1364:Field 'id' doesn't have a default value
+ [ SQL语句 ] : INSERT INTO `yh_task` (`cid`,`did`,`start_time`,`config`,`status`) VALUES ('6','1251','12','{
+  \"temperature\" : 30,
+  \"frequency\" : \"节能\",
+  \"lightCotrol\" : \"常亮\",
+  \"color\" : \"黄色\"
+}','0')
+
+[ 2016-09-29T10:03:14+08:00 ] 192.168.2.104 /index.php/mapi/task/startpost
+ERR: 1364:Field 'id' doesn't have a default value
+ [ SQL语句 ] : INSERT INTO `yh_task` (`cid`,`did`,`start_time`,`config`,`status`) VALUES ('6','1250','12','{
+  \"temperature\" : 30,
+  \"frequency\" : \"节能\",
+  \"lightCotrol\" : \"常亮\",
+  \"color\" : \"黄色\"
+}','0')
+
+[ 2016-09-29T10:05:39+08:00 ] 192.168.2.104 /index.php/mapi/task/startpost
+ERR: 1364:Field 'id' doesn't have a default value
+ [ SQL语句 ] : INSERT INTO `yh_task` (`cid`,`did`,`start_time`,`config`,`status`) VALUES ('6','1251','12','{
+  \"temperature\" : 30,
+  \"frequency\" : \"节能\",
+  \"lightCotrol\" : \"常亮\",
+  \"color\" : \"黄色\"
+}','0')
+
+[ 2016-09-29T10:11:03+08:00 ] 192.168.2.104 /index.php/mapi/task/startpost
+ERR: 1364:Field 'id' doesn't have a default value
+ [ SQL语句 ] : INSERT INTO `yh_task` (`cid`,`did`,`start_time`,`config`,`status`) VALUES ('6','1250','12','{
+  \"temperature\" : 30,
+  \"frequency\" : \"节能\",
+  \"lightCotrol\" : \"常亮\",
+  \"color\" : \"黄色\"
+}','0')
+
+[ 2016-09-29T10:11:11+08:00 ] 192.168.2.104 /index.php/mapi/task/startpost
+ERR: 1364:Field 'id' doesn't have a default value
+ [ SQL语句 ] : INSERT INTO `yh_task` (`cid`,`did`,`start_time`,`config`,`status`) VALUES ('6','1251','12','{
+  \"temperature\" : 30,
+  \"frequency\" : \"节能\",
+  \"lightCotrol\" : \"常亮\",
+  \"color\" : \"黄色\"
+}','0')
+
+[ 2016-09-29T10:11:28+08:00 ] 192.168.2.104 /index.php/mapi/task/startpost
+ERR: 1364:Field 'id' doesn't have a default value
+ [ SQL语句 ] : INSERT INTO `yh_task` (`cid`,`did`,`start_time`,`config`,`status`) VALUES ('6','1251','12','{
+  \"temperature\" : 30,
+  \"frequency\" : \"节能\",
+  \"lightCotrol\" : \"常亮\",
+  \"color\" : \"黄色\"
+}','0')
+
+[ 2016-09-29T10:13:07+08:00 ] 192.168.2.104 /index.php/mapi/task/startpost
+ERR: 1364:Field 'id' doesn't have a default value
+ [ SQL语句 ] : INSERT INTO `yh_task` (`cid`,`did`,`start_time`,`config`,`status`) VALUES ('6','1250','12','{
+  \"temperature\" : 30,
+  \"frequency\" : \"节能\",
+  \"lightCotrol\" : \"常亮\",
+  \"color\" : \"黄色\"
+}','0')
+
+[ 2016-09-29T10:14:41+08:00 ] 127.0.0.1 /mapi/task/startpost
+ERR: 1364:Field 'id' doesn't have a default value
+ [ SQL语句 ] : INSERT INTO `yh_task` (`cid`,`did`,`start_time`,`config`,`status`) VALUES ('1','2','213','213','0')
+
+[ 2016-09-29T10:17:32+08:00 ] 192.168.2.104 /index.php/mapi/task/startpost
+ERR: syntax error, unexpected ';', expecting ')'
+
+[ 2016-09-29T10:18:03+08:00 ] 192.168.2.104 /index.php/mapi/task/startpost
+ERR: syntax error, unexpected ';', expecting ')'
+
+[ 2016-09-29T10:20:22+08:00 ] 192.168.2.104 /index.php/mapi/task/startpost
+ERR: syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ',' or ')'
+
+[ 2016-09-29T10:21:56+08:00 ] 127.0.0.1 /mapi/task/startpost
+ERR: syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ',' or ')'
+
+[ 2016-09-29T10:53:39+08:00 ] 192.168.2.106 /index.php/mapi/customer/loginpost
+ERR: syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ',' or ')'
+
+[ 2016-09-29T10:53:41+08:00 ] 192.168.2.106 /index.php/mapi/customer/loginpost
+ERR: syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ',' or ')'
+
+[ 2016-09-29T10:53:54+08:00 ] 192.168.2.106 /index.php/mapi/customer/loginpost
+ERR: syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ',' or ')'
+
+[ 2016-09-29T10:53:57+08:00 ] 192.168.2.106 /index.php/mapi/customer/loginpost
+ERR: syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ',' or ')'
+
+[ 2016-09-29T10:54:14+08:00 ] 192.168.2.106 /index.php/mapi/customer/loginpost
+ERR: syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ',' or ')'
+
+[ 2016-09-29T10:54:18+08:00 ] 192.168.2.106 /index.php/mapi/customer/loginpost
+ERR: syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ',' or ')'
+
+[ 2016-09-29T10:54:40+08:00 ] 192.168.2.106 /index.php/mapi/customer/loginpost
+ERR: syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ',' or ')'
+
+[ 2016-09-29T10:56:40+08:00 ] 192.168.2.103 /index.php/mapi/customer/loginpost/
+ERR: syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ',' or ')'
+
+[ 2016-09-29T12:03:27+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets
+ERR: 1052:Column 'cid' in where clause is ambiguous
+ [ SQL语句 ] : SELECT yh_cdevices.id AS `cdid`,yh_cdevices.device_name,yh_devices.*,yh_task.* FROM `yh_cdevices` INNER JOIN yh_devices ON yh_cdevices.did = yh_devices.id INNER JOIN yh_task ON yh_cdevices.did = yh_task.did  WHERE `cid` = '6' AND yh_cdevices.status = 1 
+
+[ 2016-09-29T12:03:31+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets
+ERR: 1052:Column 'cid' in where clause is ambiguous
+ [ SQL语句 ] : SELECT yh_cdevices.id AS `cdid`,yh_cdevices.device_name,yh_devices.*,yh_task.* FROM `yh_cdevices` INNER JOIN yh_devices ON yh_cdevices.did = yh_devices.id INNER JOIN yh_task ON yh_cdevices.did = yh_task.did  WHERE `cid` = '6' AND yh_cdevices.status = 1 
+
+[ 2016-09-29T12:04:21+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets
+ERR: 1052:Column 'cid' in where clause is ambiguous
+ [ SQL语句 ] : SELECT yh_cdevices.id AS `cdid`,yh_cdevices.device_name,yh_devices.*,yh_task.* FROM `yh_cdevices` INNER JOIN yh_devices ON yh_cdevices.did = yh_devices.id INNER JOIN yh_task ON yh_cdevices.did = yh_task.did  WHERE `cid` = '6' AND yh_cdevices.status = 1 
+
+[ 2016-09-29T12:04:23+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets
+ERR: 1052:Column 'cid' in where clause is ambiguous
+ [ SQL语句 ] : SELECT yh_cdevices.id AS `cdid`,yh_cdevices.device_name,yh_devices.*,yh_task.* FROM `yh_cdevices` INNER JOIN yh_devices ON yh_cdevices.did = yh_devices.id INNER JOIN yh_task ON yh_cdevices.did = yh_task.did  WHERE `cid` = '6' AND yh_cdevices.status = 1 
+
+[ 2016-09-29T12:05:03+08:00 ] 192.168.2.103 /index.php/mapi/devices/gets
+ERR: 1052:Column 'cid' in where clause is ambiguous
+ [ SQL语句 ] : SELECT yh_cdevices.id AS `cdid`,yh_cdevices.device_name,yh_devices.*,yh_task.* FROM `yh_cdevices` INNER JOIN yh_devices ON yh_cdevices.did = yh_devices.id INNER JOIN yh_task ON yh_cdevices.did = yh_task.did  WHERE `cid` = 6 AND yh_cdevices.status = 1 
+
+[ 2016-09-29T14:38:39+08:00 ] 192.168.2.103 /index.php/mapi/devices/get
+ERR: 1052:Column 'cid' in where clause is ambiguous
+ [ SQL语句 ] : SELECT yh_cdevices.device_name,yh_devices.*,yh_task.status,yh_task.config FROM `yh_cdevices` INNER JOIN yh_devices ON yh_cdevices.did = yh_devices.id LEFT JOIN yh_task ON yh_cdevices.did = yh_task.did  WHERE `cid` = null AND `did` = null LIMIT 1  
+
+[ 2016-09-29T14:39:09+08:00 ] 192.168.2.103 /index.php/mapi/devices/get
+ERR: 1052:Column 'did' in where clause is ambiguous
+ [ SQL语句 ] : SELECT yh_cdevices.device_name,yh_devices.*,yh_task.status,yh_task.config FROM `yh_cdevices` INNER JOIN yh_devices ON yh_cdevices.did = yh_devices.id LEFT JOIN yh_task ON yh_cdevices.did = yh_task.did  WHERE yh_cdevices.cid = 6 AND `did` = null LIMIT 1  
+
+[ 2016-09-29T15:18:51+08:00 ] 192.168.2.103 /index.php/mapi/devices/gets
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FULL JOIN yh_task ON yh_cdevices.did = yh_task.did  WHERE yh_cdevices.cid = 6 AN' at line 1
+ [ SQL语句 ] : SELECT yh_cdevices.device_name,yh_devices.*,yh_task.status,yh_task.config FROM `yh_cdevices` FULL JOIN yh_devices ON yh_cdevices.did = yh_devices.id FULL JOIN yh_task ON yh_cdevices.did = yh_task.did  WHERE yh_cdevices.cid = 6 AND yh_cdevices.status = 1 AND yh_task.status = 0 
+
+[ 2016-09-29T15:18:54+08:00 ] 192.168.2.103 /index.php/mapi/devices/gets
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FULL JOIN yh_task ON yh_cdevices.did = yh_task.did  WHERE yh_cdevices.cid = 6 AN' at line 1
+ [ SQL语句 ] : SELECT yh_cdevices.device_name,yh_devices.*,yh_task.status,yh_task.config FROM `yh_cdevices` FULL JOIN yh_devices ON yh_cdevices.did = yh_devices.id FULL JOIN yh_task ON yh_cdevices.did = yh_task.did  WHERE yh_cdevices.cid = 6 AND yh_cdevices.status = 1 AND yh_task.status = 0 
+
+[ 2016-09-29T15:20:11+08:00 ] 192.168.2.103 /index.php/mapi/devices/gets
+ERR: Call to undefined function Mapi\Model\getLastSql()
+
+[ 2016-09-29T15:25:00+08:00 ] 192.168.2.103 /index.php/mapi/devices/gets
+ERR: 1051:Unknown table 'yh_devices'
+ [ SQL语句 ] : SELECT yh_cdevices.device_name,yh_devices.*,yh_task.status,yh_task.config FROM `yh_cdevices` LEFT JOIN yh_task ON yh_cdevices.did = yh_task.did  WHERE yh_cdevices.cid = 6 AND yh_cdevices.status = 1 AND yh_task.status = 0 
+
+[ 2016-09-29T15:25:00+08:00 ] 192.168.2.103 /index.php/mapi/devices/gets
+ERR: 1051:Unknown table 'yh_devices'
+ [ SQL语句 ] : SELECT yh_cdevices.device_name,yh_devices.*,yh_task.status,yh_task.config FROM `yh_cdevices` LEFT JOIN yh_task ON yh_cdevices.did = yh_task.did  WHERE yh_cdevices.cid = 6 AND yh_cdevices.status = 1 AND yh_task.status = 0 
+
+[ 2016-09-29T16:01:19+08:00 ] 192.168.2.103 /index.php/mapi/devices/gets
+ERR: Call to a member function select() on null
+
+[ 2016-09-29T16:02:12+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets
+ERR: Call to a member function select() on null
+
+[ 2016-09-29T16:02:56+08:00 ] 192.168.2.103 /index.php/mapi/devices/gets
+ERR: syntax error, unexpected ''yh_task.status'' (T_CONSTANT_ENCAPSED_STRING), expecting ')'
+
+[ 2016-09-29T16:02:56+08:00 ] 192.168.2.103 /index.php/mapi/devices/gets
+ERR: syntax error, unexpected ''yh_task.status'' (T_CONSTANT_ENCAPSED_STRING), expecting ')'
+
+[ 2016-09-29T16:02:57+08:00 ] 192.168.2.103 /index.php/mapi/devices/gets
+ERR: syntax error, unexpected ''yh_task.status'' (T_CONSTANT_ENCAPSED_STRING), expecting ')'
+
+[ 2016-09-29T16:02:57+08:00 ] 192.168.2.103 /index.php/mapi/devices/gets
+ERR: syntax error, unexpected ''yh_task.status'' (T_CONSTANT_ENCAPSED_STRING), expecting ')'
+
+[ 2016-09-29T16:02:57+08:00 ] 192.168.2.103 /index.php/mapi/devices/gets
+ERR: syntax error, unexpected ''yh_task.status'' (T_CONSTANT_ENCAPSED_STRING), expecting ')'
+
+[ 2016-09-29T16:13:27+08:00 ] 192.168.2.103 /index.php/mapi/devices/gets
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FULL JOIN yh_task ON yh_cdevices.did = yh_task.did  WHERE yh_cdevices.cid = 1 AN' at line 1
+ [ SQL语句 ] : SELECT yh_cdevices.id AS `cdid`,yh_cdevices.device_name,yh_devices.* FROM `yh_cdevices` INNER JOIN yh_devices ON yh_cdevices.did = yh_devices.id FULL JOIN yh_task ON yh_cdevices.did = yh_task.did  WHERE yh_cdevices.cid = 1 AND yh_cdevices.status = 1 AND yh_task.status = 2 
+
+[ 2016-09-29T16:16:39+08:00 ] 192.168.2.103 /index.php/mapi/devices/gets
+ERR: 1054:Unknown column 'yh_devices.status' in 'where clause'
+ [ SQL语句 ] : SELECT yh_cdevices.id AS `cdid`,yh_cdevices.device_name,yh_devices.* FROM `yh_cdevices` INNER JOIN yh_devices ON yh_cdevices.did = yh_devices.id RIGHT JOIN yh_task ON yh_cdevices.did = yh_task.did  WHERE yh_cdevices.cid = 1 AND yh_cdevices.status = 1 AND yh_devices.status = 2 
+
+[ 2016-09-29T16:42:27+08:00 ] 192.168.2.103 /index.php/mapi/devices/gets
+ERR: 1054:Unknown column 'yh_task.status' in 'where clause'
+ [ SQL语句 ] : SELECT yh_cdevices.id AS `cdid`,yh_cdevices.device_name FROM `yh_cdevices` LEFT JOIN yh_devices ON yh_cdevices.did = yh_devices.id  WHERE yh_cdevices.cid = 1 AND yh_cdevices.status = 1 AND yh_task.status = 0 
+
+[ 2016-09-29T16:44:04+08:00 ] 192.168.2.103 /index.php/mapi/devices/gets
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AS `cdevices` FROM `yh_cdevices` LEFT JOIN yh_devices ON yh_cdevices.did = yh_de' at line 1
+ [ SQL语句 ] : SELECT yh_cdevices.* AS `cdevices` FROM `yh_cdevices` LEFT JOIN yh_devices ON yh_cdevices.did = yh_devices.id  WHERE yh_cdevices.cid = 1 AND yh_cdevices.status = 1 
+
+[ 2016-09-29T16:44:15+08:00 ] 192.168.2.103 /index.php/mapi/devices/gets
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AS `cdevicess` FROM `yh_cdevices` LEFT JOIN yh_devices ON yh_cdevices.did = yh_d' at line 1
+ [ SQL语句 ] : SELECT yh_cdevices.* AS `cdevicess` FROM `yh_cdevices` LEFT JOIN yh_devices ON yh_cdevices.did = yh_devices.id  WHERE yh_cdevices.cid = 1 AND yh_cdevices.status = 1 
+
+[ 2016-09-29T16:44:15+08:00 ] 192.168.2.103 /index.php/mapi/devices/gets
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AS `cdevicess` FROM `yh_cdevices` LEFT JOIN yh_devices ON yh_cdevices.did = yh_d' at line 1
+ [ SQL语句 ] : SELECT yh_cdevices.* AS `cdevicess` FROM `yh_cdevices` LEFT JOIN yh_devices ON yh_cdevices.did = yh_devices.id  WHERE yh_cdevices.cid = 1 AND yh_cdevices.status = 1 
+
+[ 2016-09-29T16:44:15+08:00 ] 192.168.2.103 /index.php/mapi/devices/gets
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AS `cdevicess` FROM `yh_cdevices` LEFT JOIN yh_devices ON yh_cdevices.did = yh_d' at line 1
+ [ SQL语句 ] : SELECT yh_cdevices.* AS `cdevicess` FROM `yh_cdevices` LEFT JOIN yh_devices ON yh_cdevices.did = yh_devices.id  WHERE yh_cdevices.cid = 1 AND yh_cdevices.status = 1 
+
+[ 2016-09-29T16:44:16+08:00 ] 192.168.2.103 /index.php/mapi/devices/gets
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AS `cdevicess` FROM `yh_cdevices` LEFT JOIN yh_devices ON yh_cdevices.did = yh_d' at line 1
+ [ SQL语句 ] : SELECT yh_cdevices.* AS `cdevicess` FROM `yh_cdevices` LEFT JOIN yh_devices ON yh_cdevices.did = yh_devices.id  WHERE yh_cdevices.cid = 1 AND yh_cdevices.status = 1 
+
+[ 2016-09-29T16:44:41+08:00 ] 192.168.2.103 /index.php/mapi/devices/gets
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AS cdevicess.* FROM `yh_cdevices` LEFT JOIN yh_devices ON yh_cdevices.did = yh_d' at line 1
+ [ SQL语句 ] : SELECT yh_cdevices.* AS cdevicess.* FROM `yh_cdevices` LEFT JOIN yh_devices ON yh_cdevices.did = yh_devices.id  WHERE yh_cdevices.cid = 1 AND yh_cdevices.status = 1 
+
+[ 2016-09-29T16:58:09+08:00 ] 192.168.2.104 /index.php/mapi/task/startpost
+ERR: syntax error, unexpected '=', expecting ')'
+
+[ 2016-09-29T16:58:13+08:00 ] 192.168.2.104 /index.php/mapi/task/startpost
+ERR: syntax error, unexpected '=', expecting ')'
+
+[ 2016-09-29T16:58:14+08:00 ] 192.168.2.104 /index.php/mapi/task/startpost
+ERR: syntax error, unexpected '=', expecting ')'
+
+[ 2016-09-29T16:58:19+08:00 ] 192.168.2.104 /index.php/mapi/task/startpost
+ERR: syntax error, unexpected '=', expecting ')'
+
+[ 2016-09-29T16:58:26+08:00 ] 192.168.2.104 /index.php/mapi/task/startpost
+ERR: syntax error, unexpected '=', expecting ')'
+
+[ 2016-09-29T16:58:27+08:00 ] 192.168.2.104 /index.php/mapi/task/startpost
+ERR: syntax error, unexpected '=', expecting ')'
+
+[ 2016-09-29T16:58:28+08:00 ] 192.168.2.104 /index.php/mapi/task/startpost
+ERR: syntax error, unexpected '=', expecting ')'
+
+[ 2016-09-29T16:58:30+08:00 ] 192.168.2.104 /index.php/mapi/task/startpost
+ERR: syntax error, unexpected '=', expecting ')'
+
+[ 2016-09-29T16:59:43+08:00 ] 192.168.2.104 /index.php/mapi/task/startpost
+ERR: syntax error, unexpected '=', expecting ')'
+
+[ 2016-09-29T16:59:46+08:00 ] 192.168.2.104 /index.php/mapi/task/startpost
+ERR: syntax error, unexpected '=', expecting ')'
+
+[ 2016-09-29T16:59:47+08:00 ] 192.168.2.104 /index.php/mapi/task/startpost
+ERR: syntax error, unexpected '=', expecting ')'
+
+[ 2016-09-29T16:59:47+08:00 ] 192.168.2.104 /index.php/mapi/task/startpost
+ERR: syntax error, unexpected '=', expecting ')'
+
+[ 2016-09-29T16:59:47+08:00 ] 192.168.2.104 /index.php/mapi/task/startpost
+ERR: syntax error, unexpected '=', expecting ')'
+
+[ 2016-09-29T16:59:48+08:00 ] 192.168.2.104 /index.php/mapi/task/startpost
+ERR: syntax error, unexpected '=', expecting ')'
+
+[ 2016-09-29T16:59:50+08:00 ] 192.168.2.104 /index.php/mapi/task/startpost
+ERR: syntax error, unexpected '=', expecting ')'
+
+[ 2016-09-29T16:59:52+08:00 ] 192.168.2.104 /index.php/mapi/task/startpost
+ERR: syntax error, unexpected '=', expecting ')'
+
+[ 2016-09-29T16:59:54+08:00 ] 192.168.2.104 /index.php/mapi/task/startpost
+ERR: syntax error, unexpected '=', expecting ')'
+
+[ 2016-09-29T16:59:54+08:00 ] 192.168.2.104 /index.php/mapi/task/startpost
+ERR: syntax error, unexpected '=', expecting ')'
+
+[ 2016-09-29T16:59:54+08:00 ] 192.168.2.104 /index.php/mapi/task/startpost
+ERR: syntax error, unexpected '=', expecting ')'
+
+[ 2016-09-29T16:59:54+08:00 ] 192.168.2.104 /index.php/mapi/task/startpost
+ERR: syntax error, unexpected '=', expecting ')'
+
+[ 2016-09-29T16:59:55+08:00 ] 192.168.2.104 /index.php/mapi/task/startpost
+ERR: syntax error, unexpected '=', expecting ')'
+
+[ 2016-09-29T16:59:55+08:00 ] 192.168.2.104 /index.php/mapi/task/startpost
+ERR: syntax error, unexpected '=', expecting ')'
+
+[ 2016-09-29T16:59:55+08:00 ] 192.168.2.104 /index.php/mapi/task/startpost
+ERR: syntax error, unexpected '=', expecting ')'
+
+[ 2016-09-29T16:59:55+08:00 ] 192.168.2.104 /index.php/mapi/task/startpost
+ERR: syntax error, unexpected '=', expecting ')'
+
+[ 2016-09-29T17:01:12+08:00 ] 192.168.2.104 /index.php/mapi/task/startpost
+ERR: syntax error, unexpected '=', expecting ')'
+
+[ 2016-09-29T17:01:13+08:00 ] 192.168.2.104 /index.php/mapi/task/startpost
+ERR: syntax error, unexpected '=', expecting ')'
+
+[ 2016-09-29T17:02:08+08:00 ] 192.168.2.104 /index.php/mapi/task/startpost
+ERR: syntax error, unexpected '=', expecting ')'
+
+[ 2016-09-29T17:02:09+08:00 ] 192.168.2.104 /index.php/mapi/task/startpost
+ERR: syntax error, unexpected '=', expecting ')'
+
+[ 2016-09-29T17:02:11+08:00 ] 192.168.2.104 /index.php/mapi/task/startpost
+ERR: syntax error, unexpected '=', expecting ')'
+
+[ 2016-09-29T17:02:15+08:00 ] 192.168.2.104 /index.php/mapi/task/startpost
+ERR: syntax error, unexpected '=', expecting ')'
+
+[ 2016-09-29T17:02:16+08:00 ] 192.168.2.104 /index.php/mapi/task/startpost
+ERR: syntax error, unexpected '=', expecting ')'
+
+[ 2016-09-29T17:02:17+08:00 ] 192.168.2.104 /index.php/mapi/task/startpost
+ERR: syntax error, unexpected '=', expecting ')'
+
+[ 2016-09-29T17:02:18+08:00 ] 192.168.2.104 /index.php/mapi/task/startpost
+ERR: syntax error, unexpected '=', expecting ')'
+
+[ 2016-09-29T17:02:19+08:00 ] 192.168.2.104 /index.php/mapi/task/startpost
+ERR: syntax error, unexpected '=', expecting ')'
+
+[ 2016-09-29T17:02:19+08:00 ] 192.168.2.104 /index.php/mapi/task/startpost
+ERR: syntax error, unexpected '=', expecting ')'
+
+[ 2016-09-29T17:02:19+08:00 ] 192.168.2.104 /index.php/mapi/task/startpost
+ERR: syntax error, unexpected '=', expecting ')'
+
+[ 2016-09-29T17:02:32+08:00 ] 192.168.2.104 /index.php/mapi/task/startpost
+ERR: syntax error, unexpected '=', expecting ')'
+
+[ 2016-09-29T17:04:05+08:00 ] 192.168.2.104 /index.php/mapi/task/startpost
+ERR: syntax error, unexpected '=', expecting ')'
+
+[ 2016-09-29T17:05:14+08:00 ] 192.168.2.104 /index.php/mapi/task/startpost
+ERR: syntax error, unexpected '=', expecting ')'
+
+[ 2016-09-29T17:08:32+08:00 ] 192.168.2.103 /index.php/mapi/task/startpost
+ERR: syntax error, unexpected '=', expecting ')'
+

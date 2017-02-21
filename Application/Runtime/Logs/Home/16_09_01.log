@@ -1,0 +1,791 @@
+[ 2016-09-01T10:56:33+08:00 ] 127.0.0.1 /Index/loginpost
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000019s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000058s ]
+SQL: SHOW COLUMNS FROM `yh_admin` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `yh_admin` WHERE `password` = '5416d7cd6ef195a0f7622a9c56b55e84' LIMIT 1   [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `yh_admin` [ RunTime:0.0002s ]
+SQL: SELECT * FROM `yh_admin` WHERE `id` = '1' LIMIT 1   [ RunTime:0.0001s ]
+
+[ 2016-09-01T10:56:48+08:00 ] 127.0.0.1 /devices/newpost
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000016s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000046s ]
+SQL: SHOW COLUMNS FROM `yh_devices` [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+SQL: SELECT * FROM `yh_devices` WHERE `uuid` = '333333333333333333333333' LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [8] Undefined index: auto /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1128 行.
+SQL: INSERT INTO `yh_devices` (`title`,`uuid`,`description`) VALUES ('33333333333333333333','333333333333333333333333','33333333333333333333333333333333333') [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000026s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000052s ]
+
+[ 2016-09-01T10:57:03+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-01T10:57:11+08:00 ] 127.0.0.1 /devices/newpost
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000017s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000050s ]
+SQL: SHOW COLUMNS FROM `yh_devices` [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+SQL: SELECT * FROM `yh_devices` WHERE `uuid` = '666666666666666666666666' LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [8] Undefined index: auto /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1128 行.
+SQL: INSERT INTO `yh_devices` (`title`,`uuid`,`description`) VALUES ('6666666666666','666666666666666666666666','6666666666666666666666') [ RunTime:0.0001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000030s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000054s ]
+
+[ 2016-09-01T10:57:46+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-01T10:57:57+08:00 ] 127.0.0.1 /devices/newpost
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000017s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000063s ]
+SQL: SHOW COLUMNS FROM `yh_devices` [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+SQL: SELECT * FROM `yh_devices` WHERE `uuid` = 'eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee' LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [8] Undefined index: auto /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1128 行.
+SQL: INSERT INTO `yh_devices` (`title`,`uuid`,`description`) VALUES ('eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee','eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee','eeeeee') [ RunTime:0.0001s ]
+
+[ 2016-09-01T10:58:32+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-01T10:58:33+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-01T10:58:34+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-01T10:58:43+08:00 ] 127.0.0.1 /devices/newpost
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000017s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000051s ]
+SQL: SHOW COLUMNS FROM `yh_devices` [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+SQL: SELECT * FROM `yh_devices` WHERE `uuid` = '33333333333333111111111111111111' LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [8] Undefined index: auto /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1128 行.
+SQL: INSERT INTO `yh_devices` (`title`,`uuid`,`description`) VALUES ('3333333333333333333333333333333','33333333333333111111111111111111','12222222222222222') [ RunTime:0.0001s ]
+
+[ 2016-09-01T10:59:39+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-01T10:59:41+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-01T10:59:43+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-01T10:59:52+08:00 ] 127.0.0.1 /devices/newpost
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000015s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000044s ]
+SQL: SHOW COLUMNS FROM `yh_devices` [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+SQL: SELECT * FROM `yh_devices` WHERE `uuid` = 'wqeqwe5235' LIMIT 1   [ RunTime:0.0001s ]
+NOTIC: [8] Undefined index: auto /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1128 行.
+SQL: INSERT INTO `yh_devices` (`title`,`uuid`,`description`) VALUES ('2222222222de','wqeqwe5235','32432') [ RunTime:0.0002s ]
+
+[ 2016-09-01T11:01:29+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-01T11:01:36+08:00 ] 127.0.0.1 /devices/newpost
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000016s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000047s ]
+SQL: SHOW COLUMNS FROM `yh_devices` [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+SQL: SELECT * FROM `yh_devices` WHERE `uuid` = 'rt523' LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [8] Undefined index: auto /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1128 行.
+SQL: INSERT INTO `yh_devices` (`title`,`uuid`,`description`) VALUES ('333333333333','rt523','5') [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `yh_history` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `yh_devices` WHERE `id` = '342' LIMIT 1   [ RunTime:0.0001s ]
+ERR: Think\Model:historyCreate方法不存在！
+
+[ 2016-09-01T11:02:20+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-01T11:02:21+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-01T11:02:21+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-01T11:02:22+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-01T11:02:22+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-01T11:02:34+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-01T11:02:38+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-01T11:02:44+08:00 ] 127.0.0.1 /devices/newpost
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000017s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000051s ]
+SQL: SHOW COLUMNS FROM `yh_devices` [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+SQL: SELECT * FROM `yh_devices` WHERE `uuid` = '21r4etwrfq' LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [8] Undefined index: auto /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1128 行.
+SQL: INSERT INTO `yh_devices` (`title`,`uuid`,`description`) VALUES ('eeeeeeeeeeeeeeeeee','21r4etwrfq','1231') [ RunTime:0.0001s ]
+SQL: SHOW COLUMNS FROM `yh_history` [ RunTime:0.0003s ]
+SQL: SELECT * FROM `yh_devices` WHERE `id` = '343' LIMIT 1   [ RunTime:0.0001s ]
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1128 行.
+SQL: INSERT INTO `yh_history` (`crud`,`after_handle`,`admin_id`,`username`,`ip`) VALUES ('1','{\"id\":\"343\",\"title\":\"eeeeeeeeeeeeeeeeee\",\"uuid\":\"21r4etwrfq\",\"description\":\"1231\",\"thumbnail\":null,\"recharge\":\"0\",\"lock_user\":\"0\",\"status\":\"1\"}','1','ee','127.0.0.1') [ RunTime:0.0001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000028s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000052s ]
+
+[ 2016-09-01T11:03:16+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-01T11:03:17+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-01T11:03:24+08:00 ] 127.0.0.1 /devices/newpost
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000016s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000056s ]
+SQL: SHOW COLUMNS FROM `yh_devices` [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+SQL: SELECT * FROM `yh_devices` WHERE `uuid` = 'd21321qwe' LIMIT 1   [ RunTime:0.0001s ]
+NOTIC: [8] Undefined index: auto /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1128 行.
+SQL: INSERT INTO `yh_devices` (`title`,`uuid`,`description`) VALUES ('13123','d21321qwe','213') [ RunTime:0.0001s ]
+
+[ 2016-09-01T11:09:54+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-01T11:09:54+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-01T11:09:54+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-01T11:10:01+08:00 ] 127.0.0.1 /devices/newpost
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000017s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000050s ]
+SQL: SHOW COLUMNS FROM `yh_devices` [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+SQL: SELECT * FROM `yh_devices` WHERE `uuid` = 'qwewqeqe' LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [8] Undefined index: auto /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1128 行.
+SQL: INSERT INTO `yh_devices` (`title`,`uuid`,`description`) VALUES ('qwewqe','qwewqeqe','qweqeqeqweq') [ RunTime:0.0001s ]
+SQL: SHOW COLUMNS FROM `yh_history` [ RunTime:0.0002s ]
+SQL: SELECT * FROM `yh_devices` WHERE `id` = '345' LIMIT 1   [ RunTime:0.0001s ]
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1128 行.
+SQL: INSERT INTO `yh_history` (`crud`,`after_handle`,`admin_id`,`username`,`ip`) VALUES ('1','{\"id\":\"345\",\"title\":\"qwewqe\",\"uuid\":\"qwewqeqe\",\"description\":\"qweqeqeqweq\",\"thumbnail\":null,\"recharge\":\"0\",\"lock_user\":\"0\",\"status\":\"1\"}','1','123456@qq.com','127.0.0.1') [ RunTime:0.0001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000026s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000049s ]
+
+[ 2016-09-01T11:27:32+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-01T11:27:39+08:00 ] 127.0.0.1 /devices/newpost
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000016s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000048s ]
+SQL: SHOW COLUMNS FROM `yh_devices` [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+SQL: SELECT * FROM `yh_devices` WHERE `uuid` = '21321rffew5rq' LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [8] Undefined index: auto /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1128 行.
+SQL: INSERT INTO `yh_devices` (`title`,`uuid`,`description`) VALUES ('eeeeeee','21321rffew5rq','2132asdfa') [ RunTime:0.0001s ]
+SQL: SELECT * FROM `yh_devices` WHERE `id` = '346' LIMIT 1   [ RunTime:0.0001s ]
+ERR: Call to undefined function Home\Model\addHistory()
+
+[ 2016-09-01T11:28:33+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-01T11:28:33+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-01T11:28:34+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-01T11:28:35+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-01T11:28:50+08:00 ] 127.0.0.1 /devices/newpost
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000019s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000057s ]
+SQL: SHOW COLUMNS FROM `yh_devices` [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+SQL: SELECT * FROM `yh_devices` WHERE `uuid` = 'wqe154235t52' LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [8] Undefined index: auto /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1128 行.
+SQL: INSERT INTO `yh_devices` (`title`,`uuid`,`description`) VALUES ('qwewqeq','wqe154235t52','535235235') [ RunTime:0.0001s ]
+SQL: SELECT * FROM `yh_devices` WHERE `id` = '347' LIMIT 1   [ RunTime:0.0001s ]
+SQL: SHOW COLUMNS FROM `yh_history` [ RunTime:0.0002s ]
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1128 行.
+SQL: INSERT INTO `yh_history` (`crud`,`after_handle`,`admin_id`,`username`,`ip`) VALUES ('1','{\"id\":\"347\",\"title\":\"qwewqeq\",\"uuid\":\"wqe154235t52\",\"description\":\"535235235\",\"thumbnail\":null,\"recharge\":\"0\",\"lock_user\":\"0\",\"status\":\"1\"}','1','123456@qq.com','127.0.0.1') [ RunTime:0.0001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000025s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000049s ]
+
+[ 2016-09-01T11:41:47+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-01T11:41:48+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-01T11:41:49+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-01T11:41:49+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-01T11:41:50+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-01T11:41:54+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-01T11:41:57+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-01T11:42:05+08:00 ] 127.0.0.1 /devices/editpost
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000017s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000049s ]
+SQL: SHOW COLUMNS FROM `yh_devices` [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: auto /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1128 行.
+SQL: SELECT * FROM `yh_devices` WHERE `id` = '347' LIMIT 1   [ RunTime:0.0001s ]
+SQL: UPDATE `yh_devices` SET `title`='qwewqeq',`uuid`='wqe154235t52',`description`='535235235',`thumbnail`=NULL,`recharge`='0',`lock_user`='0',`status`='1' WHERE `id` = '347' [ RunTime:0.0001s ]
+
+[ 2016-09-01T11:42:46+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-01T11:42:54+08:00 ] 127.0.0.1 /devices/editpost
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000017s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000050s ]
+SQL: SHOW COLUMNS FROM `yh_devices` [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: auto /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1128 行.
+SQL: SELECT * FROM `yh_devices` WHERE `id` = '347' LIMIT 1   [ RunTime:0.0001s ]
+SQL: UPDATE `yh_devices` SET `title`='qwewqeq',`uuid`='wqe154235t52',`description`='535235235',`thumbnail`=NULL,`recharge`='0',`lock_user`='0',`status`='1' WHERE `id` = '347' [ RunTime:0.0001s ]
+
+[ 2016-09-01T11:43:45+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-01T11:43:57+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-01T11:43:57+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-01T11:43:58+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-01T11:44:03+08:00 ] 127.0.0.1 /devices/editpost
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000018s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000052s ]
+SQL: SHOW COLUMNS FROM `yh_devices` [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1128 行.
+SQL: UPDATE `yh_devices` SET `title`='wqeqweqeqweqweqeq',`uuid`='wqe154235t52',`description`='535235235' WHERE `id` = '347' [ RunTime:0.0007s ]
+
+[ 2016-09-01T11:44:07+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-01T11:44:41+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-01T11:44:42+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-01T11:44:46+08:00 ] 127.0.0.1 /devices/editpost
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000017s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000050s ]
+SQL: SHOW COLUMNS FROM `yh_devices` [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: auto /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1128 行.
+SQL: UPDATE `yh_devices` SET `title`='123131232131',`uuid`='wqe154235t52',`description`='535235235' WHERE `id` = '347' [ RunTime:0.0002s ]
+
+[ 2016-09-01T11:44:54+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-01T11:44:59+08:00 ] 127.0.0.1 /devices/editpost
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000019s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000058s ]
+SQL: SHOW COLUMNS FROM `yh_devices` [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: auto /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1128 行.
+SQL: SELECT * FROM `yh_devices` WHERE `id` = '347' LIMIT 1   [ RunTime:0.0001s ]
+SQL: UPDATE `yh_devices` SET `title`='123131232131',`uuid`='wqe154235t52',`description`='535235235',`thumbnail`=NULL,`recharge`='0',`lock_user`='0',`status`='1' WHERE `id` = '347' [ RunTime:0.0001s ]
+
+[ 2016-09-01T11:46:44+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-01T11:46:47+08:00 ] 127.0.0.1 /devices/editpost
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000016s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000046s ]
+SQL: SHOW COLUMNS FROM `yh_devices` [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: auto /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1128 行.
+SQL: SELECT * FROM `yh_devices` WHERE `id` = '347' LIMIT 1   [ RunTime:0.0001s ]
+SQL: UPDATE `yh_devices` SET `title`='123131232131wqeqeeqwe',`uuid`='wqe154235t52',`description`='535235235' WHERE `id` = '347' [ RunTime:0.0001s ]
+
+[ 2016-09-01T11:47:12+08:00 ] 127.0.0.1 /devices/editpost
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000017s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000050s ]
+SQL: SHOW COLUMNS FROM `yh_devices` [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: auto /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1128 行.
+SQL: SELECT * FROM `yh_devices` WHERE `id` = '347' LIMIT 1   [ RunTime:0.0001s ]
+SQL: UPDATE `yh_devices` SET `title`='888888888888888888888888888888',`uuid`='wqe154235t52',`description`='535235235' WHERE `id` = '347' [ RunTime:0.0001s ]
+SQL: SELECT * FROM `yh_devices` WHERE `id` = '347' LIMIT 1   [ RunTime:0.0001s ]
+SQL: SHOW COLUMNS FROM `yh_history` [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1128 行.
+SQL: INSERT INTO `yh_history` (`crud`,`before_handle`,`after_handle`,`admin_id`,`username`,`ip`) VALUES ('3','{\"id\":\"347\",\"title\":\"123131232131wqeqeeqwe\",\"uuid\":\"wqe154235t52\",\"description\":\"535235235\",\"thumbnail\":null,\"recharge\":\"0\",\"lock_user\":\"0\",\"status\":\"1\"}','{\"id\":\"347\",\"title\":\"888888888888888888888888888888\",\"uuid\":\"wqe154235t52\",\"description\":\"535235235\",\"thumbnail\":null,\"recharge\":\"0\",\"lock_user\":\"0\",\"status\":\"1\"}','1','123456@qq.com','127.0.0.1') [ RunTime:0.0001s ]
+
+[ 2016-09-01T11:49:42+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-01T11:49:43+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-01T11:49:47+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-01T11:50:10+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-01T11:50:12+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-01T11:50:14+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-01T11:58:02+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-01T14:03:08+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-01T14:03:30+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-01T14:03:31+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-01T14:03:32+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-01T14:03:43+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-01T14:03:50+08:00 ] 127.0.0.1 /Index/loginpost
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000018s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000052s ]
+SQL: SHOW COLUMNS FROM `yh_admin` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `yh_admin` WHERE `password` = '5416d7cd6ef195a0f7622a9c56b55e84' LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `yh_admin` [ RunTime:0.0002s ]
+SQL: SELECT * FROM `yh_admin` WHERE `id` = '1' LIMIT 1   [ RunTime:0.0001s ]
+
+[ 2016-09-01T14:03:51+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-01T14:04:23+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-01T14:04:40+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-01T14:12:12+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-01T14:12:14+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-01T14:12:15+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-01T14:12:16+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-01T14:12:17+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-01T14:12:18+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-01T14:12:19+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-01T14:12:20+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-01T14:12:20+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-01T14:12:21+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-01T14:12:22+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-01T14:12:24+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-01T14:12:26+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-01T14:12:27+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-01T14:12:33+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-01T14:12:35+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-01T14:12:35+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-01T14:12:49+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-01T14:12:54+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-01T14:12:55+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-01T14:12:56+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-01T14:12:57+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-01T14:13:06+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-01T14:13:08+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-01T14:13:09+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-01T14:13:14+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-01T14:13:34+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-01T14:13:36+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-01T14:13:38+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-01T14:13:48+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-01T14:14:21+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-01T14:14:22+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-01T14:14:23+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-01T14:14:25+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-01T14:14:27+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-01T14:14:28+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-01T14:17:42+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-01T14:17:50+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-01T14:18:35+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-01T14:18:48+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-01T14:18:52+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-01T14:19:43+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-01T14:19:44+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-01T14:19:44+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-01T14:19:46+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-01T14:24:00+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-01T14:24:02+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-01T14:24:32+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-01T14:24:36+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-01T14:27:00+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-01T14:27:01+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-01T14:29:21+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-01T14:29:22+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-01T14:29:24+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-01T14:29:48+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-01T14:29:49+08:00 ] 127.0.0.1 /history/index
+ERR: 模板不存在:./Application/Home/View/History/index.html
+
+[ 2016-09-01T14:32:14+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-01T14:32:15+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-01T14:32:16+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-01T14:32:31+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-01T14:32:35+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-01T14:37:48+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-01T14:37:52+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-01T14:38:02+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-01T14:38:08+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-01T16:14:33+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-01T16:14:40+08:00 ] 127.0.0.1 /Index/loginpost
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000017s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000051s ]
+SQL: SHOW COLUMNS FROM `yh_admin` [ RunTime:0.0003s ]
+SQL: SELECT * FROM `yh_admin` WHERE `password` = '5416d7cd6ef195a0f7622a9c56b55e84' LIMIT 1   [ RunTime:0.0001s ]
+SQL: SHOW COLUMNS FROM `yh_admin` [ RunTime:0.0002s ]
+SQL: SELECT * FROM `yh_admin` WHERE `id` = '1' LIMIT 1   [ RunTime:0.0001s ]
+
+[ 2016-09-01T16:14:40+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-01T16:14:42+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-01T16:14:46+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-01T16:14:47+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-01T16:16:39+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-01T16:16:56+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-01T16:17:25+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-01T16:17:37+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-01T16:17:49+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-01T16:19:24+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-01T16:19:28+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-01T16:19:29+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-01T16:20:34+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-01T16:20:35+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-01T16:20:43+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-01T16:21:28+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-01T16:21:37+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-01T16:22:03+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-01T16:22:12+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-01T16:22:26+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-01T16:22:35+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-01T16:22:47+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-01T16:22:52+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-01T16:22:58+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-01T16:32:10+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-01T16:32:43+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-01T16:33:29+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-01T16:33:46+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-01T16:33:58+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-01T16:34:00+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-01T16:34:06+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-01T16:34:17+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-01T16:34:27+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-01T16:35:05+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-01T16:35:25+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-01T16:35:46+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-01T16:36:00+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-01T16:36:21+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-01T16:36:27+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-01T16:36:35+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-01T16:37:29+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-01T16:37:34+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-01T16:37:40+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-01T16:38:38+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-01T16:39:22+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-01T16:39:38+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-01T16:40:01+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-01T16:43:24+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-01T16:53:14+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-01T16:53:32+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-01T16:54:11+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-01T16:54:36+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-01T16:56:41+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-01T16:56:43+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-01T16:58:17+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-01T17:00:02+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-01T17:00:19+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-01T17:00:35+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-01T17:00:44+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-01T18:24:51+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+

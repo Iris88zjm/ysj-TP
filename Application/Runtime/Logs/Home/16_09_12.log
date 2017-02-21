@@ -1,0 +1,558 @@
+[ 2016-09-12T19:12:35+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-12T19:12:36+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-12T19:12:39+08:00 ] 127.0.0.1 /devices/import
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000017s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000049s ]
+SQL: SHOW COLUMNS FROM `yh_devices` [ RunTime:0.0003s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given /var/www/mqtt/ThinkPHP/Library/Think/Upload.class.php 第 170 行.
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+SQL: SELECT * FROM `yh_devices` WHERE `uuid` = 'asdas' LIMIT 1   [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: sucess /var/www/mqtt/Application/Home/Controller/DevicesController.class.php 第 76 行.
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+SQL: SELECT * FROM `yh_devices` WHERE `uuid` = 'wqeqweq' LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [8] Undefined index: sucess /var/www/mqtt/Application/Home/Controller/DevicesController.class.php 第 76 行.
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+SQL: SELECT * FROM `yh_devices` WHERE `uuid` = '21421qwreqw' LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [8] Undefined index: sucess /var/www/mqtt/Application/Home/Controller/DevicesController.class.php 第 76 行.
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+SQL: SELECT * FROM `yh_devices` WHERE `uuid` = 'adasd21' LIMIT 1   [ RunTime:0.0001s ]
+NOTIC: [8] Undefined index: sucess /var/www/mqtt/Application/Home/Controller/DevicesController.class.php 第 76 行.
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+SQL: SELECT * FROM `yh_devices` WHERE `uuid` = 'qwrqwrq2142141' LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [8] Undefined index: sucess /var/www/mqtt/Application/Home/Controller/DevicesController.class.php 第 76 行.
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+SQL: SELECT * FROM `yh_devices` WHERE `uuid` = '6666777777' LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [8] Undefined index: sucess /var/www/mqtt/Application/Home/Controller/DevicesController.class.php 第 76 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000035s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000058s ]
+
+[ 2016-09-12T19:13:59+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-12T19:13:59+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-12T19:14:00+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-12T19:14:00+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-12T19:14:01+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-12T19:14:02+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-12T19:14:04+08:00 ] 127.0.0.1 /devices/import
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000016s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000047s ]
+SQL: SHOW COLUMNS FROM `yh_devices` [ RunTime:0.0003s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given /var/www/mqtt/ThinkPHP/Library/Think/Upload.class.php 第 170 行.
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+SQL: SELECT * FROM `yh_devices` WHERE `uuid` = 'asdas' LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [8] Undefined index: sucess /var/www/mqtt/Application/Home/Controller/DevicesController.class.php 第 76 行.
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+SQL: SELECT * FROM `yh_devices` WHERE `uuid` = 'wqeqweq' LIMIT 1   [ RunTime:0.0001s ]
+NOTIC: [8] Undefined index: sucess /var/www/mqtt/Application/Home/Controller/DevicesController.class.php 第 76 行.
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+SQL: SELECT * FROM `yh_devices` WHERE `uuid` = '21421qwreqw' LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [8] Undefined index: sucess /var/www/mqtt/Application/Home/Controller/DevicesController.class.php 第 76 行.
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+SQL: SELECT * FROM `yh_devices` WHERE `uuid` = 'adasd21' LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [8] Undefined index: sucess /var/www/mqtt/Application/Home/Controller/DevicesController.class.php 第 76 行.
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+SQL: SELECT * FROM `yh_devices` WHERE `uuid` = 'qwrqwrq2142141' LIMIT 1   [ RunTime:0.0001s ]
+NOTIC: [8] Undefined index: sucess /var/www/mqtt/Application/Home/Controller/DevicesController.class.php 第 76 行.
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+SQL: SELECT * FROM `yh_devices` WHERE `uuid` = '6666777777' LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [8] Undefined index: sucess /var/www/mqtt/Application/Home/Controller/DevicesController.class.php 第 76 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000027s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000048s ]
+
+[ 2016-09-12T19:14:12+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-12T19:14:14+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-12T19:14:17+08:00 ] 127.0.0.1 /devices/import
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000016s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000046s ]
+SQL: SHOW COLUMNS FROM `yh_devices` [ RunTime:0.0003s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given /var/www/mqtt/ThinkPHP/Library/Think/Upload.class.php 第 170 行.
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+SQL: SELECT * FROM `yh_devices` WHERE `uuid` = 'asdas' LIMIT 1   [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: sucess /var/www/mqtt/Application/Home/Controller/DevicesController.class.php 第 76 行.
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+SQL: SELECT * FROM `yh_devices` WHERE `uuid` = 'wqeqweq' LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [8] Undefined index: sucess /var/www/mqtt/Application/Home/Controller/DevicesController.class.php 第 76 行.
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+SQL: SELECT * FROM `yh_devices` WHERE `uuid` = '21421qwreqw' LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [8] Undefined index: sucess /var/www/mqtt/Application/Home/Controller/DevicesController.class.php 第 76 行.
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+SQL: SELECT * FROM `yh_devices` WHERE `uuid` = 'adasd21' LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [8] Undefined index: sucess /var/www/mqtt/Application/Home/Controller/DevicesController.class.php 第 76 行.
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+SQL: SELECT * FROM `yh_devices` WHERE `uuid` = 'qwrqwrq2142141' LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [8] Undefined index: sucess /var/www/mqtt/Application/Home/Controller/DevicesController.class.php 第 76 行.
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+SQL: SELECT * FROM `yh_devices` WHERE `uuid` = '6666777777' LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [8] Undefined index: sucess /var/www/mqtt/Application/Home/Controller/DevicesController.class.php 第 76 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000033s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000055s ]
+
+[ 2016-09-12T19:14:31+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-12T19:14:32+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-12T19:14:36+08:00 ] 127.0.0.1 /devices/import
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000016s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000048s ]
+SQL: SHOW COLUMNS FROM `yh_devices` [ RunTime:0.0003s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given /var/www/mqtt/ThinkPHP/Library/Think/Upload.class.php 第 170 行.
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+SQL: SELECT * FROM `yh_devices` WHERE `uuid` = 'asdas' LIMIT 1   [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: sucess /var/www/mqtt/Application/Home/Controller/DevicesController.class.php 第 76 行.
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+SQL: SELECT * FROM `yh_devices` WHERE `uuid` = 'wqeqweq' LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [8] Undefined index: sucess /var/www/mqtt/Application/Home/Controller/DevicesController.class.php 第 76 行.
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+SQL: SELECT * FROM `yh_devices` WHERE `uuid` = '21421qwreqw' LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [8] Undefined index: sucess /var/www/mqtt/Application/Home/Controller/DevicesController.class.php 第 76 行.
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+SQL: SELECT * FROM `yh_devices` WHERE `uuid` = 'adasd21' LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [8] Undefined index: sucess /var/www/mqtt/Application/Home/Controller/DevicesController.class.php 第 76 行.
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+SQL: SELECT * FROM `yh_devices` WHERE `uuid` = 'qwrqwrq2142141' LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [8] Undefined index: sucess /var/www/mqtt/Application/Home/Controller/DevicesController.class.php 第 76 行.
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+SQL: SELECT * FROM `yh_devices` WHERE `uuid` = '6666777777' LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [8] Undefined index: sucess /var/www/mqtt/Application/Home/Controller/DevicesController.class.php 第 76 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000031s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000052s ]
+
+[ 2016-09-12T19:15:55+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-12T19:15:58+08:00 ] 127.0.0.1 /devices/import
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000017s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000049s ]
+SQL: SHOW COLUMNS FROM `yh_devices` [ RunTime:0.0003s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given /var/www/mqtt/ThinkPHP/Library/Think/Upload.class.php 第 170 行.
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+SQL: SELECT * FROM `yh_devices` WHERE `uuid` = 'asdas' LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [8] Undefined index: sucess /var/www/mqtt/Application/Home/Controller/DevicesController.class.php 第 76 行.
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+SQL: SELECT * FROM `yh_devices` WHERE `uuid` = 'wqeqweq' LIMIT 1   [ RunTime:0.0001s ]
+NOTIC: [8] Undefined index: sucess /var/www/mqtt/Application/Home/Controller/DevicesController.class.php 第 76 行.
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+SQL: SELECT * FROM `yh_devices` WHERE `uuid` = '21421qwreqw' LIMIT 1   [ RunTime:0.0001s ]
+NOTIC: [8] Undefined index: sucess /var/www/mqtt/Application/Home/Controller/DevicesController.class.php 第 76 行.
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+SQL: SELECT * FROM `yh_devices` WHERE `uuid` = 'adasd21' LIMIT 1   [ RunTime:0.0001s ]
+NOTIC: [8] Undefined index: sucess /var/www/mqtt/Application/Home/Controller/DevicesController.class.php 第 76 行.
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+SQL: SELECT * FROM `yh_devices` WHERE `uuid` = 'qwrqwrq2142141' LIMIT 1   [ RunTime:0.0001s ]
+NOTIC: [8] Undefined index: sucess /var/www/mqtt/Application/Home/Controller/DevicesController.class.php 第 76 行.
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+SQL: SELECT * FROM `yh_devices` WHERE `uuid` = '6666777777' LIMIT 1   [ RunTime:0.0001s ]
+NOTIC: [8] Undefined index: sucess /var/www/mqtt/Application/Home/Controller/DevicesController.class.php 第 76 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000030s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000051s ]
+
+[ 2016-09-12T19:16:22+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-12T19:16:40+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-12T19:16:52+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-12T19:16:56+08:00 ] 127.0.0.1 /devices/import
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000018s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000051s ]
+SQL: SHOW COLUMNS FROM `yh_devices` [ RunTime:0.0003s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given /var/www/mqtt/ThinkPHP/Library/Think/Upload.class.php 第 170 行.
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+SQL: SELECT * FROM `yh_devices` WHERE `uuid` = 'asdas' LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [8] Undefined index: sucess /var/www/mqtt/Application/Home/Controller/DevicesController.class.php 第 76 行.
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+SQL: SELECT * FROM `yh_devices` WHERE `uuid` = 'wqeqweq' LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [8] Undefined index: sucess /var/www/mqtt/Application/Home/Controller/DevicesController.class.php 第 76 行.
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+SQL: SELECT * FROM `yh_devices` WHERE `uuid` = '21421qwreqw' LIMIT 1   [ RunTime:0.0001s ]
+NOTIC: [8] Undefined index: sucess /var/www/mqtt/Application/Home/Controller/DevicesController.class.php 第 76 行.
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+SQL: SELECT * FROM `yh_devices` WHERE `uuid` = 'adasd21' LIMIT 1   [ RunTime:0.0001s ]
+NOTIC: [8] Undefined index: sucess /var/www/mqtt/Application/Home/Controller/DevicesController.class.php 第 76 行.
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+SQL: SELECT * FROM `yh_devices` WHERE `uuid` = 'qwrqwrq2142141' LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [8] Undefined index: sucess /var/www/mqtt/Application/Home/Controller/DevicesController.class.php 第 76 行.
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+SQL: SELECT * FROM `yh_devices` WHERE `uuid` = '6666777777' LIMIT 1   [ RunTime:0.0001s ]
+NOTIC: [8] Undefined index: sucess /var/www/mqtt/Application/Home/Controller/DevicesController.class.php 第 76 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000033s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000055s ]
+
+[ 2016-09-12T19:17:05+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-12T19:17:06+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-12T19:17:08+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-12T19:17:13+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-12T19:17:19+08:00 ] 127.0.0.1 /Index/loginpost
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000017s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000049s ]
+SQL: SHOW COLUMNS FROM `yh_admin` [ RunTime:0.0003s ]
+SQL: SELECT * FROM `yh_admin` WHERE `password` = '5416d7cd6ef195a0f7622a9c56b55e84' LIMIT 1   [ RunTime:0.0001s ]
+SQL: SHOW COLUMNS FROM `yh_admin` [ RunTime:0.0002s ]
+SQL: SELECT * FROM `yh_admin` WHERE `id` = '1' LIMIT 1   [ RunTime:0.0001s ]
+
+[ 2016-09-12T19:17:20+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-12T19:17:21+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-12T19:17:22+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-12T19:17:25+08:00 ] 127.0.0.1 /devices/import
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000025s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000057s ]
+SQL: SHOW COLUMNS FROM `yh_devices` [ RunTime:0.0003s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given /var/www/mqtt/ThinkPHP/Library/Think/Upload.class.php 第 170 行.
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+SQL: SELECT * FROM `yh_devices` WHERE `uuid` = 'asdas' LIMIT 1   [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: sucess /var/www/mqtt/Application/Home/Controller/DevicesController.class.php 第 76 行.
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+SQL: SELECT * FROM `yh_devices` WHERE `uuid` = 'wqeqweq' LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [8] Undefined index: sucess /var/www/mqtt/Application/Home/Controller/DevicesController.class.php 第 76 行.
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+SQL: SELECT * FROM `yh_devices` WHERE `uuid` = '21421qwreqw' LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [8] Undefined index: sucess /var/www/mqtt/Application/Home/Controller/DevicesController.class.php 第 76 行.
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+SQL: SELECT * FROM `yh_devices` WHERE `uuid` = 'adasd21' LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [8] Undefined index: sucess /var/www/mqtt/Application/Home/Controller/DevicesController.class.php 第 76 行.
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+SQL: SELECT * FROM `yh_devices` WHERE `uuid` = 'qwrqwrq2142141' LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [8] Undefined index: sucess /var/www/mqtt/Application/Home/Controller/DevicesController.class.php 第 76 行.
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+SQL: SELECT * FROM `yh_devices` WHERE `uuid` = '6666777777' LIMIT 1   [ RunTime:0.0001s ]
+NOTIC: [8] Undefined index: sucess /var/www/mqtt/Application/Home/Controller/DevicesController.class.php 第 76 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000037s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000059s ]
+
+[ 2016-09-12T19:17:59+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-12T19:18:01+08:00 ] 127.0.0.1 /devices/import
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000019s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000067s ]
+SQL: SHOW COLUMNS FROM `yh_devices` [ RunTime:0.0003s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given /var/www/mqtt/ThinkPHP/Library/Think/Upload.class.php 第 170 行.
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1128 行.
+SQL: INSERT INTO `yh_devices` (`uuid`) VALUES ('asdas') [ RunTime:0.0001s ]
+NOTIC: [8] Undefined index: sucess /var/www/mqtt/Application/Home/Controller/DevicesController.class.php 第 76 行.
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1128 行.
+SQL: INSERT INTO `yh_devices` (`uuid`) VALUES ('wqeqweq') [ RunTime:0.0001s ]
+NOTIC: [8] Undefined index: sucess /var/www/mqtt/Application/Home/Controller/DevicesController.class.php 第 76 行.
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1128 行.
+SQL: INSERT INTO `yh_devices` (`uuid`) VALUES ('21421qwreqw') [ RunTime:0.0001s ]
+NOTIC: [8] Undefined index: sucess /var/www/mqtt/Application/Home/Controller/DevicesController.class.php 第 76 行.
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1128 行.
+SQL: INSERT INTO `yh_devices` (`uuid`) VALUES ('adasd21') [ RunTime:0.0001s ]
+NOTIC: [8] Undefined index: sucess /var/www/mqtt/Application/Home/Controller/DevicesController.class.php 第 76 行.
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1128 行.
+SQL: INSERT INTO `yh_devices` (`uuid`) VALUES ('qwrqwrq2142141') [ RunTime:0.0001s ]
+NOTIC: [8] Undefined index: sucess /var/www/mqtt/Application/Home/Controller/DevicesController.class.php 第 76 行.
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1128 行.
+SQL: INSERT INTO `yh_devices` (`uuid`) VALUES ('6666777777') [ RunTime:0.0001s ]
+NOTIC: [8] Undefined index: sucess /var/www/mqtt/Application/Home/Controller/DevicesController.class.php 第 76 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000032s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000054s ]
+
+[ 2016-09-12T19:18:14+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-12T19:18:37+08:00 ] 127.0.0.1 /devices/import
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000020s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000062s ]
+SQL: SHOW COLUMNS FROM `yh_devices` [ RunTime:0.0003s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given /var/www/mqtt/ThinkPHP/Library/Think/Upload.class.php 第 170 行.
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+SQL: SELECT * FROM `yh_devices` WHERE `uuid` = 'asdas' LIMIT 1   [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: sucess /var/www/mqtt/Application/Home/Controller/DevicesController.class.php 第 76 行.
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+SQL: SELECT * FROM `yh_devices` WHERE `uuid` = 'wqeqweq' LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [8] Undefined index: sucess /var/www/mqtt/Application/Home/Controller/DevicesController.class.php 第 76 行.
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+SQL: SELECT * FROM `yh_devices` WHERE `uuid` = '21421qwreqw' LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [8] Undefined index: sucess /var/www/mqtt/Application/Home/Controller/DevicesController.class.php 第 76 行.
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+SQL: SELECT * FROM `yh_devices` WHERE `uuid` = 'adasd21' LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [8] Undefined index: sucess /var/www/mqtt/Application/Home/Controller/DevicesController.class.php 第 76 行.
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+SQL: SELECT * FROM `yh_devices` WHERE `uuid` = 'qwrqwrq2142141' LIMIT 1   [ RunTime:0.0001s ]
+NOTIC: [8] Undefined index: sucess /var/www/mqtt/Application/Home/Controller/DevicesController.class.php 第 76 行.
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+SQL: SELECT * FROM `yh_devices` WHERE `uuid` = '6666777777' LIMIT 1   [ RunTime:0.0001s ]
+NOTIC: [8] Undefined index: sucess /var/www/mqtt/Application/Home/Controller/DevicesController.class.php 第 76 行.
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+SQL: SELECT * FROM `yh_devices` WHERE `uuid` = 'eeeeeeeeeee22222222222222222222222222222222222222222222' LIMIT 1   [ RunTime:0.0001s ]
+NOTIC: [8] Undefined index: sucess /var/www/mqtt/Application/Home/Controller/DevicesController.class.php 第 76 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000043s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000065s ]
+
+[ 2016-09-12T19:19:37+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-12T19:19:38+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-12T19:19:44+08:00 ] 127.0.0.1 /devices/import
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000017s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000047s ]
+SQL: SHOW COLUMNS FROM `yh_devices` [ RunTime:0.0003s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given /var/www/mqtt/ThinkPHP/Library/Think/Upload.class.php 第 170 行.
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: sucess /var/www/mqtt/Application/Home/Controller/DevicesController.class.php 第 76 行.
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: sucess /var/www/mqtt/Application/Home/Controller/DevicesController.class.php 第 76 行.
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: sucess /var/www/mqtt/Application/Home/Controller/DevicesController.class.php 第 76 行.
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: sucess /var/www/mqtt/Application/Home/Controller/DevicesController.class.php 第 76 行.
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: sucess /var/www/mqtt/Application/Home/Controller/DevicesController.class.php 第 76 行.
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: sucess /var/www/mqtt/Application/Home/Controller/DevicesController.class.php 第 76 行.
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: sucess /var/www/mqtt/Application/Home/Controller/DevicesController.class.php 第 76 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000024s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000047s ]
+
+[ 2016-09-12T19:21:31+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-12T19:21:33+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-12T19:21:39+08:00 ] 127.0.0.1 /devices/import
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000016s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000046s ]
+SQL: SHOW COLUMNS FROM `yh_devices` [ RunTime:0.0003s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given /var/www/mqtt/ThinkPHP/Library/Think/Upload.class.php 第 170 行.
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: sucess /var/www/mqtt/Application/Home/Controller/DevicesController.class.php 第 76 行.
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: sucess /var/www/mqtt/Application/Home/Controller/DevicesController.class.php 第 76 行.
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: sucess /var/www/mqtt/Application/Home/Controller/DevicesController.class.php 第 76 行.
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: sucess /var/www/mqtt/Application/Home/Controller/DevicesController.class.php 第 76 行.
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: sucess /var/www/mqtt/Application/Home/Controller/DevicesController.class.php 第 76 行.
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: sucess /var/www/mqtt/Application/Home/Controller/DevicesController.class.php 第 76 行.
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: sucess /var/www/mqtt/Application/Home/Controller/DevicesController.class.php 第 76 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000023s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000045s ]
+
+[ 2016-09-12T19:23:00+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-12T19:23:06+08:00 ] 127.0.0.1 /devices/import
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000016s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000048s ]
+SQL: SHOW COLUMNS FROM `yh_devices` [ RunTime:0.0003s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given /var/www/mqtt/ThinkPHP/Library/Think/Upload.class.php 第 170 行.
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: sucess /var/www/mqtt/Application/Home/Controller/DevicesController.class.php 第 76 行.
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: sucess /var/www/mqtt/Application/Home/Controller/DevicesController.class.php 第 76 行.
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: sucess /var/www/mqtt/Application/Home/Controller/DevicesController.class.php 第 76 行.
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: sucess /var/www/mqtt/Application/Home/Controller/DevicesController.class.php 第 76 行.
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: sucess /var/www/mqtt/Application/Home/Controller/DevicesController.class.php 第 76 行.
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: sucess /var/www/mqtt/Application/Home/Controller/DevicesController.class.php 第 76 行.
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: sucess /var/www/mqtt/Application/Home/Controller/DevicesController.class.php 第 76 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000025s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000047s ]
+
+[ 2016-09-12T19:24:47+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-12T19:24:48+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-12T19:24:49+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-12T19:24:51+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-12T19:24:54+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-12T19:25:00+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-12T19:25:01+08:00 ] 127.0.0.1 /devices/import
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000016s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000045s ]
+SQL: SHOW COLUMNS FROM `yh_devices` [ RunTime:0.0003s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given /var/www/mqtt/ThinkPHP/Library/Think/Upload.class.php 第 170 行.
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: sucess /var/www/mqtt/Application/Home/Controller/DevicesController.class.php 第 76 行.
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+SQL: SELECT * FROM `yh_devices` WHERE `uuid` = 'wqeqweq' LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [8] Undefined index: sucess /var/www/mqtt/Application/Home/Controller/DevicesController.class.php 第 76 行.
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+SQL: SELECT * FROM `yh_devices` WHERE `uuid` = '21421qwreqw' LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [8] Undefined index: sucess /var/www/mqtt/Application/Home/Controller/DevicesController.class.php 第 76 行.
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+SQL: SELECT * FROM `yh_devices` WHERE `uuid` = 'adasd21' LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [8] Undefined index: sucess /var/www/mqtt/Application/Home/Controller/DevicesController.class.php 第 76 行.
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+SQL: SELECT * FROM `yh_devices` WHERE `uuid` = 'qwrqwrq2142141' LIMIT 1   [ RunTime:0.0001s ]
+NOTIC: [8] Undefined index: sucess /var/www/mqtt/Application/Home/Controller/DevicesController.class.php 第 76 行.
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+SQL: SELECT * FROM `yh_devices` WHERE `uuid` = '6666777777' LIMIT 1   [ RunTime:0.0001s ]
+NOTIC: [8] Undefined index: sucess /var/www/mqtt/Application/Home/Controller/DevicesController.class.php 第 76 行.
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+SQL: SELECT * FROM `yh_devices` WHERE `uuid` = 'eeeeeeeeeee22222222222222222222222222222222222222222222' LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [8] Undefined index: sucess /var/www/mqtt/Application/Home/Controller/DevicesController.class.php 第 76 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000027s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000047s ]
+
+[ 2016-09-12T19:30:27+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-12T19:30:42+08:00 ] 127.0.0.1 /devices/import
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000018s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000051s ]
+SQL: SHOW COLUMNS FROM `yh_devices` [ RunTime:0.0039s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given /var/www/mqtt/ThinkPHP/Library/Think/Upload.class.php 第 170 行.
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: sucess /var/www/mqtt/Application/Home/Controller/DevicesController.class.php 第 76 行.
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+SQL: SELECT * FROM `yh_devices` WHERE `uuid` = 'wqeqweq' LIMIT 1   [ RunTime:0.0033s ]
+NOTIC: [8] Undefined index: sucess /var/www/mqtt/Application/Home/Controller/DevicesController.class.php 第 76 行.
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+SQL: SELECT * FROM `yh_devices` WHERE `uuid` = '21421qwreqw' LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [8] Undefined index: sucess /var/www/mqtt/Application/Home/Controller/DevicesController.class.php 第 76 行.
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+SQL: SELECT * FROM `yh_devices` WHERE `uuid` = 'adasd21' LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [8] Undefined index: sucess /var/www/mqtt/Application/Home/Controller/DevicesController.class.php 第 76 行.
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+SQL: SELECT * FROM `yh_devices` WHERE `uuid` = 'qwrqwrq2142141' LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [8] Undefined index: sucess /var/www/mqtt/Application/Home/Controller/DevicesController.class.php 第 76 行.
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+SQL: SELECT * FROM `yh_devices` WHERE `uuid` = '6666777777' LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [8] Undefined index: sucess /var/www/mqtt/Application/Home/Controller/DevicesController.class.php 第 76 行.
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+SQL: SELECT * FROM `yh_devices` WHERE `uuid` = 'eeeeeeeeeee22222222222222222222222222222222222222222222' LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [8] Undefined index: sucess /var/www/mqtt/Application/Home/Controller/DevicesController.class.php 第 76 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000036s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000056s ]
+
+[ 2016-09-12T19:34:19+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-12T19:34:21+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-12T19:34:21+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-12T19:34:22+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+
+[ 2016-09-12T19:34:27+08:00 ] 127.0.0.1 /devices/import
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000015s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000047s ]
+SQL: SHOW COLUMNS FROM `yh_devices` [ RunTime:0.0003s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given /var/www/mqtt/ThinkPHP/Library/Think/Upload.class.php 第 170 行.
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: sucess /var/www/mqtt/Application/Home/Controller/DevicesController.class.php 第 76 行.
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+SQL: SELECT * FROM `yh_devices` WHERE `uuid` = 'wqeqweq' LIMIT 1   [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: sucess /var/www/mqtt/Application/Home/Controller/DevicesController.class.php 第 76 行.
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+SQL: SELECT * FROM `yh_devices` WHERE `uuid` = '21421qwreqw' LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [8] Undefined index: sucess /var/www/mqtt/Application/Home/Controller/DevicesController.class.php 第 76 行.
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+SQL: SELECT * FROM `yh_devices` WHERE `uuid` = 'adasd21' LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [8] Undefined index: sucess /var/www/mqtt/Application/Home/Controller/DevicesController.class.php 第 76 行.
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+SQL: SELECT * FROM `yh_devices` WHERE `uuid` = 'qwrqwrq2142141' LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [8] Undefined index: sucess /var/www/mqtt/Application/Home/Controller/DevicesController.class.php 第 76 行.
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+SQL: SELECT * FROM `yh_devices` WHERE `uuid` = '6666777777' LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [8] Undefined index: sucess /var/www/mqtt/Application/Home/Controller/DevicesController.class.php 第 76 行.
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+SQL: SELECT * FROM `yh_devices` WHERE `uuid` = 'eeeeeeeeeee22222222222222222222222222222222222222222222' LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [8] Undefined index: sucess /var/www/mqtt/Application/Home/Controller/DevicesController.class.php 第 76 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000028s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000050s ]
+
+[ 2016-09-12T19:35:54+08:00 ] 127.0.0.1 /Public/js/lib/jquery-1.10.2.min.map
+ERR: 非法操作:js
+

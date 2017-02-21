@@ -1,0 +1,2672 @@
+[ 2017-02-15T10:05:40+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000052s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000022s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000053s ]
+NOTIC: [2] Declaration of Mapi\Controller\DevicesController::get() should be compatible with Think\Controller::get($name = '') /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 4 行.
+
+[ 2017-02-15T10:05:40+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000054s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000020s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000047s ]
+NOTIC: [2] Declaration of Mapi\Controller\DevicesController::get() should be compatible with Think\Controller::get($name = '') /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 4 行.
+
+[ 2017-02-15T10:08:04+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000058s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000021s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000048s ]
+NOTIC: [2] Declaration of Mapi\Controller\DevicesController::get() should be compatible with Think\Controller::get($name = '') /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `yh_customer` [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: auto /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1128 行.
+SQL: SELECT * FROM `yh_customer` WHERE `uid` = '1' AND `token` = 'e31f50d16517a8e0e5a493d3b0a5f40a' LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `yh_cdevices` [ RunTime:0.0021s ]
+SQL: SELECT yh_cdevices.device_name,yh_devices.* FROM `yh_cdevices` LEFT JOIN yh_devices ON yh_cdevices.did = yh_devices.id  WHERE yh_cdevices.cid = '1' AND yh_cdevices.status = 1  [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `yh_task` [ RunTime:0.0018s ]
+SQL: SELECT * FROM `yh_task` WHERE `cid` = '1' AND `did` = '1262' ORDER BY id desc LIMIT 1   [ RunTime:0.0038s ]
+NOTIC: [8] Undefined offset: 0 /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 11 行.
+NOTIC: [8] Undefined offset: 0 /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 12 行.
+SQL: SELECT * FROM `yh_task` WHERE `cid` = '1' AND `did` = '1263' ORDER BY id desc LIMIT 1   [ RunTime:0.0003s ]
+NOTIC: [8] Undefined offset: 0 /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 11 行.
+NOTIC: [8] Undefined offset: 0 /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 12 行.
+
+[ 2017-02-15T10:35:16+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000053s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000019s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000046s ]
+NOTIC: [2] Declaration of Mapi\Controller\DevicesController::get() should be compatible with Think\Controller::get($name = '') /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 4 行.
+
+[ 2017-02-15T10:35:16+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000048s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000017s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000042s ]
+NOTIC: [2] Declaration of Mapi\Controller\DevicesController::get() should be compatible with Think\Controller::get($name = '') /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 4 行.
+
+[ 2017-02-15T10:35:22+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000070s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000026s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000063s ]
+NOTIC: [2] Declaration of Mapi\Controller\DevicesController::get() should be compatible with Think\Controller::get($name = '') /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 4 行.
+
+[ 2017-02-15T10:35:22+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000077s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000030s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000071s ]
+NOTIC: [2] Declaration of Mapi\Controller\DevicesController::get() should be compatible with Think\Controller::get($name = '') /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 4 行.
+
+[ 2017-02-15T10:56:36+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000059s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000023s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000050s ]
+NOTIC: [2] Declaration of Mapi\Controller\DevicesController::get() should be compatible with Think\Controller::get($name = '') /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 4 行.
+
+[ 2017-02-15T10:56:37+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000048s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000016s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000042s ]
+NOTIC: [2] Declaration of Mapi\Controller\DevicesController::get() should be compatible with Think\Controller::get($name = '') /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 4 行.
+
+[ 2017-02-15T10:57:02+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000048s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000017s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000042s ]
+NOTIC: [2] Declaration of Mapi\Controller\DevicesController::get() should be compatible with Think\Controller::get($name = '') /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 4 行.
+
+[ 2017-02-15T10:57:02+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000050s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000017s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000043s ]
+NOTIC: [2] Declaration of Mapi\Controller\DevicesController::get() should be compatible with Think\Controller::get($name = '') /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 4 行.
+
+[ 2017-02-15T10:59:09+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000052s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000018s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000042s ]
+NOTIC: [2] Declaration of Mapi\Controller\DevicesController::get() should be compatible with Think\Controller::get($name = '') /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `yh_customer` [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: auto /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1128 行.
+SQL: SELECT * FROM `yh_customer` WHERE `uid` = '1' AND `token` = 'e31f50d16517a8e0e5a493d3b0a5f40a' LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `yh_cdevices` [ RunTime:0.0002s ]
+SQL: SELECT yh_cdevices.device_name,yh_devices.* FROM `yh_cdevices` LEFT JOIN yh_devices ON yh_cdevices.did = yh_devices.id  WHERE yh_cdevices.cid = '1' AND yh_cdevices.status = 1  [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `yh_task` [ RunTime:0.0003s ]
+SQL: SELECT * FROM `yh_task` WHERE `cid` = '1' AND `did` = '1262' ORDER BY id desc LIMIT 1   [ RunTime:0.0004s ]
+NOTIC: [8] Undefined offset: 0 /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 11 行.
+NOTIC: [8] Undefined offset: 0 /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 12 行.
+SQL: SELECT * FROM `yh_task` WHERE `cid` = '1' AND `did` = '1263' ORDER BY id desc LIMIT 1   [ RunTime:0.0003s ]
+NOTIC: [8] Undefined offset: 0 /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 11 行.
+NOTIC: [8] Undefined offset: 0 /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 12 行.
+
+[ 2017-02-15T11:00:43+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000090s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000018s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000053s ]
+NOTIC: [2] Declaration of Mapi\Controller\DevicesController::get() should be compatible with Think\Controller::get($name = '') /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `yh_customer` [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: auto /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1128 行.
+SQL: SELECT * FROM `yh_customer` WHERE `uid` = '1' AND `token` = 'e31f50d16517a8e0e5a493d3b0a5f40a' LIMIT 1   [ RunTime:0.0001s ]
+SQL: SHOW COLUMNS FROM `yh_cdevices` [ RunTime:0.0003s ]
+SQL: SELECT yh_cdevices.device_name,yh_devices.* FROM `yh_cdevices` LEFT JOIN yh_devices ON yh_cdevices.did = yh_devices.id  WHERE yh_cdevices.cid = '1' AND yh_cdevices.status = 1  [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `yh_task` [ RunTime:0.0003s ]
+SQL: SELECT * FROM `yh_task` WHERE `cid` = '1' AND `did` = '1262' ORDER BY id desc LIMIT 1   [ RunTime:0.0004s ]
+NOTIC: [8] Undefined offset: 0 /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 11 行.
+NOTIC: [8] Undefined offset: 0 /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 12 行.
+SQL: SELECT * FROM `yh_task` WHERE `cid` = '1' AND `did` = '1263' ORDER BY id desc LIMIT 1   [ RunTime:0.0003s ]
+NOTIC: [8] Undefined offset: 0 /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 11 行.
+NOTIC: [8] Undefined offset: 0 /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 12 行.
+
+[ 2017-02-15T11:04:15+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000052s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000019s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000045s ]
+NOTIC: [2] Declaration of Mapi\Controller\DevicesController::get() should be compatible with Think\Controller::get($name = '') /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 4 行.
+
+[ 2017-02-15T11:04:15+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000051s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000018s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000044s ]
+NOTIC: [2] Declaration of Mapi\Controller\DevicesController::get() should be compatible with Think\Controller::get($name = '') /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 4 行.
+
+[ 2017-02-15T11:04:24+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000081s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000030s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000072s ]
+NOTIC: [2] Declaration of Mapi\Controller\DevicesController::get() should be compatible with Think\Controller::get($name = '') /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `yh_customer` [ RunTime:0.0005s ]
+NOTIC: [8] Undefined index: auto /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1128 行.
+SQL: SELECT * FROM `yh_customer` WHERE `uid` = '1' AND `token` = 'e31f50d16517a8e0e5a493d3b0a5f40a' LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `yh_cdevices` [ RunTime:0.0003s ]
+SQL: SELECT yh_cdevices.device_name,yh_devices.* FROM `yh_cdevices` LEFT JOIN yh_devices ON yh_cdevices.did = yh_devices.id  WHERE yh_cdevices.cid = '1' AND yh_cdevices.status = 1  [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `yh_task` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `yh_task` WHERE `cid` = '1' AND `did` = '1262' ORDER BY id desc LIMIT 1   [ RunTime:0.0005s ]
+NOTIC: [8] Undefined offset: 0 /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 11 行.
+NOTIC: [8] Undefined offset: 0 /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 12 行.
+SQL: SELECT * FROM `yh_task` WHERE `cid` = '1' AND `did` = '1263' ORDER BY id desc LIMIT 1   [ RunTime:0.0005s ]
+NOTIC: [8] Undefined offset: 0 /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 11 行.
+NOTIC: [8] Undefined offset: 0 /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 12 行.
+
+[ 2017-02-15T11:04:24+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000049s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000017s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000042s ]
+NOTIC: [2] Declaration of Mapi\Controller\DevicesController::get() should be compatible with Think\Controller::get($name = '') /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 4 行.
+
+[ 2017-02-15T11:04:27+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000051s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000018s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000045s ]
+NOTIC: [2] Declaration of Mapi\Controller\DevicesController::get() should be compatible with Think\Controller::get($name = '') /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `yh_customer` [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: auto /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1128 行.
+SQL: SELECT * FROM `yh_customer` WHERE `uid` = '1' AND `token` = 'e31f50d16517a8e0e5a493d3b0a5f40a' LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `yh_cdevices` [ RunTime:0.0003s ]
+SQL: SELECT yh_cdevices.device_name,yh_devices.* FROM `yh_cdevices` LEFT JOIN yh_devices ON yh_cdevices.did = yh_devices.id  WHERE yh_cdevices.cid = '1' AND yh_cdevices.status = 1  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `yh_task` [ RunTime:0.0002s ]
+SQL: SELECT * FROM `yh_task` WHERE `cid` = '1' AND `did` = '1262' ORDER BY id desc LIMIT 1   [ RunTime:0.0003s ]
+NOTIC: [8] Undefined offset: 0 /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 11 行.
+NOTIC: [8] Undefined offset: 0 /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 12 行.
+SQL: SELECT * FROM `yh_task` WHERE `cid` = '1' AND `did` = '1263' ORDER BY id desc LIMIT 1   [ RunTime:0.0003s ]
+NOTIC: [8] Undefined offset: 0 /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 11 行.
+NOTIC: [8] Undefined offset: 0 /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 12 行.
+
+[ 2017-02-15T11:07:14+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000052s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000018s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000045s ]
+NOTIC: [2] Declaration of Mapi\Controller\DevicesController::get() should be compatible with Think\Controller::get($name = '') /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `yh_customer` [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: auto /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1128 行.
+SQL: SELECT * FROM `yh_customer` WHERE `uid` = '1' AND `token` = 'e31f50d16517a8e0e5a493d3b0a5f40a' LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `yh_cdevices` [ RunTime:0.0002s ]
+SQL: SELECT yh_cdevices.device_name,yh_devices.* FROM `yh_cdevices` LEFT JOIN yh_devices ON yh_cdevices.did = yh_devices.id  WHERE yh_cdevices.cid = '1' AND yh_cdevices.status = 1  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `yh_task` [ RunTime:0.0002s ]
+SQL: SELECT * FROM `yh_task` WHERE `cid` = '1' AND `did` = '1262' ORDER BY id desc LIMIT 1   [ RunTime:0.0004s ]
+NOTIC: [8] Undefined offset: 0 /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 11 行.
+NOTIC: [8] Undefined offset: 0 /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 12 行.
+SQL: SELECT * FROM `yh_task` WHERE `cid` = '1' AND `did` = '1263' ORDER BY id desc LIMIT 1   [ RunTime:0.0003s ]
+NOTIC: [8] Undefined offset: 0 /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 11 行.
+NOTIC: [8] Undefined offset: 0 /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 12 行.
+
+[ 2017-02-15T11:09:12+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000191s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000073s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000181s ]
+NOTIC: [2] Declaration of Mapi\Controller\DevicesController::get() should be compatible with Think\Controller::get($name = '') /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 4 行.
+
+[ 2017-02-15T11:09:12+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000161s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000056s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000148s ]
+NOTIC: [2] Declaration of Mapi\Controller\DevicesController::get() should be compatible with Think\Controller::get($name = '') /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 4 行.
+
+[ 2017-02-15T11:09:21+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000093s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000035s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000084s ]
+NOTIC: [2] Declaration of Mapi\Controller\DevicesController::get() should be compatible with Think\Controller::get($name = '') /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `yh_customer` [ RunTime:0.0005s ]
+NOTIC: [8] Undefined index: auto /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1128 行.
+SQL: SELECT * FROM `yh_customer` WHERE `uid` = '1' AND `token` = 'e31f50d16517a8e0e5a493d3b0a5f40a' LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `yh_cdevices` [ RunTime:0.0004s ]
+SQL: SELECT yh_cdevices.device_name,yh_devices.* FROM `yh_cdevices` LEFT JOIN yh_devices ON yh_cdevices.did = yh_devices.id  WHERE yh_cdevices.cid = '1' AND yh_cdevices.status = 1  [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `yh_task` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `yh_task` WHERE `cid` = '1' AND `did` = '1262' ORDER BY id desc LIMIT 1   [ RunTime:0.0006s ]
+NOTIC: [8] Undefined offset: 0 /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 11 行.
+NOTIC: [8] Undefined offset: 0 /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 12 行.
+SQL: SELECT * FROM `yh_task` WHERE `cid` = '1' AND `did` = '1263' ORDER BY id desc LIMIT 1   [ RunTime:0.0006s ]
+NOTIC: [8] Undefined offset: 0 /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 11 行.
+NOTIC: [8] Undefined offset: 0 /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 12 行.
+
+[ 2017-02-15T11:09:21+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000052s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000018s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000044s ]
+NOTIC: [2] Declaration of Mapi\Controller\DevicesController::get() should be compatible with Think\Controller::get($name = '') /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 4 行.
+
+[ 2017-02-15T11:09:25+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000051s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000018s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000044s ]
+NOTIC: [2] Declaration of Mapi\Controller\DevicesController::get() should be compatible with Think\Controller::get($name = '') /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `yh_customer` [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: auto /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1128 行.
+SQL: SELECT * FROM `yh_customer` WHERE `uid` = '1' AND `token` = 'e31f50d16517a8e0e5a493d3b0a5f40a' LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `yh_cdevices` [ RunTime:0.0003s ]
+SQL: SELECT yh_cdevices.device_name,yh_devices.* FROM `yh_cdevices` LEFT JOIN yh_devices ON yh_cdevices.did = yh_devices.id  WHERE yh_cdevices.cid = '1' AND yh_cdevices.status = 1  [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `yh_task` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `yh_task` WHERE `cid` = '1' AND `did` = '1262' ORDER BY id desc LIMIT 1   [ RunTime:0.0004s ]
+NOTIC: [8] Undefined offset: 0 /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 11 行.
+NOTIC: [8] Undefined offset: 0 /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 12 行.
+SQL: SELECT * FROM `yh_task` WHERE `cid` = '1' AND `did` = '1263' ORDER BY id desc LIMIT 1   [ RunTime:0.0003s ]
+NOTIC: [8] Undefined offset: 0 /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 11 行.
+NOTIC: [8] Undefined offset: 0 /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 12 行.
+
+[ 2017-02-15T11:10:10+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000051s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000018s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000044s ]
+NOTIC: [2] Declaration of Mapi\Controller\DevicesController::get() should be compatible with Think\Controller::get($name = '') /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `yh_customer` [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: auto /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1128 行.
+SQL: SELECT * FROM `yh_customer` WHERE `uid` = '1' AND `token` = 'e31f50d16517a8e0e5a493d3b0a5f40a' LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `yh_cdevices` [ RunTime:0.0003s ]
+SQL: SELECT yh_cdevices.device_name,yh_devices.* FROM `yh_cdevices` LEFT JOIN yh_devices ON yh_cdevices.did = yh_devices.id  WHERE yh_cdevices.cid = '1' AND yh_cdevices.status = 1  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `yh_task` [ RunTime:0.0003s ]
+SQL: SELECT * FROM `yh_task` WHERE `cid` = '1' AND `did` = '1262' ORDER BY id desc LIMIT 1   [ RunTime:0.0004s ]
+NOTIC: [8] Undefined offset: 0 /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 11 行.
+NOTIC: [8] Undefined offset: 0 /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 12 行.
+SQL: SELECT * FROM `yh_task` WHERE `cid` = '1' AND `did` = '1263' ORDER BY id desc LIMIT 1   [ RunTime:0.0004s ]
+NOTIC: [8] Undefined offset: 0 /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 11 行.
+NOTIC: [8] Undefined offset: 0 /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 12 行.
+
+[ 2017-02-15T11:14:53+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000044s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000015s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000039s ]
+NOTIC: [2] Declaration of Mapi\Controller\DevicesController::get() should be compatible with Think\Controller::get($name = '') /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `yh_customer` [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: auto /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1128 行.
+SQL: SELECT * FROM `yh_customer` WHERE `uid` = '1' AND `token` = 'e31f50d16517a8e0e5a493d3b0a5f40a' LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `yh_cdevices` [ RunTime:0.0002s ]
+SQL: SELECT yh_cdevices.device_name,yh_devices.* FROM `yh_cdevices` LEFT JOIN yh_devices ON yh_cdevices.did = yh_devices.id  WHERE yh_cdevices.cid = '1' AND yh_cdevices.status = 1  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `yh_task` [ RunTime:0.0002s ]
+SQL: SELECT * FROM `yh_task` WHERE `cid` = '1' AND `did` = '1262' ORDER BY id desc LIMIT 1   [ RunTime:0.0004s ]
+NOTIC: [8] Undefined offset: 0 /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 11 行.
+NOTIC: [8] Undefined offset: 0 /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 12 行.
+SQL: SELECT * FROM `yh_task` WHERE `cid` = '1' AND `did` = '1263' ORDER BY id desc LIMIT 1   [ RunTime:0.0003s ]
+NOTIC: [8] Undefined offset: 0 /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 11 行.
+NOTIC: [8] Undefined offset: 0 /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 12 行.
+
+[ 2017-02-15T11:15:43+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000052s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000018s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000044s ]
+NOTIC: [2] Declaration of Mapi\Controller\DevicesController::get() should be compatible with Think\Controller::get($name = '') /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 4 行.
+
+[ 2017-02-15T11:15:43+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000050s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000017s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000042s ]
+NOTIC: [2] Declaration of Mapi\Controller\DevicesController::get() should be compatible with Think\Controller::get($name = '') /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 4 行.
+
+[ 2017-02-15T11:15:55+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000050s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000017s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000041s ]
+NOTIC: [2] Declaration of Mapi\Controller\DevicesController::get() should be compatible with Think\Controller::get($name = '') /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `yh_customer` [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: auto /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1128 行.
+SQL: SELECT * FROM `yh_customer` WHERE `uid` = '1' AND `token` = 'e31f50d16517a8e0e5a493d3b0a5f40a' LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `yh_cdevices` [ RunTime:0.0002s ]
+SQL: SELECT yh_cdevices.device_name,yh_devices.* FROM `yh_cdevices` LEFT JOIN yh_devices ON yh_cdevices.did = yh_devices.id  WHERE yh_cdevices.cid = '1' AND yh_cdevices.status = 1  [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `yh_task` [ RunTime:0.0003s ]
+SQL: SELECT * FROM `yh_task` WHERE `cid` = '1' AND `did` = '1262' ORDER BY id desc LIMIT 1   [ RunTime:0.0003s ]
+NOTIC: [8] Undefined offset: 0 /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 11 行.
+NOTIC: [8] Undefined offset: 0 /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 12 行.
+SQL: SELECT * FROM `yh_task` WHERE `cid` = '1' AND `did` = '1263' ORDER BY id desc LIMIT 1   [ RunTime:0.0003s ]
+NOTIC: [8] Undefined offset: 0 /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 11 行.
+NOTIC: [8] Undefined offset: 0 /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 12 行.
+
+[ 2017-02-15T11:15:55+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000046s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000016s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000039s ]
+NOTIC: [2] Declaration of Mapi\Controller\DevicesController::get() should be compatible with Think\Controller::get($name = '') /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 4 行.
+
+[ 2017-02-15T11:15:59+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000094s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000033s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000083s ]
+NOTIC: [2] Declaration of Mapi\Controller\DevicesController::get() should be compatible with Think\Controller::get($name = '') /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `yh_customer` [ RunTime:0.0005s ]
+NOTIC: [8] Undefined index: auto /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1128 行.
+SQL: SELECT * FROM `yh_customer` WHERE `uid` = '1' AND `token` = 'e31f50d16517a8e0e5a493d3b0a5f40a' LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `yh_cdevices` [ RunTime:0.0004s ]
+SQL: SELECT yh_cdevices.device_name,yh_devices.* FROM `yh_cdevices` LEFT JOIN yh_devices ON yh_cdevices.did = yh_devices.id  WHERE yh_cdevices.cid = '1' AND yh_cdevices.status = 1  [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `yh_task` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `yh_task` WHERE `cid` = '1' AND `did` = '1262' ORDER BY id desc LIMIT 1   [ RunTime:0.0006s ]
+NOTIC: [8] Undefined offset: 0 /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 11 行.
+NOTIC: [8] Undefined offset: 0 /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 12 行.
+SQL: SELECT * FROM `yh_task` WHERE `cid` = '1' AND `did` = '1263' ORDER BY id desc LIMIT 1   [ RunTime:0.0006s ]
+NOTIC: [8] Undefined offset: 0 /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 11 行.
+NOTIC: [8] Undefined offset: 0 /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 12 行.
+
+[ 2017-02-15T11:29:16+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000052s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000019s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000045s ]
+NOTIC: [2] Declaration of Mapi\Controller\DevicesController::get() should be compatible with Think\Controller::get($name = '') /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `yh_customer` [ RunTime:0.0004s ]
+NOTIC: [8] Undefined index: auto /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1128 行.
+SQL: SELECT * FROM `yh_customer` WHERE `uid` = '1' AND `token` = 'e31f50d16517a8e0e5a493d3b0a5f40a' LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `yh_cdevices` [ RunTime:0.0002s ]
+SQL: SELECT yh_cdevices.device_name,yh_devices.* FROM `yh_cdevices` LEFT JOIN yh_devices ON yh_cdevices.did = yh_devices.id  WHERE yh_cdevices.cid = '1' AND yh_cdevices.status = 1  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `yh_task` [ RunTime:0.0003s ]
+SQL: SELECT * FROM `yh_task` WHERE `cid` = '1' AND `did` = '1262' ORDER BY id desc LIMIT 1   [ RunTime:0.0004s ]
+NOTIC: [8] Undefined offset: 0 /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 11 行.
+NOTIC: [8] Undefined offset: 0 /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 12 行.
+SQL: SELECT * FROM `yh_task` WHERE `cid` = '1' AND `did` = '1263' ORDER BY id desc LIMIT 1   [ RunTime:0.0003s ]
+NOTIC: [8] Undefined offset: 0 /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 11 行.
+NOTIC: [8] Undefined offset: 0 /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 12 行.
+
+[ 2017-02-15T11:37:40+08:00 ] 192.168.2.104 /index.php/mapi/cdevices/updatepost
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000052s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000019s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000051s ]
+
+[ 2017-02-15T11:37:40+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000049s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000017s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000042s ]
+NOTIC: [2] Declaration of Mapi\Controller\DevicesController::get() should be compatible with Think\Controller::get($name = '') /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 4 行.
+
+[ 2017-02-15T11:37:48+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000090s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000033s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000081s ]
+NOTIC: [2] Declaration of Mapi\Controller\DevicesController::get() should be compatible with Think\Controller::get($name = '') /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 4 行.
+
+[ 2017-02-15T11:37:48+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000049s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000017s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000042s ]
+NOTIC: [2] Declaration of Mapi\Controller\DevicesController::get() should be compatible with Think\Controller::get($name = '') /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 4 行.
+
+[ 2017-02-15T11:39:46+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000048s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000053s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000086s ]
+NOTIC: [2] Declaration of Mapi\Controller\DevicesController::get() should be compatible with Think\Controller::get($name = '') /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 4 行.
+
+[ 2017-02-15T11:39:46+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000058s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000014s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000037s ]
+NOTIC: [2] Declaration of Mapi\Controller\DevicesController::get() should be compatible with Think\Controller::get($name = '') /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 4 行.
+
+[ 2017-02-15T11:39:48+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000045s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000016s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000038s ]
+NOTIC: [2] Declaration of Mapi\Controller\DevicesController::get() should be compatible with Think\Controller::get($name = '') /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `yh_customer` [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: auto /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1128 行.
+SQL: SELECT * FROM `yh_customer` WHERE `uid` = '1' AND `token` = 'e31f50d16517a8e0e5a493d3b0a5f40a' LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `yh_cdevices` [ RunTime:0.0002s ]
+SQL: SELECT yh_cdevices.device_name,yh_devices.* FROM `yh_cdevices` LEFT JOIN yh_devices ON yh_cdevices.did = yh_devices.id  WHERE yh_cdevices.cid = '1' AND yh_cdevices.status = 1  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `yh_task` [ RunTime:0.0002s ]
+SQL: SELECT * FROM `yh_task` WHERE `cid` = '1' AND `did` = '1262' ORDER BY id desc LIMIT 1   [ RunTime:0.0003s ]
+NOTIC: [8] Undefined offset: 0 /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 11 行.
+NOTIC: [8] Undefined offset: 0 /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 12 行.
+SQL: SELECT * FROM `yh_task` WHERE `cid` = '1' AND `did` = '1263' ORDER BY id desc LIMIT 1   [ RunTime:0.0003s ]
+NOTIC: [8] Undefined offset: 0 /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 11 行.
+NOTIC: [8] Undefined offset: 0 /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 12 行.
+
+[ 2017-02-15T11:39:50+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000050s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000018s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000043s ]
+NOTIC: [2] Declaration of Mapi\Controller\DevicesController::get() should be compatible with Think\Controller::get($name = '') /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `yh_customer` [ RunTime:0.0004s ]
+NOTIC: [8] Undefined index: auto /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1128 行.
+SQL: SELECT * FROM `yh_customer` WHERE `uid` = '1' AND `token` = 'e31f50d16517a8e0e5a493d3b0a5f40a' LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `yh_cdevices` [ RunTime:0.0002s ]
+SQL: SELECT yh_cdevices.device_name,yh_devices.* FROM `yh_cdevices` LEFT JOIN yh_devices ON yh_cdevices.did = yh_devices.id  WHERE yh_cdevices.cid = '1' AND yh_cdevices.status = 1  [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `yh_task` [ RunTime:0.0003s ]
+SQL: SELECT * FROM `yh_task` WHERE `cid` = '1' AND `did` = '1262' ORDER BY id desc LIMIT 1   [ RunTime:0.0004s ]
+NOTIC: [8] Undefined offset: 0 /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 11 行.
+NOTIC: [8] Undefined offset: 0 /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 12 行.
+SQL: SELECT * FROM `yh_task` WHERE `cid` = '1' AND `did` = '1263' ORDER BY id desc LIMIT 1   [ RunTime:0.0004s ]
+NOTIC: [8] Undefined offset: 0 /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 11 行.
+NOTIC: [8] Undefined offset: 0 /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 12 行.
+
+[ 2017-02-15T11:40:00+08:00 ] 192.168.2.104 /index.php/mapi/cdevices/updatepost
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000053s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000019s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000044s ]
+SQL: SHOW COLUMNS FROM `yh_customer` [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: auto /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1128 行.
+SQL: SELECT * FROM `yh_customer` WHERE `uid` = '1' AND `token` = 'e31f50d16517a8e0e5a493d3b0a5f40a' LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `yh_cdevices` [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: auto /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1128 行.
+SQL: UPDATE `yh_cdevices` SET `device_name`='qwe' WHERE `cid` = '1' AND `did` = '1263' [ RunTime:0.0042s ]
+SQL: SELECT * FROM `yh_cdevices` WHERE `cid` = '1' AND `did` = '1263' LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2017-02-15T11:40:00+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000050s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000017s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000042s ]
+NOTIC: [2] Declaration of Mapi\Controller\DevicesController::get() should be compatible with Think\Controller::get($name = '') /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `yh_customer` [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: auto /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1128 行.
+SQL: SELECT * FROM `yh_customer` WHERE `uid` = '1' AND `token` = 'e31f50d16517a8e0e5a493d3b0a5f40a' LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `yh_cdevices` [ RunTime:0.0002s ]
+SQL: SELECT yh_cdevices.device_name,yh_devices.* FROM `yh_cdevices` LEFT JOIN yh_devices ON yh_cdevices.did = yh_devices.id  WHERE yh_cdevices.cid = '1' AND yh_cdevices.status = 1  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `yh_task` [ RunTime:0.0002s ]
+SQL: SELECT * FROM `yh_task` WHERE `cid` = '1' AND `did` = '1262' ORDER BY id desc LIMIT 1   [ RunTime:0.0003s ]
+NOTIC: [8] Undefined offset: 0 /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 11 行.
+NOTIC: [8] Undefined offset: 0 /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 12 行.
+SQL: SELECT * FROM `yh_task` WHERE `cid` = '1' AND `did` = '1263' ORDER BY id desc LIMIT 1   [ RunTime:0.0003s ]
+NOTIC: [8] Undefined offset: 0 /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 11 行.
+NOTIC: [8] Undefined offset: 0 /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 12 行.
+
+[ 2017-02-15T11:40:01+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000049s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000017s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000042s ]
+NOTIC: [2] Declaration of Mapi\Controller\DevicesController::get() should be compatible with Think\Controller::get($name = '') /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `yh_customer` [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: auto /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1128 行.
+SQL: SELECT * FROM `yh_customer` WHERE `uid` = '1' AND `token` = 'e31f50d16517a8e0e5a493d3b0a5f40a' LIMIT 1   [ RunTime:0.0001s ]
+SQL: SHOW COLUMNS FROM `yh_cdevices` [ RunTime:0.0002s ]
+SQL: SELECT yh_cdevices.device_name,yh_devices.* FROM `yh_cdevices` LEFT JOIN yh_devices ON yh_cdevices.did = yh_devices.id  WHERE yh_cdevices.cid = '1' AND yh_cdevices.status = 1  [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `yh_task` [ RunTime:0.0003s ]
+SQL: SELECT * FROM `yh_task` WHERE `cid` = '1' AND `did` = '1262' ORDER BY id desc LIMIT 1   [ RunTime:0.0003s ]
+NOTIC: [8] Undefined offset: 0 /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 11 行.
+NOTIC: [8] Undefined offset: 0 /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 12 行.
+SQL: SELECT * FROM `yh_task` WHERE `cid` = '1' AND `did` = '1263' ORDER BY id desc LIMIT 1   [ RunTime:0.0003s ]
+NOTIC: [8] Undefined offset: 0 /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 11 行.
+NOTIC: [8] Undefined offset: 0 /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 12 行.
+
+[ 2017-02-15T11:40:10+08:00 ] 192.168.2.104 /index.php/mapi/cdevices/updatepost
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000052s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000018s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000042s ]
+SQL: SHOW COLUMNS FROM `yh_customer` [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: auto /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1128 行.
+SQL: SELECT * FROM `yh_customer` WHERE `uid` = '1' AND `token` = 'e31f50d16517a8e0e5a493d3b0a5f40a' LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `yh_cdevices` [ RunTime:0.0002s ]
+NOTIC: [8] Undefined index: auto /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1128 行.
+SQL: UPDATE `yh_cdevices` SET `device_name`='123123123' WHERE `cid` = '1' AND `did` = '1262' [ RunTime:0.0050s ]
+SQL: SELECT * FROM `yh_cdevices` WHERE `cid` = '1' AND `did` = '1262' LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2017-02-15T11:40:10+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000050s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000017s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000042s ]
+NOTIC: [2] Declaration of Mapi\Controller\DevicesController::get() should be compatible with Think\Controller::get($name = '') /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `yh_customer` [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: auto /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1128 行.
+SQL: SELECT * FROM `yh_customer` WHERE `uid` = '1' AND `token` = 'e31f50d16517a8e0e5a493d3b0a5f40a' LIMIT 1   [ RunTime:0.0001s ]
+SQL: SHOW COLUMNS FROM `yh_cdevices` [ RunTime:0.0002s ]
+SQL: SELECT yh_cdevices.device_name,yh_devices.* FROM `yh_cdevices` LEFT JOIN yh_devices ON yh_cdevices.did = yh_devices.id  WHERE yh_cdevices.cid = '1' AND yh_cdevices.status = 1  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `yh_task` [ RunTime:0.0002s ]
+SQL: SELECT * FROM `yh_task` WHERE `cid` = '1' AND `did` = '1262' ORDER BY id desc LIMIT 1   [ RunTime:0.0004s ]
+NOTIC: [8] Undefined offset: 0 /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 11 行.
+NOTIC: [8] Undefined offset: 0 /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 12 行.
+SQL: SELECT * FROM `yh_task` WHERE `cid` = '1' AND `did` = '1263' ORDER BY id desc LIMIT 1   [ RunTime:0.0003s ]
+NOTIC: [8] Undefined offset: 0 /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 11 行.
+NOTIC: [8] Undefined offset: 0 /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 12 行.
+
+[ 2017-02-15T11:43:20+08:00 ] 192.168.2.104 /index.php/mapi/cdevices/updatepost
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000053s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000019s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000052s ]
+SQL: SHOW COLUMNS FROM `yh_customer` [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: auto /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1128 行.
+SQL: SELECT * FROM `yh_customer` WHERE `uid` = '1' AND `token` = 'e31f50d16517a8e0e5a493d3b0a5f40a' LIMIT 1   [ RunTime:0.0001s ]
+SQL: SHOW COLUMNS FROM `yh_cdevices` [ RunTime:0.0002s ]
+NOTIC: [8] Undefined index: auto /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1128 行.
+SQL: UPDATE `yh_cdevices` SET `device_name`='asdass' WHERE `cid` = '1' AND `did` = '1263' [ RunTime:0.0029s ]
+SQL: SELECT * FROM `yh_cdevices` WHERE `cid` = '1' AND `did` = '1263' LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2017-02-15T11:43:20+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000050s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000016s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000042s ]
+NOTIC: [2] Declaration of Mapi\Controller\DevicesController::get() should be compatible with Think\Controller::get($name = '') /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `yh_customer` [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: auto /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1128 行.
+SQL: SELECT * FROM `yh_customer` WHERE `uid` = '1' AND `token` = 'e31f50d16517a8e0e5a493d3b0a5f40a' LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `yh_cdevices` [ RunTime:0.0003s ]
+SQL: SELECT yh_cdevices.device_name,yh_devices.* FROM `yh_cdevices` LEFT JOIN yh_devices ON yh_cdevices.did = yh_devices.id  WHERE yh_cdevices.cid = '1' AND yh_cdevices.status = 1  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `yh_task` [ RunTime:0.0002s ]
+SQL: SELECT * FROM `yh_task` WHERE `cid` = '1' AND `did` = '1262' ORDER BY id desc LIMIT 1   [ RunTime:0.0003s ]
+NOTIC: [8] Undefined offset: 0 /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 11 行.
+NOTIC: [8] Undefined offset: 0 /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 12 行.
+SQL: SELECT * FROM `yh_task` WHERE `cid` = '1' AND `did` = '1263' ORDER BY id desc LIMIT 1   [ RunTime:0.0003s ]
+NOTIC: [8] Undefined offset: 0 /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 11 行.
+NOTIC: [8] Undefined offset: 0 /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 12 行.
+
+[ 2017-02-15T11:55:49+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000053s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000019s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000044s ]
+NOTIC: [2] Declaration of Mapi\Controller\DevicesController::get() should be compatible with Think\Controller::get($name = '') /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 4 行.
+
+[ 2017-02-15T11:55:49+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000049s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000014s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000038s ]
+NOTIC: [2] Declaration of Mapi\Controller\DevicesController::get() should be compatible with Think\Controller::get($name = '') /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 4 行.
+
+[ 2017-02-15T11:55:51+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000160s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000110s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000215s ]
+NOTIC: [2] Declaration of Mapi\Controller\DevicesController::get() should be compatible with Think\Controller::get($name = '') /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `yh_customer` [ RunTime:0.0010s ]
+NOTIC: [8] Undefined index: auto /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1128 行.
+SQL: SELECT * FROM `yh_customer` WHERE `uid` = '1' AND `token` = 'e31f50d16517a8e0e5a493d3b0a5f40a' LIMIT 1   [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `yh_cdevices` [ RunTime:0.0008s ]
+SQL: SELECT yh_cdevices.device_name,yh_devices.* FROM `yh_cdevices` LEFT JOIN yh_devices ON yh_cdevices.did = yh_devices.id  WHERE yh_cdevices.cid = '1' AND yh_cdevices.status = 1  [ RunTime:0.0008s ]
+SQL: SHOW COLUMNS FROM `yh_task` [ RunTime:0.0009s ]
+SQL: SELECT * FROM `yh_task` WHERE `cid` = '1' AND `did` = '1262' ORDER BY id desc LIMIT 1   [ RunTime:0.0013s ]
+NOTIC: [8] Undefined offset: 0 /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 11 行.
+NOTIC: [8] Undefined offset: 0 /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 12 行.
+SQL: SELECT * FROM `yh_task` WHERE `cid` = '1' AND `did` = '1263' ORDER BY id desc LIMIT 1   [ RunTime:0.0013s ]
+NOTIC: [8] Undefined offset: 0 /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 11 行.
+NOTIC: [8] Undefined offset: 0 /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 12 行.
+
+[ 2017-02-15T14:17:03+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000055s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000017s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000041s ]
+NOTIC: [2] Declaration of Mapi\Controller\DevicesController::get() should be compatible with Think\Controller::get($name = '') /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 4 行.
+
+[ 2017-02-15T14:17:03+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000049s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000017s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000042s ]
+NOTIC: [2] Declaration of Mapi\Controller\DevicesController::get() should be compatible with Think\Controller::get($name = '') /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 4 行.
+
+[ 2017-02-15T14:17:15+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000080s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000030s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000074s ]
+NOTIC: [2] Declaration of Mapi\Controller\DevicesController::get() should be compatible with Think\Controller::get($name = '') /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `yh_customer` [ RunTime:0.0004s ]
+NOTIC: [8] Undefined index: auto /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1128 行.
+SQL: SELECT * FROM `yh_customer` WHERE `uid` = '1' AND `token` = 'e31f50d16517a8e0e5a493d3b0a5f40a' LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `yh_cdevices` [ RunTime:0.0003s ]
+SQL: SELECT yh_cdevices.device_name,yh_devices.* FROM `yh_cdevices` LEFT JOIN yh_devices ON yh_cdevices.did = yh_devices.id  WHERE yh_cdevices.cid = '1' AND yh_cdevices.status = 1  [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `yh_task` [ RunTime:0.0003s ]
+SQL: SELECT * FROM `yh_task` WHERE `cid` = '1' AND `did` = '1262' ORDER BY id desc LIMIT 1   [ RunTime:0.0005s ]
+NOTIC: [8] Undefined offset: 0 /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 11 行.
+NOTIC: [8] Undefined offset: 0 /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 12 行.
+SQL: SELECT * FROM `yh_task` WHERE `cid` = '1' AND `did` = '1263' ORDER BY id desc LIMIT 1   [ RunTime:0.0005s ]
+NOTIC: [8] Undefined offset: 0 /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 11 行.
+NOTIC: [8] Undefined offset: 0 /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 12 行.
+
+[ 2017-02-15T16:03:20+08:00 ] 192.168.2.104 /index.php/mapi/customer/loginpost
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000057s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000021s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000050s ]
+SQL: SHOW COLUMNS FROM `yh_customer` [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: username /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1303 行.
+
+[ 2017-02-15T16:03:25+08:00 ] 192.168.2.104 /index.php/mapi/customer/loginpost
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000052s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000019s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000044s ]
+SQL: SHOW COLUMNS FROM `yh_customer` [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: username /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1303 行.
+
+[ 2017-02-15T16:03:35+08:00 ] 192.168.2.104 /index.php/mapi/customer/loginpost
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000056s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000028s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000052s ]
+SQL: SHOW COLUMNS FROM `yh_customer` [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: username /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1303 行.
+
+[ 2017-02-15T16:07:38+08:00 ] 192.168.2.104 /index.php/mapi/customer/loginpost
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000068s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000019s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000045s ]
+SQL: SHOW COLUMNS FROM `yh_customer` [ RunTime:0.0003s ]
+SQL: SELECT * FROM `yh_customer` WHERE `username` = '18666028715' AND `password` = 'f5bb0c8de146c67b44babbf4e6584cc0' LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `yh_customer` [ RunTime:0.0002s ]
+SQL: SELECT * FROM `yh_customer` WHERE `uid` = '1' LIMIT 1   [ RunTime:0.0001s ]
+SQL: UPDATE `yh_customer` SET `token`='91dc6a758771a5015609ebc058e60829' WHERE `uid` = '1' [ RunTime:0.0098s ]
+
+[ 2017-02-15T16:07:38+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000051s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000017s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000042s ]
+NOTIC: [2] Declaration of Mapi\Controller\DevicesController::get() should be compatible with Think\Controller::get($name = '') /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `yh_customer` [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: auto /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1128 行.
+SQL: SELECT * FROM `yh_customer` WHERE `uid` = '1' AND `token` = '91dc6a758771a5015609ebc058e60829' LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `yh_cdevices` [ RunTime:0.0003s ]
+SQL: SELECT yh_cdevices.device_name,yh_devices.* FROM `yh_cdevices` LEFT JOIN yh_devices ON yh_cdevices.did = yh_devices.id  WHERE yh_cdevices.cid = '1' AND yh_cdevices.status = 1  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `yh_task` [ RunTime:0.0002s ]
+SQL: SELECT * FROM `yh_task` WHERE `cid` = '1' AND `did` = '1262' ORDER BY id desc LIMIT 1   [ RunTime:0.0003s ]
+NOTIC: [8] Undefined offset: 0 /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 11 行.
+NOTIC: [8] Undefined offset: 0 /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 12 行.
+SQL: SELECT * FROM `yh_task` WHERE `cid` = '1' AND `did` = '1263' ORDER BY id desc LIMIT 1   [ RunTime:0.0003s ]
+NOTIC: [8] Undefined offset: 0 /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 11 行.
+NOTIC: [8] Undefined offset: 0 /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 12 行.
+
+[ 2017-02-15T16:10:37+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000052s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000019s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000045s ]
+NOTIC: [2] Declaration of Mapi\Controller\DevicesController::get() should be compatible with Think\Controller::get($name = '') /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 4 行.
+
+[ 2017-02-15T16:10:37+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000053s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000019s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000045s ]
+NOTIC: [2] Declaration of Mapi\Controller\DevicesController::get() should be compatible with Think\Controller::get($name = '') /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 4 行.
+
+[ 2017-02-15T16:10:52+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000059s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000019s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000046s ]
+NOTIC: [2] Declaration of Mapi\Controller\DevicesController::get() should be compatible with Think\Controller::get($name = '') /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 4 行.
+
+[ 2017-02-15T16:10:52+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000071s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000021s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000049s ]
+NOTIC: [2] Declaration of Mapi\Controller\DevicesController::get() should be compatible with Think\Controller::get($name = '') /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 4 行.
+
+[ 2017-02-15T16:11:33+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000051s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000017s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000041s ]
+NOTIC: [2] Declaration of Mapi\Controller\DevicesController::get() should be compatible with Think\Controller::get($name = '') /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 4 行.
+
+[ 2017-02-15T16:11:33+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000052s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000017s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000041s ]
+NOTIC: [2] Declaration of Mapi\Controller\DevicesController::get() should be compatible with Think\Controller::get($name = '') /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 4 行.
+
+[ 2017-02-15T16:11:58+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000059s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000018s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000044s ]
+NOTIC: [2] Declaration of Mapi\Controller\DevicesController::get() should be compatible with Think\Controller::get($name = '') /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 4 行.
+
+[ 2017-02-15T16:11:58+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000054s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000018s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000044s ]
+NOTIC: [2] Declaration of Mapi\Controller\DevicesController::get() should be compatible with Think\Controller::get($name = '') /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 4 行.
+
+[ 2017-02-15T16:12:00+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000050s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000016s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000041s ]
+NOTIC: [2] Declaration of Mapi\Controller\DevicesController::get() should be compatible with Think\Controller::get($name = '') /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `yh_customer` [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: auto /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1128 行.
+SQL: SELECT * FROM `yh_customer` WHERE `uid` = '1' AND `token` = '91dc6a758771a5015609ebc058e60829' LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `yh_cdevices` [ RunTime:0.0002s ]
+SQL: SELECT yh_cdevices.device_name,yh_devices.* FROM `yh_cdevices` LEFT JOIN yh_devices ON yh_cdevices.did = yh_devices.id  WHERE yh_cdevices.cid = '1' AND yh_cdevices.status = 1  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `yh_task` [ RunTime:0.0002s ]
+SQL: SELECT * FROM `yh_task` WHERE `cid` = '1' AND `did` = '1262' ORDER BY id desc LIMIT 1   [ RunTime:0.0003s ]
+NOTIC: [8] Undefined offset: 0 /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 11 行.
+NOTIC: [8] Undefined offset: 0 /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 12 行.
+SQL: SELECT * FROM `yh_task` WHERE `cid` = '1' AND `did` = '1263' ORDER BY id desc LIMIT 1   [ RunTime:0.0003s ]
+NOTIC: [8] Undefined offset: 0 /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 11 行.
+NOTIC: [8] Undefined offset: 0 /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 12 行.
+
+[ 2017-02-15T16:12:40+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000051s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000018s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000043s ]
+NOTIC: [2] Declaration of Mapi\Controller\DevicesController::get() should be compatible with Think\Controller::get($name = '') /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 4 行.
+
+[ 2017-02-15T16:12:40+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000037s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000013s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000037s ]
+NOTIC: [2] Declaration of Mapi\Controller\DevicesController::get() should be compatible with Think\Controller::get($name = '') /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 4 行.
+
+[ 2017-02-15T16:13:05+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000052s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000020s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000045s ]
+NOTIC: [2] Declaration of Mapi\Controller\DevicesController::get() should be compatible with Think\Controller::get($name = '') /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 4 行.
+
+[ 2017-02-15T16:13:05+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000052s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000019s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000045s ]
+NOTIC: [2] Declaration of Mapi\Controller\DevicesController::get() should be compatible with Think\Controller::get($name = '') /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 4 行.
+
+[ 2017-02-15T16:13:12+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000055s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000019s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000046s ]
+NOTIC: [2] Declaration of Mapi\Controller\DevicesController::get() should be compatible with Think\Controller::get($name = '') /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `yh_customer` [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: auto /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1128 行.
+SQL: SELECT * FROM `yh_customer` WHERE `uid` = '1' AND `token` = '91dc6a758771a5015609ebc058e60829' LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `yh_cdevices` [ RunTime:0.0002s ]
+SQL: SELECT yh_cdevices.device_name,yh_devices.* FROM `yh_cdevices` LEFT JOIN yh_devices ON yh_cdevices.did = yh_devices.id  WHERE yh_cdevices.cid = '1' AND yh_cdevices.status = 1  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `yh_task` [ RunTime:0.0002s ]
+SQL: SELECT * FROM `yh_task` WHERE `cid` = '1' AND `did` = '1262' ORDER BY id desc LIMIT 1   [ RunTime:0.0003s ]
+NOTIC: [8] Undefined offset: 0 /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 11 行.
+NOTIC: [8] Undefined offset: 0 /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 12 行.
+SQL: SELECT * FROM `yh_task` WHERE `cid` = '1' AND `did` = '1263' ORDER BY id desc LIMIT 1   [ RunTime:0.0004s ]
+NOTIC: [8] Undefined offset: 0 /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 11 行.
+NOTIC: [8] Undefined offset: 0 /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 12 行.
+
+[ 2017-02-15T16:13:21+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000051s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000018s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000043s ]
+NOTIC: [2] Declaration of Mapi\Controller\DevicesController::get() should be compatible with Think\Controller::get($name = '') /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 4 行.
+
+[ 2017-02-15T16:13:21+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000050s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000018s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000043s ]
+NOTIC: [2] Declaration of Mapi\Controller\DevicesController::get() should be compatible with Think\Controller::get($name = '') /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 4 行.
+
+[ 2017-02-15T16:13:29+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000083s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000020s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000057s ]
+NOTIC: [2] Declaration of Mapi\Controller\DevicesController::get() should be compatible with Think\Controller::get($name = '') /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `yh_customer` [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: auto /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1128 行.
+SQL: SELECT * FROM `yh_customer` WHERE `uid` = '1' AND `token` = '91dc6a758771a5015609ebc058e60829' LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `yh_cdevices` [ RunTime:0.0002s ]
+SQL: SELECT yh_cdevices.device_name,yh_devices.* FROM `yh_cdevices` LEFT JOIN yh_devices ON yh_cdevices.did = yh_devices.id  WHERE yh_cdevices.cid = '1' AND yh_cdevices.status = 1  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `yh_task` [ RunTime:0.0002s ]
+SQL: SELECT * FROM `yh_task` WHERE `cid` = '1' AND `did` = '1262' ORDER BY id desc LIMIT 1   [ RunTime:0.0003s ]
+NOTIC: [8] Undefined offset: 0 /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 11 行.
+NOTIC: [8] Undefined offset: 0 /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 12 行.
+SQL: SELECT * FROM `yh_task` WHERE `cid` = '1' AND `did` = '1263' ORDER BY id desc LIMIT 1   [ RunTime:0.0003s ]
+NOTIC: [8] Undefined offset: 0 /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 11 行.
+NOTIC: [8] Undefined offset: 0 /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 12 行.
+
+[ 2017-02-15T16:13:54+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000050s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000015s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000040s ]
+NOTIC: [2] Declaration of Mapi\Controller\DevicesController::get() should be compatible with Think\Controller::get($name = '') /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 4 行.
+
+[ 2017-02-15T16:13:54+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000054s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000019s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000043s ]
+NOTIC: [2] Declaration of Mapi\Controller\DevicesController::get() should be compatible with Think\Controller::get($name = '') /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 4 行.
+
+[ 2017-02-15T16:14:13+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000068s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000015s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000038s ]
+NOTIC: [2] Declaration of Mapi\Controller\DevicesController::get() should be compatible with Think\Controller::get($name = '') /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 4 行.
+
+[ 2017-02-15T16:14:13+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000068s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000018s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000042s ]
+NOTIC: [2] Declaration of Mapi\Controller\DevicesController::get() should be compatible with Think\Controller::get($name = '') /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 4 行.
+
+[ 2017-02-15T16:14:25+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000050s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000018s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000044s ]
+NOTIC: [2] Declaration of Mapi\Controller\DevicesController::get() should be compatible with Think\Controller::get($name = '') /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 4 行.
+
+[ 2017-02-15T16:14:25+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000051s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000016s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000044s ]
+NOTIC: [2] Declaration of Mapi\Controller\DevicesController::get() should be compatible with Think\Controller::get($name = '') /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 4 行.
+
+[ 2017-02-15T16:14:28+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000052s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000018s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000044s ]
+NOTIC: [2] Declaration of Mapi\Controller\DevicesController::get() should be compatible with Think\Controller::get($name = '') /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `yh_customer` [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: auto /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1128 行.
+SQL: SELECT * FROM `yh_customer` WHERE `uid` = '1' AND `token` = '91dc6a758771a5015609ebc058e60829' LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `yh_cdevices` [ RunTime:0.0002s ]
+SQL: SELECT yh_cdevices.device_name,yh_devices.* FROM `yh_cdevices` LEFT JOIN yh_devices ON yh_cdevices.did = yh_devices.id  WHERE yh_cdevices.cid = '1' AND yh_cdevices.status = 1  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `yh_task` [ RunTime:0.0002s ]
+SQL: SELECT * FROM `yh_task` WHERE `cid` = '1' AND `did` = '1262' ORDER BY id desc LIMIT 1   [ RunTime:0.0003s ]
+NOTIC: [8] Undefined offset: 0 /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 11 行.
+NOTIC: [8] Undefined offset: 0 /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 12 行.
+SQL: SELECT * FROM `yh_task` WHERE `cid` = '1' AND `did` = '1263' ORDER BY id desc LIMIT 1   [ RunTime:0.0003s ]
+NOTIC: [8] Undefined offset: 0 /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 11 行.
+NOTIC: [8] Undefined offset: 0 /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 12 行.
+
+[ 2017-02-15T16:15:18+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000050s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000019s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000044s ]
+NOTIC: [2] Declaration of Mapi\Controller\DevicesController::get() should be compatible with Think\Controller::get($name = '') /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 4 行.
+
+[ 2017-02-15T16:15:18+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000050s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000018s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000044s ]
+NOTIC: [2] Declaration of Mapi\Controller\DevicesController::get() should be compatible with Think\Controller::get($name = '') /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 4 行.
+
+[ 2017-02-15T16:15:26+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000049s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000020s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000044s ]
+NOTIC: [2] Declaration of Mapi\Controller\DevicesController::get() should be compatible with Think\Controller::get($name = '') /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 4 行.
+
+[ 2017-02-15T16:15:26+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000049s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000016s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000042s ]
+NOTIC: [2] Declaration of Mapi\Controller\DevicesController::get() should be compatible with Think\Controller::get($name = '') /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 4 行.
+
+[ 2017-02-15T16:15:30+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000051s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000020s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000047s ]
+NOTIC: [2] Declaration of Mapi\Controller\DevicesController::get() should be compatible with Think\Controller::get($name = '') /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 4 行.
+
+[ 2017-02-15T16:15:30+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000050s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000018s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000044s ]
+NOTIC: [2] Declaration of Mapi\Controller\DevicesController::get() should be compatible with Think\Controller::get($name = '') /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 4 行.
+
+[ 2017-02-15T16:16:22+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000047s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000016s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000039s ]
+NOTIC: [2] Declaration of Mapi\Controller\DevicesController::get() should be compatible with Think\Controller::get($name = '') /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 4 行.
+
+[ 2017-02-15T16:16:22+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000047s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000016s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000040s ]
+NOTIC: [2] Declaration of Mapi\Controller\DevicesController::get() should be compatible with Think\Controller::get($name = '') /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 4 行.
+
+[ 2017-02-15T16:16:25+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000051s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000018s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000044s ]
+NOTIC: [2] Declaration of Mapi\Controller\DevicesController::get() should be compatible with Think\Controller::get($name = '') /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `yh_customer` [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: auto /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1128 行.
+SQL: SELECT * FROM `yh_customer` WHERE `uid` = '1' AND `token` = '91dc6a758771a5015609ebc058e60829' LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `yh_cdevices` [ RunTime:0.0002s ]
+SQL: SELECT yh_cdevices.device_name,yh_devices.* FROM `yh_cdevices` LEFT JOIN yh_devices ON yh_cdevices.did = yh_devices.id  WHERE yh_cdevices.cid = '1' AND yh_cdevices.status = 1  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `yh_task` [ RunTime:0.0002s ]
+SQL: SELECT * FROM `yh_task` WHERE `cid` = '1' AND `did` = '1262' ORDER BY id desc LIMIT 1   [ RunTime:0.0004s ]
+NOTIC: [8] Undefined offset: 0 /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 11 行.
+NOTIC: [8] Undefined offset: 0 /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 12 行.
+SQL: SELECT * FROM `yh_task` WHERE `cid` = '1' AND `did` = '1263' ORDER BY id desc LIMIT 1   [ RunTime:0.0003s ]
+NOTIC: [8] Undefined offset: 0 /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 11 行.
+NOTIC: [8] Undefined offset: 0 /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 12 行.
+
+[ 2017-02-15T16:17:03+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000051s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000017s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000042s ]
+NOTIC: [2] Declaration of Mapi\Controller\DevicesController::get() should be compatible with Think\Controller::get($name = '') /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 4 行.
+
+[ 2017-02-15T16:17:03+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000051s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000019s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000045s ]
+NOTIC: [2] Declaration of Mapi\Controller\DevicesController::get() should be compatible with Think\Controller::get($name = '') /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 4 行.
+
+[ 2017-02-15T16:17:05+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000066s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000016s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000040s ]
+NOTIC: [2] Declaration of Mapi\Controller\DevicesController::get() should be compatible with Think\Controller::get($name = '') /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `yh_customer` [ RunTime:0.0004s ]
+NOTIC: [8] Undefined index: auto /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1128 行.
+SQL: SELECT * FROM `yh_customer` WHERE `uid` = '1' AND `token` = '91dc6a758771a5015609ebc058e60829' LIMIT 1   [ RunTime:0.0001s ]
+SQL: SHOW COLUMNS FROM `yh_cdevices` [ RunTime:0.0002s ]
+SQL: SELECT yh_cdevices.device_name,yh_devices.* FROM `yh_cdevices` LEFT JOIN yh_devices ON yh_cdevices.did = yh_devices.id  WHERE yh_cdevices.cid = '1' AND yh_cdevices.status = 1  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `yh_task` [ RunTime:0.0002s ]
+SQL: SELECT * FROM `yh_task` WHERE `cid` = '1' AND `did` = '1262' ORDER BY id desc LIMIT 1   [ RunTime:0.0003s ]
+NOTIC: [8] Undefined offset: 0 /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 11 行.
+NOTIC: [8] Undefined offset: 0 /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 12 行.
+SQL: SELECT * FROM `yh_task` WHERE `cid` = '1' AND `did` = '1263' ORDER BY id desc LIMIT 1   [ RunTime:0.0003s ]
+NOTIC: [8] Undefined offset: 0 /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 11 行.
+NOTIC: [8] Undefined offset: 0 /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 12 行.
+
+[ 2017-02-15T16:17:13+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000054s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000020s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000052s ]
+NOTIC: [2] Declaration of Mapi\Controller\DevicesController::get() should be compatible with Think\Controller::get($name = '') /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 4 行.
+
+[ 2017-02-15T16:17:13+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000042s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000016s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000041s ]
+NOTIC: [2] Declaration of Mapi\Controller\DevicesController::get() should be compatible with Think\Controller::get($name = '') /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 4 行.
+
+[ 2017-02-15T16:17:15+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000049s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000016s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000042s ]
+NOTIC: [2] Declaration of Mapi\Controller\DevicesController::get() should be compatible with Think\Controller::get($name = '') /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `yh_customer` [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: auto /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1128 行.
+SQL: SELECT * FROM `yh_customer` WHERE `uid` = '1' AND `token` = '91dc6a758771a5015609ebc058e60829' LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `yh_cdevices` [ RunTime:0.0002s ]
+SQL: SELECT yh_cdevices.device_name,yh_devices.* FROM `yh_cdevices` LEFT JOIN yh_devices ON yh_cdevices.did = yh_devices.id  WHERE yh_cdevices.cid = '1' AND yh_cdevices.status = 1  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `yh_task` [ RunTime:0.0002s ]
+SQL: SELECT * FROM `yh_task` WHERE `cid` = '1' AND `did` = '1262' ORDER BY id desc LIMIT 1   [ RunTime:0.0003s ]
+NOTIC: [8] Undefined offset: 0 /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 11 行.
+NOTIC: [8] Undefined offset: 0 /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 12 行.
+SQL: SELECT * FROM `yh_task` WHERE `cid` = '1' AND `did` = '1263' ORDER BY id desc LIMIT 1   [ RunTime:0.0003s ]
+NOTIC: [8] Undefined offset: 0 /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 11 行.
+NOTIC: [8] Undefined offset: 0 /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 12 行.
+
+[ 2017-02-15T16:17:44+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000059s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000019s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000044s ]
+NOTIC: [2] Declaration of Mapi\Controller\DevicesController::get() should be compatible with Think\Controller::get($name = '') /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 4 行.
+
+[ 2017-02-15T16:17:44+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000093s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000016s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000040s ]
+NOTIC: [2] Declaration of Mapi\Controller\DevicesController::get() should be compatible with Think\Controller::get($name = '') /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 4 行.
+
+[ 2017-02-15T16:17:50+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000051s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000018s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000044s ]
+NOTIC: [2] Declaration of Mapi\Controller\DevicesController::get() should be compatible with Think\Controller::get($name = '') /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `yh_customer` [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: auto /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1128 行.
+SQL: SELECT * FROM `yh_customer` WHERE `uid` = '1' AND `token` = '91dc6a758771a5015609ebc058e60829' LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `yh_cdevices` [ RunTime:0.0002s ]
+SQL: SELECT yh_cdevices.device_name,yh_devices.* FROM `yh_cdevices` LEFT JOIN yh_devices ON yh_cdevices.did = yh_devices.id  WHERE yh_cdevices.cid = '1' AND yh_cdevices.status = 1  [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `yh_task` [ RunTime:0.0002s ]
+SQL: SELECT * FROM `yh_task` WHERE `cid` = '1' AND `did` = '1262' ORDER BY id desc LIMIT 1   [ RunTime:0.0003s ]
+NOTIC: [8] Undefined offset: 0 /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 11 行.
+NOTIC: [8] Undefined offset: 0 /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 12 行.
+SQL: SELECT * FROM `yh_task` WHERE `cid` = '1' AND `did` = '1263' ORDER BY id desc LIMIT 1   [ RunTime:0.0003s ]
+NOTIC: [8] Undefined offset: 0 /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 11 行.
+NOTIC: [8] Undefined offset: 0 /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 12 行.
+
+[ 2017-02-15T16:18:50+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000048s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000015s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000039s ]
+NOTIC: [2] Declaration of Mapi\Controller\DevicesController::get() should be compatible with Think\Controller::get($name = '') /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 4 行.
+
+[ 2017-02-15T16:18:50+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000048s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000018s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000041s ]
+NOTIC: [2] Declaration of Mapi\Controller\DevicesController::get() should be compatible with Think\Controller::get($name = '') /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 4 行.
+
+[ 2017-02-15T16:18:51+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000049s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000016s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000042s ]
+NOTIC: [2] Declaration of Mapi\Controller\DevicesController::get() should be compatible with Think\Controller::get($name = '') /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `yh_customer` [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: auto /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1128 行.
+SQL: SELECT * FROM `yh_customer` WHERE `uid` = '1' AND `token` = '91dc6a758771a5015609ebc058e60829' LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `yh_cdevices` [ RunTime:0.0003s ]
+SQL: SELECT yh_cdevices.device_name,yh_devices.* FROM `yh_cdevices` LEFT JOIN yh_devices ON yh_cdevices.did = yh_devices.id  WHERE yh_cdevices.cid = '1' AND yh_cdevices.status = 1  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `yh_task` [ RunTime:0.0003s ]
+SQL: SELECT * FROM `yh_task` WHERE `cid` = '1' AND `did` = '1262' ORDER BY id desc LIMIT 1   [ RunTime:0.0004s ]
+NOTIC: [8] Undefined offset: 0 /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 11 行.
+NOTIC: [8] Undefined offset: 0 /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 12 行.
+SQL: SELECT * FROM `yh_task` WHERE `cid` = '1' AND `did` = '1263' ORDER BY id desc LIMIT 1   [ RunTime:0.0003s ]
+NOTIC: [8] Undefined offset: 0 /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 11 行.
+NOTIC: [8] Undefined offset: 0 /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 12 行.
+
+[ 2017-02-15T16:19:17+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000049s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000015s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000040s ]
+NOTIC: [2] Declaration of Mapi\Controller\DevicesController::get() should be compatible with Think\Controller::get($name = '') /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 4 行.
+
+[ 2017-02-15T16:19:17+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000049s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000018s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000043s ]
+NOTIC: [2] Declaration of Mapi\Controller\DevicesController::get() should be compatible with Think\Controller::get($name = '') /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 4 行.
+
+[ 2017-02-15T16:19:17+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000045s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000016s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000040s ]
+NOTIC: [2] Declaration of Mapi\Controller\DevicesController::get() should be compatible with Think\Controller::get($name = '') /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `yh_customer` [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: auto /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1128 行.
+SQL: SELECT * FROM `yh_customer` WHERE `uid` = '1' AND `token` = '91dc6a758771a5015609ebc058e60829' LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `yh_cdevices` [ RunTime:0.0002s ]
+SQL: SELECT yh_cdevices.device_name,yh_devices.* FROM `yh_cdevices` LEFT JOIN yh_devices ON yh_cdevices.did = yh_devices.id  WHERE yh_cdevices.cid = '1' AND yh_cdevices.status = 1  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `yh_task` [ RunTime:0.0002s ]
+SQL: SELECT * FROM `yh_task` WHERE `cid` = '1' AND `did` = '1262' ORDER BY id desc LIMIT 1   [ RunTime:0.0003s ]
+NOTIC: [8] Undefined offset: 0 /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 11 行.
+NOTIC: [8] Undefined offset: 0 /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 12 行.
+SQL: SELECT * FROM `yh_task` WHERE `cid` = '1' AND `did` = '1263' ORDER BY id desc LIMIT 1   [ RunTime:0.0003s ]
+NOTIC: [8] Undefined offset: 0 /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 11 行.
+NOTIC: [8] Undefined offset: 0 /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 12 行.
+
+[ 2017-02-15T16:19:33+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000051s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000019s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000042s ]
+NOTIC: [2] Declaration of Mapi\Controller\DevicesController::get() should be compatible with Think\Controller::get($name = '') /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 4 行.
+
+[ 2017-02-15T16:19:33+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000051s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000016s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000039s ]
+NOTIC: [2] Declaration of Mapi\Controller\DevicesController::get() should be compatible with Think\Controller::get($name = '') /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 4 行.
+
+[ 2017-02-15T16:19:35+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000052s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000017s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000044s ]
+NOTIC: [2] Declaration of Mapi\Controller\DevicesController::get() should be compatible with Think\Controller::get($name = '') /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `yh_customer` [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: auto /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1128 行.
+SQL: SELECT * FROM `yh_customer` WHERE `uid` = '1' AND `token` = '91dc6a758771a5015609ebc058e60829' LIMIT 1   [ RunTime:0.0001s ]
+SQL: SHOW COLUMNS FROM `yh_cdevices` [ RunTime:0.0002s ]
+SQL: SELECT yh_cdevices.device_name,yh_devices.* FROM `yh_cdevices` LEFT JOIN yh_devices ON yh_cdevices.did = yh_devices.id  WHERE yh_cdevices.cid = '1' AND yh_cdevices.status = 1  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `yh_task` [ RunTime:0.0002s ]
+SQL: SELECT * FROM `yh_task` WHERE `cid` = '1' AND `did` = '1262' ORDER BY id desc LIMIT 1   [ RunTime:0.0004s ]
+NOTIC: [8] Undefined offset: 0 /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 11 行.
+NOTIC: [8] Undefined offset: 0 /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 12 行.
+SQL: SELECT * FROM `yh_task` WHERE `cid` = '1' AND `did` = '1263' ORDER BY id desc LIMIT 1   [ RunTime:0.0003s ]
+NOTIC: [8] Undefined offset: 0 /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 11 行.
+NOTIC: [8] Undefined offset: 0 /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 12 行.
+
+[ 2017-02-15T16:19:47+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000048s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000016s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000038s ]
+NOTIC: [2] Declaration of Mapi\Controller\DevicesController::get() should be compatible with Think\Controller::get($name = '') /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 4 行.
+
+[ 2017-02-15T16:19:47+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000048s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000019s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000041s ]
+NOTIC: [2] Declaration of Mapi\Controller\DevicesController::get() should be compatible with Think\Controller::get($name = '') /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 4 行.
+
+[ 2017-02-15T16:19:49+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000049s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000017s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000042s ]
+NOTIC: [2] Declaration of Mapi\Controller\DevicesController::get() should be compatible with Think\Controller::get($name = '') /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `yh_customer` [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: auto /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1128 行.
+SQL: SELECT * FROM `yh_customer` WHERE `uid` = '1' AND `token` = '91dc6a758771a5015609ebc058e60829' LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `yh_cdevices` [ RunTime:0.0002s ]
+SQL: SELECT yh_cdevices.device_name,yh_devices.* FROM `yh_cdevices` LEFT JOIN yh_devices ON yh_cdevices.did = yh_devices.id  WHERE yh_cdevices.cid = '1' AND yh_cdevices.status = 1  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `yh_task` [ RunTime:0.0002s ]
+SQL: SELECT * FROM `yh_task` WHERE `cid` = '1' AND `did` = '1262' ORDER BY id desc LIMIT 1   [ RunTime:0.0003s ]
+NOTIC: [8] Undefined offset: 0 /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 11 行.
+NOTIC: [8] Undefined offset: 0 /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 12 行.
+SQL: SELECT * FROM `yh_task` WHERE `cid` = '1' AND `did` = '1263' ORDER BY id desc LIMIT 1   [ RunTime:0.0003s ]
+NOTIC: [8] Undefined offset: 0 /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 11 行.
+NOTIC: [8] Undefined offset: 0 /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 12 行.
+
+[ 2017-02-15T16:19:56+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000048s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000017s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000041s ]
+NOTIC: [2] Declaration of Mapi\Controller\DevicesController::get() should be compatible with Think\Controller::get($name = '') /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 4 行.
+
+[ 2017-02-15T16:19:56+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000048s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000018s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000041s ]
+NOTIC: [2] Declaration of Mapi\Controller\DevicesController::get() should be compatible with Think\Controller::get($name = '') /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 4 行.
+
+[ 2017-02-15T16:19:57+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000044s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000015s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000036s ]
+NOTIC: [2] Declaration of Mapi\Controller\DevicesController::get() should be compatible with Think\Controller::get($name = '') /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `yh_customer` [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: auto /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1128 行.
+SQL: SELECT * FROM `yh_customer` WHERE `uid` = '1' AND `token` = '91dc6a758771a5015609ebc058e60829' LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `yh_cdevices` [ RunTime:0.0002s ]
+SQL: SELECT yh_cdevices.device_name,yh_devices.* FROM `yh_cdevices` LEFT JOIN yh_devices ON yh_cdevices.did = yh_devices.id  WHERE yh_cdevices.cid = '1' AND yh_cdevices.status = 1  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `yh_task` [ RunTime:0.0002s ]
+SQL: SELECT * FROM `yh_task` WHERE `cid` = '1' AND `did` = '1262' ORDER BY id desc LIMIT 1   [ RunTime:0.0004s ]
+NOTIC: [8] Undefined offset: 0 /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 11 行.
+NOTIC: [8] Undefined offset: 0 /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 12 行.
+SQL: SELECT * FROM `yh_task` WHERE `cid` = '1' AND `did` = '1263' ORDER BY id desc LIMIT 1   [ RunTime:0.0003s ]
+NOTIC: [8] Undefined offset: 0 /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 11 行.
+NOTIC: [8] Undefined offset: 0 /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 12 行.
+
+[ 2017-02-15T16:20:19+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000051s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000017s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000041s ]
+NOTIC: [2] Declaration of Mapi\Controller\DevicesController::get() should be compatible with Think\Controller::get($name = '') /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 4 行.
+
+[ 2017-02-15T16:20:19+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000051s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000020s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000045s ]
+NOTIC: [2] Declaration of Mapi\Controller\DevicesController::get() should be compatible with Think\Controller::get($name = '') /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 4 行.
+
+[ 2017-02-15T16:20:22+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000047s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000016s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000040s ]
+NOTIC: [2] Declaration of Mapi\Controller\DevicesController::get() should be compatible with Think\Controller::get($name = '') /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `yh_customer` [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: auto /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1128 行.
+SQL: SELECT * FROM `yh_customer` WHERE `uid` = '1' AND `token` = '91dc6a758771a5015609ebc058e60829' LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `yh_cdevices` [ RunTime:0.0003s ]
+SQL: SELECT yh_cdevices.device_name,yh_devices.* FROM `yh_cdevices` LEFT JOIN yh_devices ON yh_cdevices.did = yh_devices.id  WHERE yh_cdevices.cid = '1' AND yh_cdevices.status = 1  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `yh_task` [ RunTime:0.0002s ]
+SQL: SELECT * FROM `yh_task` WHERE `cid` = '1' AND `did` = '1262' ORDER BY id desc LIMIT 1   [ RunTime:0.0003s ]
+NOTIC: [8] Undefined offset: 0 /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 11 行.
+NOTIC: [8] Undefined offset: 0 /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 12 行.
+SQL: SELECT * FROM `yh_task` WHERE `cid` = '1' AND `did` = '1263' ORDER BY id desc LIMIT 1   [ RunTime:0.0004s ]
+NOTIC: [8] Undefined offset: 0 /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 11 行.
+NOTIC: [8] Undefined offset: 0 /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 12 行.
+
+[ 2017-02-15T16:21:51+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000051s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000019s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000044s ]
+NOTIC: [2] Declaration of Mapi\Controller\DevicesController::get() should be compatible with Think\Controller::get($name = '') /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 4 行.
+
+[ 2017-02-15T16:21:51+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000050s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000020s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000044s ]
+NOTIC: [2] Declaration of Mapi\Controller\DevicesController::get() should be compatible with Think\Controller::get($name = '') /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 4 行.
+
+[ 2017-02-15T16:21:52+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000050s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000017s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000042s ]
+NOTIC: [2] Declaration of Mapi\Controller\DevicesController::get() should be compatible with Think\Controller::get($name = '') /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `yh_customer` [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: auto /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1128 行.
+SQL: SELECT * FROM `yh_customer` WHERE `uid` = '1' AND `token` = '91dc6a758771a5015609ebc058e60829' LIMIT 1   [ RunTime:0.0001s ]
+SQL: SHOW COLUMNS FROM `yh_cdevices` [ RunTime:0.0002s ]
+SQL: SELECT yh_cdevices.device_name,yh_devices.* FROM `yh_cdevices` LEFT JOIN yh_devices ON yh_cdevices.did = yh_devices.id  WHERE yh_cdevices.cid = '1' AND yh_cdevices.status = 1  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `yh_task` [ RunTime:0.0002s ]
+SQL: SELECT * FROM `yh_task` WHERE `cid` = '1' AND `did` = '1262' ORDER BY id desc LIMIT 1   [ RunTime:0.0003s ]
+NOTIC: [8] Undefined offset: 0 /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 11 行.
+NOTIC: [8] Undefined offset: 0 /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 12 行.
+SQL: SELECT * FROM `yh_task` WHERE `cid` = '1' AND `did` = '1263' ORDER BY id desc LIMIT 1   [ RunTime:0.0003s ]
+NOTIC: [8] Undefined offset: 0 /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 11 行.
+NOTIC: [8] Undefined offset: 0 /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 12 行.
+
+[ 2017-02-15T16:22:41+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000051s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000020s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000044s ]
+NOTIC: [2] Declaration of Mapi\Controller\DevicesController::get() should be compatible with Think\Controller::get($name = '') /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 4 行.
+
+[ 2017-02-15T16:22:41+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000051s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000018s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000044s ]
+NOTIC: [2] Declaration of Mapi\Controller\DevicesController::get() should be compatible with Think\Controller::get($name = '') /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 4 行.
+
+[ 2017-02-15T16:22:43+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000051s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000016s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000041s ]
+NOTIC: [2] Declaration of Mapi\Controller\DevicesController::get() should be compatible with Think\Controller::get($name = '') /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `yh_customer` [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: auto /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1128 行.
+SQL: SELECT * FROM `yh_customer` WHERE `uid` = '1' AND `token` = '91dc6a758771a5015609ebc058e60829' LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `yh_cdevices` [ RunTime:0.0002s ]
+SQL: SELECT yh_cdevices.device_name,yh_devices.* FROM `yh_cdevices` LEFT JOIN yh_devices ON yh_cdevices.did = yh_devices.id  WHERE yh_cdevices.cid = '1' AND yh_cdevices.status = 1  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `yh_task` [ RunTime:0.0002s ]
+SQL: SELECT * FROM `yh_task` WHERE `cid` = '1' AND `did` = '1262' ORDER BY id desc LIMIT 1   [ RunTime:0.0004s ]
+NOTIC: [8] Undefined offset: 0 /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 11 行.
+NOTIC: [8] Undefined offset: 0 /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 12 行.
+SQL: SELECT * FROM `yh_task` WHERE `cid` = '1' AND `did` = '1263' ORDER BY id desc LIMIT 1   [ RunTime:0.0003s ]
+NOTIC: [8] Undefined offset: 0 /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 11 行.
+NOTIC: [8] Undefined offset: 0 /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 12 行.
+
+[ 2017-02-15T16:25:48+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000052s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000020s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000045s ]
+NOTIC: [2] Declaration of Mapi\Controller\DevicesController::get() should be compatible with Think\Controller::get($name = '') /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 4 行.
+
+[ 2017-02-15T16:25:48+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000051s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000020s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000045s ]
+NOTIC: [2] Declaration of Mapi\Controller\DevicesController::get() should be compatible with Think\Controller::get($name = '') /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 4 行.
+
+[ 2017-02-15T16:25:49+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000049s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000016s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000042s ]
+NOTIC: [2] Declaration of Mapi\Controller\DevicesController::get() should be compatible with Think\Controller::get($name = '') /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `yh_customer` [ RunTime:0.0004s ]
+NOTIC: [8] Undefined index: auto /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1128 行.
+SQL: SELECT * FROM `yh_customer` WHERE `uid` = '1' AND `token` = '91dc6a758771a5015609ebc058e60829' LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `yh_cdevices` [ RunTime:0.0002s ]
+SQL: SELECT yh_cdevices.device_name,yh_devices.* FROM `yh_cdevices` LEFT JOIN yh_devices ON yh_cdevices.did = yh_devices.id  WHERE yh_cdevices.cid = '1' AND yh_cdevices.status = 1  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `yh_task` [ RunTime:0.0002s ]
+SQL: SELECT * FROM `yh_task` WHERE `cid` = '1' AND `did` = '1262' ORDER BY id desc LIMIT 1   [ RunTime:0.0003s ]
+NOTIC: [8] Undefined offset: 0 /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 11 行.
+NOTIC: [8] Undefined offset: 0 /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 12 行.
+SQL: SELECT * FROM `yh_task` WHERE `cid` = '1' AND `did` = '1263' ORDER BY id desc LIMIT 1   [ RunTime:0.0003s ]
+NOTIC: [8] Undefined offset: 0 /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 11 行.
+NOTIC: [8] Undefined offset: 0 /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 12 行.
+
+[ 2017-02-15T16:26:08+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000048s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000018s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000041s ]
+NOTIC: [2] Declaration of Mapi\Controller\DevicesController::get() should be compatible with Think\Controller::get($name = '') /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 4 行.
+
+[ 2017-02-15T16:26:08+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000049s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000016s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000040s ]
+NOTIC: [2] Declaration of Mapi\Controller\DevicesController::get() should be compatible with Think\Controller::get($name = '') /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 4 行.
+
+[ 2017-02-15T16:26:11+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000052s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000017s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000041s ]
+NOTIC: [2] Declaration of Mapi\Controller\DevicesController::get() should be compatible with Think\Controller::get($name = '') /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `yh_customer` [ RunTime:0.0004s ]
+NOTIC: [8] Undefined index: auto /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1128 行.
+SQL: SELECT * FROM `yh_customer` WHERE `uid` = '1' AND `token` = '91dc6a758771a5015609ebc058e60829' LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `yh_cdevices` [ RunTime:0.0002s ]
+SQL: SELECT yh_cdevices.device_name,yh_devices.* FROM `yh_cdevices` LEFT JOIN yh_devices ON yh_cdevices.did = yh_devices.id  WHERE yh_cdevices.cid = '1' AND yh_cdevices.status = 1  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `yh_task` [ RunTime:0.0002s ]
+SQL: SELECT * FROM `yh_task` WHERE `cid` = '1' AND `did` = '1262' ORDER BY id desc LIMIT 1   [ RunTime:0.0003s ]
+NOTIC: [8] Undefined offset: 0 /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 11 行.
+NOTIC: [8] Undefined offset: 0 /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 12 行.
+SQL: SELECT * FROM `yh_task` WHERE `cid` = '1' AND `did` = '1263' ORDER BY id desc LIMIT 1   [ RunTime:0.0003s ]
+NOTIC: [8] Undefined offset: 0 /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 11 行.
+NOTIC: [8] Undefined offset: 0 /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 12 行.
+
+[ 2017-02-15T16:26:33+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000051s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000019s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000043s ]
+NOTIC: [2] Declaration of Mapi\Controller\DevicesController::get() should be compatible with Think\Controller::get($name = '') /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 4 行.
+
+[ 2017-02-15T16:26:33+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000051s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000018s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000043s ]
+NOTIC: [2] Declaration of Mapi\Controller\DevicesController::get() should be compatible with Think\Controller::get($name = '') /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 4 行.
+
+[ 2017-02-15T16:26:34+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000048s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000017s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000041s ]
+NOTIC: [2] Declaration of Mapi\Controller\DevicesController::get() should be compatible with Think\Controller::get($name = '') /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `yh_customer` [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: auto /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1128 行.
+SQL: SELECT * FROM `yh_customer` WHERE `uid` = '1' AND `token` = '91dc6a758771a5015609ebc058e60829' LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `yh_cdevices` [ RunTime:0.0002s ]
+SQL: SELECT yh_cdevices.device_name,yh_devices.* FROM `yh_cdevices` LEFT JOIN yh_devices ON yh_cdevices.did = yh_devices.id  WHERE yh_cdevices.cid = '1' AND yh_cdevices.status = 1  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `yh_task` [ RunTime:0.0002s ]
+SQL: SELECT * FROM `yh_task` WHERE `cid` = '1' AND `did` = '1262' ORDER BY id desc LIMIT 1   [ RunTime:0.0003s ]
+NOTIC: [8] Undefined offset: 0 /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 11 行.
+NOTIC: [8] Undefined offset: 0 /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 12 行.
+SQL: SELECT * FROM `yh_task` WHERE `cid` = '1' AND `did` = '1263' ORDER BY id desc LIMIT 1   [ RunTime:0.0003s ]
+NOTIC: [8] Undefined offset: 0 /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 11 行.
+NOTIC: [8] Undefined offset: 0 /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 12 行.
+
+[ 2017-02-15T16:27:16+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000049s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000019s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000045s ]
+NOTIC: [2] Declaration of Mapi\Controller\DevicesController::get() should be compatible with Think\Controller::get($name = '') /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 4 行.
+
+[ 2017-02-15T16:27:16+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000049s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000019s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000043s ]
+NOTIC: [2] Declaration of Mapi\Controller\DevicesController::get() should be compatible with Think\Controller::get($name = '') /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 4 行.
+
+[ 2017-02-15T16:27:17+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000047s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000016s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000039s ]
+NOTIC: [2] Declaration of Mapi\Controller\DevicesController::get() should be compatible with Think\Controller::get($name = '') /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `yh_customer` [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: auto /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1128 行.
+SQL: SELECT * FROM `yh_customer` WHERE `uid` = '1' AND `token` = '91dc6a758771a5015609ebc058e60829' LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `yh_cdevices` [ RunTime:0.0003s ]
+SQL: SELECT yh_cdevices.device_name,yh_devices.* FROM `yh_cdevices` LEFT JOIN yh_devices ON yh_cdevices.did = yh_devices.id  WHERE yh_cdevices.cid = '1' AND yh_cdevices.status = 1  [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `yh_task` [ RunTime:0.0003s ]
+SQL: SELECT * FROM `yh_task` WHERE `cid` = '1' AND `did` = '1262' ORDER BY id desc LIMIT 1   [ RunTime:0.0004s ]
+NOTIC: [8] Undefined offset: 0 /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 11 行.
+NOTIC: [8] Undefined offset: 0 /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 12 行.
+SQL: SELECT * FROM `yh_task` WHERE `cid` = '1' AND `did` = '1263' ORDER BY id desc LIMIT 1   [ RunTime:0.0003s ]
+NOTIC: [8] Undefined offset: 0 /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 11 行.
+NOTIC: [8] Undefined offset: 0 /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 12 行.
+
+[ 2017-02-15T16:27:32+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000048s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000017s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000043s ]
+NOTIC: [2] Declaration of Mapi\Controller\DevicesController::get() should be compatible with Think\Controller::get($name = '') /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 4 行.
+
+[ 2017-02-15T16:27:32+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000047s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000018s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000041s ]
+NOTIC: [2] Declaration of Mapi\Controller\DevicesController::get() should be compatible with Think\Controller::get($name = '') /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 4 行.
+
+[ 2017-02-15T16:27:33+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000049s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000016s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000039s ]
+NOTIC: [2] Declaration of Mapi\Controller\DevicesController::get() should be compatible with Think\Controller::get($name = '') /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `yh_customer` [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: auto /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1128 行.
+SQL: SELECT * FROM `yh_customer` WHERE `uid` = '1' AND `token` = '91dc6a758771a5015609ebc058e60829' LIMIT 1   [ RunTime:0.0001s ]
+SQL: SHOW COLUMNS FROM `yh_cdevices` [ RunTime:0.0003s ]
+SQL: SELECT yh_cdevices.device_name,yh_devices.* FROM `yh_cdevices` LEFT JOIN yh_devices ON yh_cdevices.did = yh_devices.id  WHERE yh_cdevices.cid = '1' AND yh_cdevices.status = 1  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `yh_task` [ RunTime:0.0002s ]
+SQL: SELECT * FROM `yh_task` WHERE `cid` = '1' AND `did` = '1262' ORDER BY id desc LIMIT 1   [ RunTime:0.0004s ]
+NOTIC: [8] Undefined offset: 0 /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 11 行.
+NOTIC: [8] Undefined offset: 0 /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 12 行.
+SQL: SELECT * FROM `yh_task` WHERE `cid` = '1' AND `did` = '1263' ORDER BY id desc LIMIT 1   [ RunTime:0.0003s ]
+NOTIC: [8] Undefined offset: 0 /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 11 行.
+NOTIC: [8] Undefined offset: 0 /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 12 行.
+
+[ 2017-02-15T16:28:07+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000071s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000019s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000045s ]
+NOTIC: [2] Declaration of Mapi\Controller\DevicesController::get() should be compatible with Think\Controller::get($name = '') /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 4 行.
+
+[ 2017-02-15T16:28:07+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000041s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000015s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000037s ]
+NOTIC: [2] Declaration of Mapi\Controller\DevicesController::get() should be compatible with Think\Controller::get($name = '') /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 4 行.
+
+[ 2017-02-15T16:28:08+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000048s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000017s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000042s ]
+NOTIC: [2] Declaration of Mapi\Controller\DevicesController::get() should be compatible with Think\Controller::get($name = '') /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `yh_customer` [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: auto /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1128 行.
+SQL: SELECT * FROM `yh_customer` WHERE `uid` = '1' AND `token` = '91dc6a758771a5015609ebc058e60829' LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `yh_cdevices` [ RunTime:0.0003s ]
+SQL: SELECT yh_cdevices.device_name,yh_devices.* FROM `yh_cdevices` LEFT JOIN yh_devices ON yh_cdevices.did = yh_devices.id  WHERE yh_cdevices.cid = '1' AND yh_cdevices.status = 1  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `yh_task` [ RunTime:0.0002s ]
+SQL: SELECT * FROM `yh_task` WHERE `cid` = '1' AND `did` = '1262' ORDER BY id desc LIMIT 1   [ RunTime:0.0004s ]
+NOTIC: [8] Undefined offset: 0 /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 11 行.
+NOTIC: [8] Undefined offset: 0 /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 12 行.
+SQL: SELECT * FROM `yh_task` WHERE `cid` = '1' AND `did` = '1263' ORDER BY id desc LIMIT 1   [ RunTime:0.0003s ]
+NOTIC: [8] Undefined offset: 0 /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 11 行.
+NOTIC: [8] Undefined offset: 0 /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 12 行.
+
+[ 2017-02-15T16:28:22+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000140s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000054s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000130s ]
+NOTIC: [2] Declaration of Mapi\Controller\DevicesController::get() should be compatible with Think\Controller::get($name = '') /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 4 行.
+
+[ 2017-02-15T16:28:22+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000123s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000042s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000111s ]
+NOTIC: [2] Declaration of Mapi\Controller\DevicesController::get() should be compatible with Think\Controller::get($name = '') /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 4 行.
+
+[ 2017-02-15T16:28:23+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000048s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000016s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000042s ]
+NOTIC: [2] Declaration of Mapi\Controller\DevicesController::get() should be compatible with Think\Controller::get($name = '') /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `yh_customer` [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: auto /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1128 行.
+SQL: SELECT * FROM `yh_customer` WHERE `uid` = '1' AND `token` = '91dc6a758771a5015609ebc058e60829' LIMIT 1   [ RunTime:0.0001s ]
+SQL: SHOW COLUMNS FROM `yh_cdevices` [ RunTime:0.0002s ]
+SQL: SELECT yh_cdevices.device_name,yh_devices.* FROM `yh_cdevices` LEFT JOIN yh_devices ON yh_cdevices.did = yh_devices.id  WHERE yh_cdevices.cid = '1' AND yh_cdevices.status = 1  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `yh_task` [ RunTime:0.0002s ]
+SQL: SELECT * FROM `yh_task` WHERE `cid` = '1' AND `did` = '1262' ORDER BY id desc LIMIT 1   [ RunTime:0.0004s ]
+NOTIC: [8] Undefined offset: 0 /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 11 行.
+NOTIC: [8] Undefined offset: 0 /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 12 行.
+SQL: SELECT * FROM `yh_task` WHERE `cid` = '1' AND `did` = '1263' ORDER BY id desc LIMIT 1   [ RunTime:0.0003s ]
+NOTIC: [8] Undefined offset: 0 /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 11 行.
+NOTIC: [8] Undefined offset: 0 /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 12 行.
+
+[ 2017-02-15T16:29:39+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000051s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000020s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000044s ]
+NOTIC: [2] Declaration of Mapi\Controller\DevicesController::get() should be compatible with Think\Controller::get($name = '') /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 4 行.
+
+[ 2017-02-15T16:29:39+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000051s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000019s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000045s ]
+NOTIC: [2] Declaration of Mapi\Controller\DevicesController::get() should be compatible with Think\Controller::get($name = '') /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 4 行.
+
+[ 2017-02-15T16:29:40+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000045s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000016s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000039s ]
+NOTIC: [2] Declaration of Mapi\Controller\DevicesController::get() should be compatible with Think\Controller::get($name = '') /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 4 行.
+
+[ 2017-02-15T16:29:40+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000045s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000016s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000038s ]
+NOTIC: [2] Declaration of Mapi\Controller\DevicesController::get() should be compatible with Think\Controller::get($name = '') /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 4 行.
+
+[ 2017-02-15T16:29:41+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000050s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000018s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000043s ]
+NOTIC: [2] Declaration of Mapi\Controller\DevicesController::get() should be compatible with Think\Controller::get($name = '') /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `yh_customer` [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: auto /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1128 行.
+SQL: SELECT * FROM `yh_customer` WHERE `uid` = '1' AND `token` = '91dc6a758771a5015609ebc058e60829' LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `yh_cdevices` [ RunTime:0.0002s ]
+SQL: SELECT yh_cdevices.device_name,yh_devices.* FROM `yh_cdevices` LEFT JOIN yh_devices ON yh_cdevices.did = yh_devices.id  WHERE yh_cdevices.cid = '1' AND yh_cdevices.status = 1  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `yh_task` [ RunTime:0.0002s ]
+SQL: SELECT * FROM `yh_task` WHERE `cid` = '1' AND `did` = '1262' ORDER BY id desc LIMIT 1   [ RunTime:0.0003s ]
+NOTIC: [8] Undefined offset: 0 /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 11 行.
+NOTIC: [8] Undefined offset: 0 /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 12 行.
+SQL: SELECT * FROM `yh_task` WHERE `cid` = '1' AND `did` = '1263' ORDER BY id desc LIMIT 1   [ RunTime:0.0003s ]
+NOTIC: [8] Undefined offset: 0 /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 11 行.
+NOTIC: [8] Undefined offset: 0 /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 12 行.
+
+[ 2017-02-15T16:29:49+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000051s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000019s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000044s ]
+NOTIC: [2] Declaration of Mapi\Controller\DevicesController::get() should be compatible with Think\Controller::get($name = '') /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 4 行.
+
+[ 2017-02-15T16:29:49+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000051s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000019s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000045s ]
+NOTIC: [2] Declaration of Mapi\Controller\DevicesController::get() should be compatible with Think\Controller::get($name = '') /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 4 行.
+
+[ 2017-02-15T16:29:50+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000049s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000017s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000041s ]
+NOTIC: [2] Declaration of Mapi\Controller\DevicesController::get() should be compatible with Think\Controller::get($name = '') /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `yh_customer` [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: auto /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1128 行.
+SQL: SELECT * FROM `yh_customer` WHERE `uid` = '1' AND `token` = '91dc6a758771a5015609ebc058e60829' LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `yh_cdevices` [ RunTime:0.0002s ]
+SQL: SELECT yh_cdevices.device_name,yh_devices.* FROM `yh_cdevices` LEFT JOIN yh_devices ON yh_cdevices.did = yh_devices.id  WHERE yh_cdevices.cid = '1' AND yh_cdevices.status = 1  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `yh_task` [ RunTime:0.0002s ]
+SQL: SELECT * FROM `yh_task` WHERE `cid` = '1' AND `did` = '1262' ORDER BY id desc LIMIT 1   [ RunTime:0.0003s ]
+NOTIC: [8] Undefined offset: 0 /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 11 行.
+NOTIC: [8] Undefined offset: 0 /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 12 行.
+SQL: SELECT * FROM `yh_task` WHERE `cid` = '1' AND `did` = '1263' ORDER BY id desc LIMIT 1   [ RunTime:0.0003s ]
+NOTIC: [8] Undefined offset: 0 /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 11 行.
+NOTIC: [8] Undefined offset: 0 /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 12 行.
+
+[ 2017-02-15T16:31:13+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000058s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000019s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000044s ]
+NOTIC: [2] Declaration of Mapi\Controller\DevicesController::get() should be compatible with Think\Controller::get($name = '') /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 4 行.
+
+[ 2017-02-15T16:31:13+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000041s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000016s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000040s ]
+NOTIC: [2] Declaration of Mapi\Controller\DevicesController::get() should be compatible with Think\Controller::get($name = '') /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 4 行.
+
+[ 2017-02-15T16:31:14+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000049s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000017s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000042s ]
+NOTIC: [2] Declaration of Mapi\Controller\DevicesController::get() should be compatible with Think\Controller::get($name = '') /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `yh_customer` [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: auto /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1128 行.
+SQL: SELECT * FROM `yh_customer` WHERE `uid` = '1' AND `token` = '91dc6a758771a5015609ebc058e60829' LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `yh_cdevices` [ RunTime:0.0002s ]
+SQL: SELECT yh_cdevices.device_name,yh_devices.* FROM `yh_cdevices` LEFT JOIN yh_devices ON yh_cdevices.did = yh_devices.id  WHERE yh_cdevices.cid = '1' AND yh_cdevices.status = 1  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `yh_task` [ RunTime:0.0002s ]
+SQL: SELECT * FROM `yh_task` WHERE `cid` = '1' AND `did` = '1262' ORDER BY id desc LIMIT 1   [ RunTime:0.0003s ]
+NOTIC: [8] Undefined offset: 0 /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 11 行.
+NOTIC: [8] Undefined offset: 0 /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 12 行.
+SQL: SELECT * FROM `yh_task` WHERE `cid` = '1' AND `did` = '1263' ORDER BY id desc LIMIT 1   [ RunTime:0.0003s ]
+NOTIC: [8] Undefined offset: 0 /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 11 行.
+NOTIC: [8] Undefined offset: 0 /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 12 行.
+
+[ 2017-02-15T16:38:21+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000051s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000018s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000043s ]
+NOTIC: [2] Declaration of Mapi\Controller\DevicesController::get() should be compatible with Think\Controller::get($name = '') /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 4 行.
+
+[ 2017-02-15T16:38:21+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000040s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000014s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000038s ]
+NOTIC: [2] Declaration of Mapi\Controller\DevicesController::get() should be compatible with Think\Controller::get($name = '') /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 4 行.
+
+[ 2017-02-15T16:38:23+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000045s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000016s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000039s ]
+NOTIC: [2] Declaration of Mapi\Controller\DevicesController::get() should be compatible with Think\Controller::get($name = '') /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 4 行.
+
+[ 2017-02-15T16:38:23+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000045s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000015s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000039s ]
+NOTIC: [2] Declaration of Mapi\Controller\DevicesController::get() should be compatible with Think\Controller::get($name = '') /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 4 行.
+
+[ 2017-02-15T16:39:26+08:00 ] 192.168.2.104 /index.php/mapi/customer/loginpost
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000052s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000020s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000045s ]
+SQL: SHOW COLUMNS FROM `yh_customer` [ RunTime:0.0003s ]
+SQL: SELECT * FROM `yh_customer` WHERE `username` = '18666028715' AND `password` = 'f5bb0c8de146c67b44babbf4e6584cc0' LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `yh_customer` [ RunTime:0.0003s ]
+SQL: SELECT * FROM `yh_customer` WHERE `uid` = '1' LIMIT 1   [ RunTime:0.0002s ]
+SQL: UPDATE `yh_customer` SET `token`='6665ef11712fb04eb7d40a7f675b4c26' WHERE `uid` = '1' [ RunTime:0.0112s ]
+
+[ 2017-02-15T16:39:57+08:00 ] 192.168.2.104 /index.php/mapi/customer/loginpost
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000059s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000018s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000043s ]
+SQL: SHOW COLUMNS FROM `yh_customer` [ RunTime:0.0003s ]
+SQL: SELECT * FROM `yh_customer` WHERE `username` = '18666028715' AND `password` = 'f5bb0c8de146c67b44babbf4e6584cc0' LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `yh_customer` [ RunTime:0.0002s ]
+SQL: SELECT * FROM `yh_customer` WHERE `uid` = '1' LIMIT 1   [ RunTime:0.0001s ]
+SQL: UPDATE `yh_customer` SET `token`='a3ae4a5fa336dd81e65de908e6e0f5bf' WHERE `uid` = '1' [ RunTime:0.0152s ]
+
+[ 2017-02-15T16:40:35+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000050s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000019s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000044s ]
+NOTIC: [2] Declaration of Mapi\Controller\DevicesController::get() should be compatible with Think\Controller::get($name = '') /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 4 行.
+
+[ 2017-02-15T16:40:35+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000050s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000019s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000043s ]
+NOTIC: [2] Declaration of Mapi\Controller\DevicesController::get() should be compatible with Think\Controller::get($name = '') /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 4 行.
+
+[ 2017-02-15T16:40:38+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000053s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000018s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000051s ]
+NOTIC: [2] Declaration of Mapi\Controller\DevicesController::get() should be compatible with Think\Controller::get($name = '') /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 4 行.
+SQL: SHOW COLUMNS FROM `yh_customer` [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: auto /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1128 行.
+SQL: SELECT * FROM `yh_customer` WHERE `uid` = '1' AND `token` = 'a3ae4a5fa336dd81e65de908e6e0f5bf' LIMIT 1   [ RunTime:0.0001s ]
+SQL: SHOW COLUMNS FROM `yh_cdevices` [ RunTime:0.0002s ]
+SQL: SELECT yh_cdevices.device_name,yh_devices.* FROM `yh_cdevices` LEFT JOIN yh_devices ON yh_cdevices.did = yh_devices.id  WHERE yh_cdevices.cid = '1' AND yh_cdevices.status = 1  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `yh_task` [ RunTime:0.0002s ]
+SQL: SELECT * FROM `yh_task` WHERE `cid` = '1' AND `did` = '1262' ORDER BY id desc LIMIT 1   [ RunTime:0.0003s ]
+NOTIC: [8] Undefined offset: 0 /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 11 行.
+NOTIC: [8] Undefined offset: 0 /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 12 行.
+SQL: SELECT * FROM `yh_task` WHERE `cid` = '1' AND `did` = '1263' ORDER BY id desc LIMIT 1   [ RunTime:0.0003s ]
+NOTIC: [8] Undefined offset: 0 /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 11 行.
+NOTIC: [8] Undefined offset: 0 /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 12 行.
+
+[ 2017-02-15T16:42:23+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000050s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000018s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000042s ]
+NOTIC: [2] Declaration of Mapi\Controller\DevicesController::get() should be compatible with Think\Controller::get($name = '') /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 4 行.
+
+[ 2017-02-15T16:43:19+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000054s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000020s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000046s ]
+NOTIC: [2] Declaration of Mapi\Controller\DevicesController::get() should be compatible with Think\Controller::get($name = '') /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 4 行.
+
+[ 2017-02-15T16:57:04+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000052s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000019s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000045s ]
+NOTIC: [2] Declaration of Mapi\Controller\DevicesController::get() should be compatible with Think\Controller::get($name = '') /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 4 行.
+
+[ 2017-02-15T16:59:14+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000050s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000019s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000043s ]
+NOTIC: [2] Declaration of Mapi\Controller\DevicesController::get() should be compatible with Think\Controller::get($name = '') /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 4 行.
+
+[ 2017-02-15T16:59:55+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000067s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000028s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000070s ]
+NOTIC: [2] Declaration of Mapi\Controller\DevicesController::get() should be compatible with Think\Controller::get($name = '') /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 4 行.
+
+[ 2017-02-15T17:00:22+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000047s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000016s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000040s ]
+NOTIC: [2] Declaration of Mapi\Controller\DevicesController::get() should be compatible with Think\Controller::get($name = '') /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 4 行.
+
+[ 2017-02-15T17:02:01+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000067s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000024s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000059s ]
+NOTIC: [2] Declaration of Mapi\Controller\DevicesController::get() should be compatible with Think\Controller::get($name = '') /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 4 行.
+
+[ 2017-02-15T17:02:06+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000051s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000019s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000044s ]
+NOTIC: [2] Declaration of Mapi\Controller\DevicesController::get() should be compatible with Think\Controller::get($name = '') /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 4 行.
+
+[ 2017-02-15T17:02:41+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000057s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000021s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000050s ]
+NOTIC: [2] Declaration of Mapi\Controller\DevicesController::get() should be compatible with Think\Controller::get($name = '') /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 4 行.
+
+[ 2017-02-15T17:19:31+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000056s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000020s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000044s ]
+NOTIC: [2] Declaration of Mapi\Controller\DevicesController::get() should be compatible with Think\Controller::get($name = '') /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 4 行.
+
+[ 2017-02-15T17:19:49+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000053s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000019s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000045s ]
+NOTIC: [2] Declaration of Mapi\Controller\DevicesController::get() should be compatible with Think\Controller::get($name = '') /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 4 行.
+
+[ 2017-02-15T17:26:12+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000052s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000019s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000052s ]
+NOTIC: [2] Declaration of Mapi\Controller\DevicesController::get() should be compatible with Think\Controller::get($name = '') /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 4 行.
+
+[ 2017-02-15T17:26:22+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000051s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000019s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000045s ]
+NOTIC: [2] Declaration of Mapi\Controller\DevicesController::get() should be compatible with Think\Controller::get($name = '') /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 4 行.
+
+[ 2017-02-15T17:26:55+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000052s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000019s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000045s ]
+NOTIC: [2] Declaration of Mapi\Controller\DevicesController::get() should be compatible with Think\Controller::get($name = '') /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 4 行.
+
+[ 2017-02-15T17:29:01+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000052s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000019s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000043s ]
+NOTIC: [2] Declaration of Mapi\Controller\DevicesController::get() should be compatible with Think\Controller::get($name = '') /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 4 行.
+
+[ 2017-02-15T17:33:34+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000052s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000019s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000044s ]
+NOTIC: [2] Declaration of Mapi\Controller\DevicesController::get() should be compatible with Think\Controller::get($name = '') /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 4 行.
+
+[ 2017-02-15T17:33:56+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000052s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000019s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000044s ]
+NOTIC: [2] Declaration of Mapi\Controller\DevicesController::get() should be compatible with Think\Controller::get($name = '') /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 4 行.
+
+[ 2017-02-15T17:34:24+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000050s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000019s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000044s ]
+NOTIC: [2] Declaration of Mapi\Controller\DevicesController::get() should be compatible with Think\Controller::get($name = '') /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 4 行.
+
+[ 2017-02-15T17:35:53+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000054s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000021s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000048s ]
+NOTIC: [2] Declaration of Mapi\Controller\DevicesController::get() should be compatible with Think\Controller::get($name = '') /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 4 行.
+
+[ 2017-02-15T17:36:02+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000053s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000021s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000047s ]
+NOTIC: [2] Declaration of Mapi\Controller\DevicesController::get() should be compatible with Think\Controller::get($name = '') /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 4 行.
+
+[ 2017-02-15T17:36:43+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000088s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000018s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000040s ]
+NOTIC: [2] Declaration of Mapi\Controller\DevicesController::get() should be compatible with Think\Controller::get($name = '') /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 4 行.
+
+[ 2017-02-15T17:44:22+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000053s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000019s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000044s ]
+NOTIC: [2] Declaration of Mapi\Controller\DevicesController::get() should be compatible with Think\Controller::get($name = '') /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 4 行.
+
+[ 2017-02-15T17:44:41+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000053s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000018s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000044s ]
+NOTIC: [2] Declaration of Mapi\Controller\DevicesController::get() should be compatible with Think\Controller::get($name = '') /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 4 行.
+
+[ 2017-02-15T17:44:57+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000053s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000028s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000051s ]
+NOTIC: [2] Declaration of Mapi\Controller\DevicesController::get() should be compatible with Think\Controller::get($name = '') /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 4 行.
+
+[ 2017-02-15T17:45:17+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000051s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000019s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000044s ]
+NOTIC: [2] Declaration of Mapi\Controller\DevicesController::get() should be compatible with Think\Controller::get($name = '') /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 4 行.
+
+[ 2017-02-15T17:50:18+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000053s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000027s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000065s ]
+NOTIC: [2] Declaration of Mapi\Controller\DevicesController::get() should be compatible with Think\Controller::get($name = '') /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 4 行.
+
+[ 2017-02-15T17:50:26+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000053s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000019s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000044s ]
+NOTIC: [2] Declaration of Mapi\Controller\DevicesController::get() should be compatible with Think\Controller::get($name = '') /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 4 行.
+
+[ 2017-02-15T17:50:57+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000053s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000017s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000042s ]
+NOTIC: [2] Declaration of Mapi\Controller\DevicesController::get() should be compatible with Think\Controller::get($name = '') /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 4 行.
+
+[ 2017-02-15T17:51:15+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000053s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000019s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000045s ]
+NOTIC: [2] Declaration of Mapi\Controller\DevicesController::get() should be compatible with Think\Controller::get($name = '') /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 4 行.
+
+[ 2017-02-15T18:01:22+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000050s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000018s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000042s ]
+NOTIC: [2] Declaration of Mapi\Controller\DevicesController::get() should be compatible with Think\Controller::get($name = '') /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 4 行.
+
+[ 2017-02-15T18:01:34+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000052s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000019s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000045s ]
+NOTIC: [2] Declaration of Mapi\Controller\DevicesController::get() should be compatible with Think\Controller::get($name = '') /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 4 行.
+
+[ 2017-02-15T18:25:24+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000055s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000018s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000042s ]
+NOTIC: [2] Declaration of Mapi\Controller\DevicesController::get() should be compatible with Think\Controller::get($name = '') /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 4 行.
+
+[ 2017-02-15T18:25:57+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000051s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000019s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000044s ]
+NOTIC: [2] Declaration of Mapi\Controller\DevicesController::get() should be compatible with Think\Controller::get($name = '') /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 4 行.
+
+[ 2017-02-15T18:27:29+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000056s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000018s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000042s ]
+NOTIC: [2] Declaration of Mapi\Controller\DevicesController::get() should be compatible with Think\Controller::get($name = '') /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 4 行.
+
+[ 2017-02-15T18:27:38+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000049s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000017s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000041s ]
+NOTIC: [2] Declaration of Mapi\Controller\DevicesController::get() should be compatible with Think\Controller::get($name = '') /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 4 行.
+
+[ 2017-02-15T18:27:41+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000050s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000019s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000104s ]
+NOTIC: [2] Declaration of Mapi\Controller\DevicesController::get() should be compatible with Think\Controller::get($name = '') /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 4 行.
+
+[ 2017-02-15T18:27:43+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000049s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000025s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000049s ]
+NOTIC: [2] Declaration of Mapi\Controller\DevicesController::get() should be compatible with Think\Controller::get($name = '') /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 4 行.
+
+[ 2017-02-15T18:34:19+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000047s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000017s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000039s ]
+NOTIC: [2] Declaration of Mapi\Controller\DevicesController::get() should be compatible with Think\Controller::get($name = '') /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 4 行.
+
+[ 2017-02-15T18:34:21+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000078s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000027s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000069s ]
+NOTIC: [2] Declaration of Mapi\Controller\DevicesController::get() should be compatible with Think\Controller::get($name = '') /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 4 行.
+
+[ 2017-02-15T18:34:23+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000073s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000027s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000064s ]
+NOTIC: [2] Declaration of Mapi\Controller\DevicesController::get() should be compatible with Think\Controller::get($name = '') /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 4 行.
+
+[ 2017-02-15T18:34:53+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000052s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000018s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000043s ]
+NOTIC: [2] Declaration of Mapi\Controller\DevicesController::get() should be compatible with Think\Controller::get($name = '') /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 4 行.
+
+[ 2017-02-15T18:36:28+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000053s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000019s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000044s ]
+NOTIC: [2] Declaration of Mapi\Controller\DevicesController::get() should be compatible with Think\Controller::get($name = '') /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 4 行.
+
+[ 2017-02-15T18:39:14+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000083s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000032s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000076s ]
+NOTIC: [2] Declaration of Mapi\Controller\DevicesController::get() should be compatible with Think\Controller::get($name = '') /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 4 行.
+
+[ 2017-02-15T18:41:26+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000053s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000019s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000044s ]
+NOTIC: [2] Declaration of Mapi\Controller\DevicesController::get() should be compatible with Think\Controller::get($name = '') /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 4 行.
+
+[ 2017-02-15T18:41:57+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000052s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000018s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000044s ]
+NOTIC: [2] Declaration of Mapi\Controller\DevicesController::get() should be compatible with Think\Controller::get($name = '') /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 4 行.
+
+[ 2017-02-15T18:42:40+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000052s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000018s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000044s ]
+NOTIC: [2] Declaration of Mapi\Controller\DevicesController::get() should be compatible with Think\Controller::get($name = '') /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 4 行.
+
+[ 2017-02-15T18:48:39+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000062s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000022s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000052s ]
+NOTIC: [2] Declaration of Mapi\Controller\DevicesController::get() should be compatible with Think\Controller::get($name = '') /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 4 行.
+
+[ 2017-02-15T18:48:57+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000051s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000019s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000044s ]
+NOTIC: [2] Declaration of Mapi\Controller\DevicesController::get() should be compatible with Think\Controller::get($name = '') /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 4 行.
+
+[ 2017-02-15T18:49:27+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000053s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000019s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000044s ]
+NOTIC: [2] Declaration of Mapi\Controller\DevicesController::get() should be compatible with Think\Controller::get($name = '') /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 4 行.
+
+[ 2017-02-15T18:50:09+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000081s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000030s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000072s ]
+NOTIC: [2] Declaration of Mapi\Controller\DevicesController::get() should be compatible with Think\Controller::get($name = '') /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 4 行.
+
+[ 2017-02-15T18:50:36+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000048s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000017s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000040s ]
+NOTIC: [2] Declaration of Mapi\Controller\DevicesController::get() should be compatible with Think\Controller::get($name = '') /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 4 行.
+
+[ 2017-02-15T18:50:51+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000051s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000018s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000044s ]
+NOTIC: [2] Declaration of Mapi\Controller\DevicesController::get() should be compatible with Think\Controller::get($name = '') /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 4 行.
+
+[ 2017-02-15T18:51:45+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000052s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000019s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000044s ]
+NOTIC: [2] Declaration of Mapi\Controller\DevicesController::get() should be compatible with Think\Controller::get($name = '') /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 4 行.
+
+[ 2017-02-15T18:52:05+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000050s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000019s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000043s ]
+NOTIC: [2] Declaration of Mapi\Controller\DevicesController::get() should be compatible with Think\Controller::get($name = '') /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 4 行.
+
+[ 2017-02-15T18:58:57+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000052s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000019s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000045s ]
+NOTIC: [2] Declaration of Mapi\Controller\DevicesController::get() should be compatible with Think\Controller::get($name = '') /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 4 行.
+
+[ 2017-02-15T18:59:18+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000068s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000019s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000045s ]
+NOTIC: [2] Declaration of Mapi\Controller\DevicesController::get() should be compatible with Think\Controller::get($name = '') /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 4 行.
+
+[ 2017-02-15T18:59:22+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000046s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000033s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000066s ]
+NOTIC: [2] Declaration of Mapi\Controller\DevicesController::get() should be compatible with Think\Controller::get($name = '') /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 4 行.
+
+[ 2017-02-15T18:59:40+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000048s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000017s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000040s ]
+NOTIC: [2] Declaration of Mapi\Controller\DevicesController::get() should be compatible with Think\Controller::get($name = '') /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 4 行.
+
+[ 2017-02-15T18:59:48+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000048s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000017s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000039s ]
+NOTIC: [2] Declaration of Mapi\Controller\DevicesController::get() should be compatible with Think\Controller::get($name = '') /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 4 行.
+
+[ 2017-02-15T19:00:58+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000067s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000017s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000041s ]
+NOTIC: [2] Declaration of Mapi\Controller\DevicesController::get() should be compatible with Think\Controller::get($name = '') /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 4 行.
+
+[ 2017-02-15T19:01:05+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000084s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000031s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000073s ]
+NOTIC: [2] Declaration of Mapi\Controller\DevicesController::get() should be compatible with Think\Controller::get($name = '') /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 4 行.
+
+[ 2017-02-15T19:03:29+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000119s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000046s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000114s ]
+NOTIC: [2] Declaration of Mapi\Controller\DevicesController::get() should be compatible with Think\Controller::get($name = '') /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 4 行.
+
+[ 2017-02-15T19:05:00+08:00 ] 192.168.2.104 /index.php/mapi/devices/gets/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000054s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000019s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000048s ]
+NOTIC: [2] Declaration of Mapi\Controller\DevicesController::get() should be compatible with Think\Controller::get($name = '') /var/www/mqtt/Application/Mapi/Controller/DevicesController.class.php 第 4 行.
+

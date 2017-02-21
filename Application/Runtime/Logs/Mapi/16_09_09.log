@@ -1,0 +1,486 @@
+[ 2016-09-09T09:51:00+08:00 ] 192.168.2.106 /index.php/mapi/customer/createpost
+ERR: 1364:Field 'token' doesn't have a default value
+ [ SQL语句 ] : INSERT INTO `yh_customer` (`password`,`username`) VALUES ('123456','13810229160')
+
+[ 2016-09-09T09:51:33+08:00 ] 192.168.2.106 /index.php/mapi/customer/createpost
+ERR: 1364:Field 'token' doesn't have a default value
+ [ SQL语句 ] : INSERT INTO `yh_customer` (`password`,`username`) VALUES ('123456','13810229160')
+
+[ 2016-09-09T09:52:11+08:00 ] 192.168.2.106 /index.php/mapi/customer/createpost
+ERR: 1364:Field 'token' doesn't have a default value
+ [ SQL语句 ] : INSERT INTO `yh_customer` (`password`,`username`) VALUES ('123456','13810219167')
+
+[ 2016-09-09T09:53:31+08:00 ] 192.168.2.106 /index.php/mapi/customer/createpost
+ERR: 1364:Field 'token' doesn't have a default value
+ [ SQL语句 ] : INSERT INTO `yh_customer` (`password`,`username`) VALUES ('123456','13810219166')
+
+[ 2016-09-09T09:55:18+08:00 ] 192.168.2.106 /index.php/mapi/customer/createpost
+ERR: 1364:Field 'token' doesn't have a default value
+ [ SQL语句 ] : INSERT INTO `yh_customer` (`password`,`username`) VALUES ('123456','13810219168')
+
+[ 2016-09-09T09:56:52+08:00 ] 192.168.2.106 /index.php/mapi/customer/createpost
+ERR: 1364:Field 'token' doesn't have a default value
+ [ SQL语句 ] : INSERT INTO `yh_customer` (`password`,`username`) VALUES ('123456','13810219160')
+
+[ 2016-09-09T10:02:15+08:00 ] 192.168.2.100 /mapi/customer/createpost
+ERR: 1364:Field 'token' doesn't have a default value
+ [ SQL语句 ] : INSERT INTO `yh_customer` (`password`,`username`) VALUES ('123456','13810219163')
+
+[ 2016-09-09T10:06:39+08:00 ] 127.0.0.1 /mapi/customer/createpost
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000016s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000047s ]
+SQL: SHOW COLUMNS FROM `yh_customer` [ RunTime:0.0003s ]
+SQL: SELECT * FROM `yh_customer` WHERE `username` = '13678908765' LIMIT 1   [ RunTime:0.0001s ]
+NOTIC: [8] Undefined index: auto /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1128 行.
+ERR: 1364:Field 'token' doesn't have a default value
+ [ SQL语句 ] : INSERT INTO `yh_customer` (`username`,`password`) VALUES ('13678908765','1q2w3e4r')
+ERR: 1364:Field 'token' doesn't have a default value
+ [ SQL语句 ] : INSERT INTO `yh_customer` (`username`,`password`) VALUES ('13678908765','1q2w3e4r')
+
+[ 2016-09-09T10:09:23+08:00 ] 192.168.2.100 /mapi/customer/createpost
+ERR: 1364:Field 'user_registered' doesn't have a default value
+ [ SQL语句 ] : INSERT INTO `yh_customer` (`password`,`username`) VALUES ('123456','13810219162')
+
+[ 2016-09-09T10:10:27+08:00 ] 127.0.0.1 /mapi/customer/createpost
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000018s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000050s ]
+SQL: SHOW COLUMNS FROM `yh_customer` [ RunTime:0.0003s ]
+SQL: SELECT * FROM `yh_customer` WHERE `username` = '13456789087' LIMIT 1   [ RunTime:0.0001s ]
+NOTIC: [8] Undefined index: auto /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1128 行.
+ERR: 1364:Field 'user_registered' doesn't have a default value
+ [ SQL语句 ] : INSERT INTO `yh_customer` (`username`,`password`) VALUES ('13456789087','1q2w3e4r')
+ERR: 1364:Field 'user_registered' doesn't have a default value
+ [ SQL语句 ] : INSERT INTO `yh_customer` (`username`,`password`) VALUES ('13456789087','1q2w3e4r')
+
+[ 2016-09-09T10:11:31+08:00 ] 127.0.0.1 /mapi/customer/createpost
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000017s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000050s ]
+SQL: SHOW COLUMNS FROM `yh_customer` [ RunTime:0.0003s ]
+SQL: SELECT * FROM `yh_customer` WHERE `username` = '13467890876' LIMIT 1   [ RunTime:0.0001s ]
+NOTIC: [8] Undefined index: auto /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1128 行.
+ERR: 1364:Field 'user_registered' doesn't have a default value
+ [ SQL语句 ] : INSERT INTO `yh_customer` (`username`,`password`) VALUES ('13467890876','1q2w3e4r')
+ERR: 1364:Field 'user_registered' doesn't have a default value
+ [ SQL语句 ] : INSERT INTO `yh_customer` (`username`,`password`) VALUES ('13467890876','1q2w3e4r')
+
+[ 2016-09-09T10:13:05+08:00 ] 127.0.0.1 /mapi/customer/createpost
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000016s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000046s ]
+SQL: SHOW COLUMNS FROM `yh_customer` [ RunTime:0.0003s ]
+SQL: SELECT * FROM `yh_customer` WHERE `username` = '13567890987' LIMIT 1   [ RunTime:0.0001s ]
+NOTIC: [8] Undefined index: auto /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1128 行.
+ERR: 1364:Field 'user_registered' doesn't have a default value
+ [ SQL语句 ] : INSERT INTO `yh_customer` (`username`,`password`) VALUES ('13567890987','1q2w3e4r')
+ERR: 1364:Field 'user_registered' doesn't have a default value
+ [ SQL语句 ] : INSERT INTO `yh_customer` (`username`,`password`) VALUES ('13567890987','1q2w3e4r')
+
+[ 2016-09-09T10:13:49+08:00 ] 127.0.0.1 /mapi/customer/createpost
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000016s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000048s ]
+SQL: SHOW COLUMNS FROM `yh_customer` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `yh_customer` WHERE `username` = '13567890987' LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [8] Undefined index: auto /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1128 行.
+
+[ 2016-09-09T10:16:41+08:00 ] 127.0.0.1 /mapi/customer/createpost
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000016s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000046s ]
+SQL: SHOW COLUMNS FROM `yh_customer` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `yh_customer` WHERE `username` = '13567890987' LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [8] Undefined index: auto /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1128 行.
+
+[ 2016-09-09T10:18:14+08:00 ] 127.0.0.1 /mapi/customer/createpost
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000016s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000049s ]
+SQL: SHOW COLUMNS FROM `yh_customer` [ RunTime:0.0003s ]
+SQL: SELECT * FROM `yh_customer` WHERE `username` = '15678909876' LIMIT 1   [ RunTime:0.0001s ]
+NOTIC: [8] Undefined index: auto /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1128 行.
+
+[ 2016-09-09T10:18:56+08:00 ] 127.0.0.1 /mapi/customer/createpost
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000017s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000049s ]
+SQL: SHOW COLUMNS FROM `yh_customer` [ RunTime:0.0003s ]
+
+[ 2016-09-09T10:19:24+08:00 ] 127.0.0.1 /mapi/customer/createpost
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000015s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000046s ]
+SQL: SHOW COLUMNS FROM `yh_customer` [ RunTime:0.0003s ]
+
+[ 2016-09-09T10:19:49+08:00 ] 127.0.0.1 /mapi/customer/createpost
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000016s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000047s ]
+SQL: SHOW COLUMNS FROM `yh_customer` [ RunTime:0.0003s ]
+
+[ 2016-09-09T10:19:54+08:00 ] 127.0.0.1 /mapi/customer/createpost
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000016s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000045s ]
+SQL: SHOW COLUMNS FROM `yh_customer` [ RunTime:0.0003s ]
+SQL: SELECT * FROM `yh_customer` WHERE `username` = '15678909678' LIMIT 1   [ RunTime:0.0001s ]
+NOTIC: [8] Undefined index: auto /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1128 行.
+ERR: 1364:Field 'user_registered' doesn't have a default value
+ [ SQL语句 ] : INSERT INTO `yh_customer` (`username`,`password`) VALUES ('15678909678','1q2w3e4r')
+ERR: 1364:Field 'user_registered' doesn't have a default value
+ [ SQL语句 ] : INSERT INTO `yh_customer` (`username`,`password`) VALUES ('15678909678','1q2w3e4r')
+
+[ 2016-09-09T10:20:35+08:00 ] 127.0.0.1 /mapi/customer/createpost
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000032s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000091s ]
+SQL: SHOW COLUMNS FROM `yh_customer` [ RunTime:0.0005s ]
+ERR: 1364:Field 'user_registered' doesn't have a default value
+ [ SQL语句 ] : INSERT INTO `yh_customer` (`username`,`password`) VALUES ('15678909678','5416d7cd6ef195a0f7622a9c56b55e84')
+ERR: 1364:Field 'user_registered' doesn't have a default value
+ [ SQL语句 ] : INSERT INTO `yh_customer` (`username`,`password`) VALUES ('15678909678','5416d7cd6ef195a0f7622a9c56b55e84')
+
+[ 2016-09-09T10:21:52+08:00 ] 127.0.0.1 /mapi/customer/createpost
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000015s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000044s ]
+SQL: SHOW COLUMNS FROM `yh_customer` [ RunTime:0.0003s ]
+SQL: SELECT * FROM `yh_customer` WHERE `username` = '15678909678' LIMIT 1   [ RunTime:0.0001s ]
+NOTIC: [8] Undefined index: auto /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1128 行.
+ERR: 1364:Field 'user_registered' doesn't have a default value
+ [ SQL语句 ] : INSERT INTO `yh_customer` (`username`,`password`) VALUES ('15678909678','1q2w3e4r')
+ERR: 1364:Field 'user_registered' doesn't have a default value
+ [ SQL语句 ] : INSERT INTO `yh_customer` (`username`,`password`) VALUES ('15678909678','1q2w3e4r')
+
+[ 2016-09-09T10:22:56+08:00 ] 127.0.0.1 /mapi/customer/createpost
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000016s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000047s ]
+SQL: SHOW COLUMNS FROM `yh_customer` [ RunTime:0.0003s ]
+SQL: SELECT * FROM `yh_customer` WHERE `username` = '15678909678' LIMIT 1   [ RunTime:0.0001s ]
+NOTIC: [8] Undefined index: auto /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1128 行.
+ERR: 1364:Field 'user_registered' doesn't have a default value
+ [ SQL语句 ] : INSERT INTO `yh_customer` (`username`,`password`) VALUES ('15678909678','1q2w3e4r')
+ERR: 1364:Field 'user_registered' doesn't have a default value
+ [ SQL语句 ] : INSERT INTO `yh_customer` (`username`,`password`) VALUES ('15678909678','1q2w3e4r')
+
+[ 2016-09-09T10:23:31+08:00 ] 127.0.0.1 /mapi/customer/createpost
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000016s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000046s ]
+SQL: SHOW COLUMNS FROM `yh_customer` [ RunTime:0.0003s ]
+ERR: 1364:Field 'user_registered' doesn't have a default value
+ [ SQL语句 ] : INSERT INTO `yh_customer` (`username`,`password`) VALUES ('15678909678','5416d7cd6ef195a0f7622a9c56b55e84')
+ERR: 1364:Field 'user_registered' doesn't have a default value
+ [ SQL语句 ] : INSERT INTO `yh_customer` (`username`,`password`) VALUES ('15678909678','5416d7cd6ef195a0f7622a9c56b55e84')
+
+[ 2016-09-09T10:24:14+08:00 ] 127.0.0.1 /mapi/customer/createpost
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000016s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000055s ]
+SQL: SHOW COLUMNS FROM `yh_customer` [ RunTime:0.0003s ]
+SQL: SELECT * FROM `yh_customer` WHERE `username` = '15678909678' LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [8] Undefined index: auto /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1128 行.
+ERR: 1364:Field 'user_registered' doesn't have a default value
+ [ SQL语句 ] : INSERT INTO `yh_customer` (`username`,`password`) VALUES ('15678909678','1q2w3e4r')
+ERR: 1364:Field 'user_registered' doesn't have a default value
+ [ SQL语句 ] : INSERT INTO `yh_customer` (`username`,`password`) VALUES ('15678909678','1q2w3e4r')
+
+[ 2016-09-09T10:25:17+08:00 ] 127.0.0.1 /mapi/customer/createpost
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000014s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000044s ]
+SQL: SHOW COLUMNS FROM `yh_customer` [ RunTime:0.0003s ]
+SQL: SELECT * FROM `yh_customer` WHERE `username` = '15678909678' LIMIT 1   [ RunTime:0.0001s ]
+NOTIC: [8] Undefined index: auto /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1128 行.
+ERR: 1364:Field 'user_registered' doesn't have a default value
+ [ SQL语句 ] : INSERT INTO `yh_customer` (`username`,`password`) VALUES ('15678909678','1q2w3e4r')
+ERR: 1364:Field 'user_registered' doesn't have a default value
+ [ SQL语句 ] : INSERT INTO `yh_customer` (`username`,`password`) VALUES ('15678909678','1q2w3e4r')
+
+[ 2016-09-09T10:25:26+08:00 ] 127.0.0.1 /mapi/customer/createpost
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000014s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000042s ]
+SQL: SHOW COLUMNS FROM `yh_customer` [ RunTime:0.0003s ]
+SQL: SELECT * FROM `yh_customer` WHERE `username` = '15678909678' LIMIT 1   [ RunTime:0.0001s ]
+NOTIC: [8] Undefined index: auto /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1128 行.
+ERR: 1364:Field 'user_registered' doesn't have a default value
+ [ SQL语句 ] : INSERT INTO `yh_customer` (`username`,`password`) VALUES ('15678909678','1q2w3e4r')
+ERR: 1364:Field 'user_registered' doesn't have a default value
+ [ SQL语句 ] : INSERT INTO `yh_customer` (`username`,`password`) VALUES ('15678909678','1q2w3e4r')
+
+[ 2016-09-09T10:25:40+08:00 ] 127.0.0.1 /mapi/customer/createpost
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000025s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000051s ]
+SQL: SHOW COLUMNS FROM `yh_customer` [ RunTime:0.0003s ]
+SQL: INSERT INTO `yh_customer` (`username`,`password`,`user_registered`) VALUES ('15678909678','5416d7cd6ef195a0f7622a9c56b55e84','1473387940') [ RunTime:0.0001s ]
+SQL: SHOW COLUMNS FROM `yh_customer` [ RunTime:0.0002s ]
+SQL: SELECT * FROM `yh_customer` WHERE `uid` = '25' LIMIT 1   [ RunTime:0.0001s ]
+SQL: UPDATE `yh_customer` SET `token`='2b7a6fad4708222f1afeb5e43dfeef9a' WHERE `uid` = '25' [ RunTime:0.0001s ]
+
+[ 2016-09-09T10:25:52+08:00 ] 127.0.0.1 /mapi/customer/createpost
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000017s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000048s ]
+SQL: SHOW COLUMNS FROM `yh_customer` [ RunTime:0.0003s ]
+SQL: INSERT INTO `yh_customer` (`username`,`password`,`user_registered`) VALUES ('15678909678','5416d7cd6ef195a0f7622a9c56b55e84','1473387952') [ RunTime:0.0001s ]
+SQL: SHOW COLUMNS FROM `yh_customer` [ RunTime:0.0002s ]
+SQL: SELECT * FROM `yh_customer` WHERE `uid` = '26' LIMIT 1   [ RunTime:0.0001s ]
+SQL: UPDATE `yh_customer` SET `token`='59c549a0288118b568e572a99101a639' WHERE `uid` = '26' [ RunTime:0.0001s ]
+
+[ 2016-09-09T10:26:05+08:00 ] 127.0.0.1 /mapi/customer/createpost
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000016s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000049s ]
+SQL: SHOW COLUMNS FROM `yh_customer` [ RunTime:0.0003s ]
+SQL: SELECT * FROM `yh_customer` WHERE `username` = '15678909678' LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-09-09T10:26:11+08:00 ] 127.0.0.1 /mapi/customer/createpost
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000016s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000047s ]
+SQL: SHOW COLUMNS FROM `yh_customer` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `yh_customer` WHERE `username` = '15678909674' LIMIT 1   [ RunTime:0.0001s ]
+NOTIC: [8] Undefined index: auto /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1128 行.
+ERR: 1364:Field 'user_registered' doesn't have a default value
+ [ SQL语句 ] : INSERT INTO `yh_customer` (`username`,`password`) VALUES ('15678909674','1q2w3e4r')
+ERR: 1364:Field 'user_registered' doesn't have a default value
+ [ SQL语句 ] : INSERT INTO `yh_customer` (`username`,`password`) VALUES ('15678909674','1q2w3e4r')
+
+[ 2016-09-09T10:26:24+08:00 ] 127.0.0.1 /mapi/customer/createpost
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000015s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000041s ]
+SQL: SHOW COLUMNS FROM `yh_customer` [ RunTime:0.0003s ]
+SQL: SELECT * FROM `yh_customer` WHERE `username` = '15678909674' LIMIT 1   [ RunTime:0.0001s ]
+NOTIC: [8] Undefined index: auto /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1128 行.
+ERR: 1364:Field 'user_registered' doesn't have a default value
+ [ SQL语句 ] : INSERT INTO `yh_customer` (`username`,`password`) VALUES ('15678909674','1q2w3e4r')
+ERR: 1364:Field 'user_registered' doesn't have a default value
+ [ SQL语句 ] : INSERT INTO `yh_customer` (`username`,`password`) VALUES ('15678909674','1q2w3e4r')
+
+[ 2016-09-09T10:27:06+08:00 ] 127.0.0.1 /mapi/customer/createpost
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000018s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000051s ]
+SQL: SHOW COLUMNS FROM `yh_customer` [ RunTime:0.0003s ]
+SQL: INSERT INTO `yh_customer` (`username`,`password`,`user_registered`) VALUES ('14567890987','5416d7cd6ef195a0f7622a9c56b55e84','1473388026') [ RunTime:0.0001s ]
+SQL: SHOW COLUMNS FROM `yh_customer` [ RunTime:0.0002s ]
+SQL: SELECT * FROM `yh_customer` WHERE `uid` = '27' LIMIT 1   [ RunTime:0.0001s ]
+SQL: UPDATE `yh_customer` SET `token`='e305054a9de3da93a9c1dd4695c1e54c' WHERE `uid` = '27' [ RunTime:0.0001s ]
+
+[ 2016-09-09T10:28:05+08:00 ] 127.0.0.1 /mapi/customer/createpost
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000014s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000042s ]
+SQL: SHOW COLUMNS FROM `yh_customer` [ RunTime:0.0003s ]
+SQL: SELECT * FROM `yh_customer` WHERE `username` = '14567890987' LIMIT 1   [ RunTime:0.0001s ]
+
+[ 2016-09-09T10:28:10+08:00 ] 127.0.0.1 /mapi/customer/createpost
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000016s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000047s ]
+SQL: SHOW COLUMNS FROM `yh_customer` [ RunTime:0.0003s ]
+SQL: SELECT * FROM `yh_customer` WHERE `username` = '14567890980' LIMIT 1   [ RunTime:0.0001s ]
+NOTIC: [8] Undefined index: auto /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1128 行.
+ERR: 1364:Field 'user_registered' doesn't have a default value
+ [ SQL语句 ] : INSERT INTO `yh_customer` (`username`,`password`) VALUES ('14567890980','1q2w3e4r')
+ERR: 1364:Field 'user_registered' doesn't have a default value
+ [ SQL语句 ] : INSERT INTO `yh_customer` (`username`,`password`) VALUES ('14567890980','1q2w3e4r')
+
+[ 2016-09-09T10:29:23+08:00 ] 127.0.0.1 /mapi/customer/createpost
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000015s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000044s ]
+SQL: SHOW COLUMNS FROM `yh_customer` [ RunTime:0.0003s ]
+SQL: INSERT INTO `yh_customer` (`username`,`password`,`user_registered`) VALUES ('14567890980','5416d7cd6ef195a0f7622a9c56b55e84','1473388163') [ RunTime:0.0001s ]
+SQL: SHOW COLUMNS FROM `yh_customer` [ RunTime:0.0002s ]
+SQL: SELECT * FROM `yh_customer` WHERE `uid` = '28' LIMIT 1   [ RunTime:0.0001s ]
+SQL: UPDATE `yh_customer` SET `token`='5096d9f5539b40b1ddf4af9a96d1f7cf' WHERE `uid` = '28' [ RunTime:0.0001s ]
+
+[ 2016-09-09T10:31:41+08:00 ] 127.0.0.1 /mapi/customer/createpost
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000017s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000049s ]
+SQL: SHOW COLUMNS FROM `yh_customer` [ RunTime:0.0003s ]
+SQL: SELECT * FROM `yh_customer` WHERE `username` = '14567890980' LIMIT 1   [ RunTime:0.0001s ]
+
+[ 2016-09-09T10:31:46+08:00 ] 127.0.0.1 /mapi/customer/createpost
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000017s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000048s ]
+SQL: SHOW COLUMNS FROM `yh_customer` [ RunTime:0.0003s ]
+SQL: SELECT * FROM `yh_customer` WHERE `username` = '14567890987' LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-09-09T10:31:59+08:00 ] 127.0.0.1 /mapi/customer/createpost
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000018s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000049s ]
+SQL: SHOW COLUMNS FROM `yh_customer` [ RunTime:0.0003s ]
+SQL: SELECT * FROM `yh_customer` WHERE `username` = '14567890974' LIMIT 1   [ RunTime:0.0001s ]
+NOTIC: [8] Undefined index: auto /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1128 行.
+ERR: 1364:Field 'user_registered' doesn't have a default value
+ [ SQL语句 ] : INSERT INTO `yh_customer` (`username`,`password`) VALUES ('14567890974','1q2w3e4r')
+ERR: 1364:Field 'user_registered' doesn't have a default value
+ [ SQL语句 ] : INSERT INTO `yh_customer` (`username`,`password`) VALUES ('14567890974','1q2w3e4r')
+
+[ 2016-09-09T10:33:55+08:00 ] 127.0.0.1 /mapi/customer/createpost
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000016s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000049s ]
+SQL: SHOW COLUMNS FROM `yh_customer` [ RunTime:0.0003s ]
+SQL: INSERT INTO `yh_customer` (`username`,`password`,`user_registered`) VALUES ('14567890974','5416d7cd6ef195a0f7622a9c56b55e84','1473388435') [ RunTime:0.0001s ]
+SQL: SHOW COLUMNS FROM `yh_customer` [ RunTime:0.0002s ]
+SQL: SELECT * FROM `yh_customer` WHERE `uid` = '29' LIMIT 1   [ RunTime:0.0001s ]
+SQL: UPDATE `yh_customer` SET `token`='dd0a7ad83a7d7a5ec7f417468771cf6c' WHERE `uid` = '29' [ RunTime:0.0001s ]
+
+[ 2016-09-09T10:35:56+08:00 ] 127.0.0.1 /mapi/customer/createpost
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000017s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000048s ]
+SQL: SHOW COLUMNS FROM `yh_customer` [ RunTime:0.0003s ]
+SQL: SELECT * FROM `yh_customer` WHERE `username` = '14567890974' LIMIT 1   [ RunTime:0.0001s ]
+
+[ 2016-09-09T10:36:00+08:00 ] 127.0.0.1 /mapi/customer/createpost
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000016s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000048s ]
+SQL: SHOW COLUMNS FROM `yh_customer` [ RunTime:0.0003s ]
+SQL: SELECT * FROM `yh_customer` WHERE `username` = '14567890955' LIMIT 1   [ RunTime:0.0001s ]
+NOTIC: [8] Undefined index: auto /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1128 行.
+ERR: 1364:Field 'user_registered' doesn't have a default value
+ [ SQL语句 ] : INSERT INTO `yh_customer` (`username`,`password`) VALUES ('14567890955','1q2w3e4r')
+ERR: 1364:Field 'user_registered' doesn't have a default value
+ [ SQL语句 ] : INSERT INTO `yh_customer` (`username`,`password`) VALUES ('14567890955','1q2w3e4r')
+
+[ 2016-09-09T10:42:00+08:00 ] 127.0.0.1 /mapi/customer/createpost
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000017s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000049s ]
+SQL: SHOW COLUMNS FROM `yh_customer` [ RunTime:0.0003s ]
+SQL: SELECT * FROM `yh_customer` WHERE `username` = '14567890955' LIMIT 1   [ RunTime:0.0001s ]
+NOTIC: [8] Undefined index: auto /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1128 行.
+ERR: 1364:Field 'user_registered' doesn't have a default value
+ [ SQL语句 ] : INSERT INTO `yh_customer` (`username`,`password`) VALUES ('14567890955','1q2w3e4r')
+ERR: 1364:Field 'user_registered' doesn't have a default value
+ [ SQL语句 ] : INSERT INTO `yh_customer` (`username`,`password`) VALUES ('14567890955','1q2w3e4r')
+
+[ 2016-09-09T10:42:12+08:00 ] 127.0.0.1 /mapi/customer/createpost
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000018s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000051s ]
+SQL: SHOW COLUMNS FROM `yh_customer` [ RunTime:0.0003s ]
+SQL: INSERT INTO `yh_customer` (`username`,`password`,`user_registered`) VALUES ('14567890955','5416d7cd6ef195a0f7622a9c56b55e84','1473388932') [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `yh_customer` [ RunTime:0.0002s ]
+SQL: SELECT * FROM `yh_customer` WHERE `uid` = '30' LIMIT 1   [ RunTime:0.0001s ]
+SQL: UPDATE `yh_customer` SET `token`='071476870d45dedaad503592d0edd376' WHERE `uid` = '30' [ RunTime:0.0001s ]
+
+[ 2016-09-09T10:46:40+08:00 ] 127.0.0.1 /mapi/customer/createpost
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000017s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000048s ]
+SQL: SHOW COLUMNS FROM `yh_customer` [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+SQL: SELECT * FROM `yh_customer` WHERE `username` = '14567890955' LIMIT 1   [ RunTime:0.0001s ]
+
+[ 2016-09-09T10:46:46+08:00 ] 127.0.0.1 /mapi/customer/createpost
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000018s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000059s ]
+SQL: SHOW COLUMNS FROM `yh_customer` [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+SQL: SELECT * FROM `yh_customer` WHERE `username` = '14567890977' LIMIT 1   [ RunTime:0.0001s ]
+NOTIC: [8] Undefined index: auto /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1128 行.
+ERR: 1364:Field 'user_registered' doesn't have a default value
+ [ SQL语句 ] : INSERT INTO `yh_customer` (`username`,`password`) VALUES ('14567890977','1q2w3e4r')
+ERR: 1364:Field 'user_registered' doesn't have a default value
+ [ SQL语句 ] : INSERT INTO `yh_customer` (`username`,`password`) VALUES ('14567890977','1q2w3e4r')
+
+[ 2016-09-09T10:48:45+08:00 ] 127.0.0.1 /mapi/customer/createpost
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000026s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000079s ]
+SQL: SHOW COLUMNS FROM `yh_customer` [ RunTime:0.0003s ]
+SQL: SELECT * FROM `yh_customer` WHERE `username` = '13658945789' LIMIT 1   [ RunTime:0.0001s ]
+NOTIC: [8] Undefined index: auto /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1128 行.
+ERR: 1364:Field 'user_registered' doesn't have a default value
+ [ SQL语句 ] : INSERT INTO `yh_customer` (`username`,`password`) VALUES ('13658945789','1q2w3e4r')
+ERR: 1364:Field 'user_registered' doesn't have a default value
+ [ SQL语句 ] : INSERT INTO `yh_customer` (`username`,`password`) VALUES ('13658945789','1q2w3e4r')
+
+[ 2016-09-09T10:50:26+08:00 ] 127.0.0.1 /mapi/customer/createpost
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000018s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000052s ]
+SQL: SHOW COLUMNS FROM `yh_customer` [ RunTime:0.0003s ]
+SQL: SELECT * FROM `yh_customer` WHERE `username` = '13607986574' LIMIT 1   [ RunTime:0.0001s ]
+NOTIC: [8] Undefined index: auto /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1128 行.
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+SQL: INSERT INTO `yh_customer` (`username`,`password`,`user_registered`) VALUES ('13607986574','5416d7cd6ef195a0f7622a9c56b55e84','1473389426') [ RunTime:0.0001s ]
+SQL: SHOW COLUMNS FROM `yh_customer` [ RunTime:0.0002s ]
+SQL: SELECT * FROM `yh_customer` WHERE `uid` = '31' LIMIT 1   [ RunTime:0.0001s ]
+SQL: UPDATE `yh_customer` SET `token`='56b30c216c094e662f1d59337b462b8c' WHERE `uid` = '31' [ RunTime:0.0001s ]
+
+[ 2016-09-09T10:54:00+08:00 ] 127.0.0.1 /mapi/customer/createpost
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000017s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000049s ]
+SQL: SHOW COLUMNS FROM `yh_customer` [ RunTime:0.0003s ]
+SQL: SELECT * FROM `yh_customer` WHERE `username` = '13607986574' LIMIT 1   [ RunTime:0.0001s ]
+
+[ 2016-09-09T14:02:01+08:00 ] 127.0.0.1 /mapi/customer/createpost
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000017s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000047s ]
+SQL: SHOW COLUMNS FROM `yh_customer` [ RunTime:0.0003s ]
+SQL: SELECT * FROM `yh_customer` WHERE `username` = '14567890987' LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-09-09T14:02:12+08:00 ] 127.0.0.1 /mapi/customer/createpost
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000017s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000049s ]
+SQL: SHOW COLUMNS FROM `yh_customer` [ RunTime:0.0003s ]
+SQL: SELECT * FROM `yh_customer` WHERE `username` = '14567890966' LIMIT 1   [ RunTime:0.0001s ]
+NOTIC: [8] Undefined index: auto /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1128 行.
+NOTIC: [8] Undefined index: validate /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1185 行.
+SQL: INSERT INTO `yh_customer` (`username`,`password`,`user_registered`) VALUES ('14567890966','5416d7cd6ef195a0f7622a9c56b55e84','1473400932') [ RunTime:0.0001s ]
+SQL: SHOW COLUMNS FROM `yh_customer` [ RunTime:0.0002s ]
+SQL: SELECT * FROM `yh_customer` WHERE `uid` = '35' LIMIT 1   [ RunTime:0.0001s ]
+SQL: UPDATE `yh_customer` SET `token`='70cb60c644564870b5b5c00c1ae4a531' WHERE `uid` = '35' [ RunTime:0.0001s ]
+
+[ 2016-09-09T14:04:45+08:00 ] 127.0.0.1 /mapi/customer/logout
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000017s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000049s ]
+SQL: SHOW COLUMNS FROM `yh_customer` [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: uid /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1303 行.
+NOTIC: [8] Undefined index: uid /var/www/mqtt/Application/Mapi/Controller/CustomerController.class.php 第 106 行.
+
+[ 2016-09-09T14:05:23+08:00 ] 127.0.0.1 /mapi/customer/logout
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000016s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000046s ]
+SQL: SHOW COLUMNS FROM `yh_customer` [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: uid /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1303 行.
+
+[ 2016-09-09T14:06:05+08:00 ] 127.0.0.1 /mapi/customer/logout
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000017s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000049s ]
+SQL: SHOW COLUMNS FROM `yh_customer` [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: auto /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1128 行.
+SQL: SELECT * FROM `yh_customer` WHERE `uid` = '35' AND `token` = '70cb60c644564870b5b5c00c1ae4a531' LIMIT 1   [ RunTime:0.0001s ]
+
+[ 2016-09-09T14:06:21+08:00 ] 127.0.0.1 /mapi/customer/logout
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000015s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000047s ]
+SQL: SHOW COLUMNS FROM `yh_customer` [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: auto /var/www/mqtt/ThinkPHP/Library/Think/Model.class.php 第 1128 行.
+SQL: SELECT * FROM `yh_customer` WHERE `uid` = '35' AND `token` = '70cb60c644564870b5b5c00c1ae4a531' LIMIT 1   [ RunTime:0.0002s ]
+SQL: UPDATE `yh_customer` SET `token`='' WHERE `uid` = '35' [ RunTime:0.0001s ]
+

@@ -1,0 +1,25 @@
+<extend name="Public/layout" />
+<block name="content">
+    <div class="page-content">
+        <h1>用户 <{$customer.username}></h1>
+
+        <form action="" method="post" role="form" data-toggle="validator">
+            <div class="form-holder">
+                <div class="entry form-group">
+                    <label for="password">密码</label>
+                    <input type="text" name="password" id="password" placeholder="Please enter 6-30 characters" pattern="^.{5,30}.*[^ ].*$" required data-error="Password is invalid." />
+                    <div class="help-block with-errors"></div>
+                </div>
+                <div class="entry form-group">
+                    <label for="repassword">确认密码</label>
+                    <input type="text" name="repassword" id="repassword" placeholder="Please enter 6-30 characters" data-match="#password" data-match-error="Password not match." required data-error="Password is invalid." />
+                    <div class="help-block with-errors"></div>
+                </div>
+                <input type="hidden" name="uid" value="<{$customer.uid}>" />
+            </div>
+            <div class="btn-set btn-right">
+                <a href="#" class="btn btn-add">保存</a>
+            </div>
+        </form>
+    </div>
+</block>

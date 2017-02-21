@@ -1,0 +1,15 @@
+[ 2016-08-11T14:35:55+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000047s ]
+ERR: 无法加载模块:Favicon
+
+[ 2016-08-11T17:46:59+08:00 ] 127.0.0.1 /Public/css/reset.css
+ERR: 无法加载模块:Public
+
+[ 2016-08-11T17:46:59+08:00 ] 127.0.0.1 /Public/css/login.css
+ERR: 无法加载模块:Public
+
+[ 2016-08-11T17:47:00+08:00 ] 127.0.0.1 /Public/favicon.ico
+ERR: 无法加载模块:Public
+
